@@ -1,0 +1,40 @@
+{"['https://github.com/CIRCSE/LiLa_Lemma-Bank']":{}}
+{"LiLa Lemma Bank":{}}
+{"http://lila-erc.eu/data/id/lemma/LemmaBank":{}}
+{"The Lemma Bank is a collection of approximately 200.000 canonical forms for Latin that is used to interlink the linguistic resources in the LiLa Knowledge Base. The canonical forms are modeled using the Ontolex ontology.":{}}
+{"https://lila-erc.eu/sparql/lila_knowledge_base/sparql":{}}
+{"Number of triples":{"dimension":"Amount of data"}}
+{"Web:http://lila-erc.eu/data/id/lemma/LemmaBank Name:Marco Passarotti Email:marco.passarotti@unicatt.it":{}}
+{"LemmaBank":{}}
+{"Coronavirus dataset":{}}
+{"Currency":{"dimension":"Dataset dynamicity"}}
+{"Amount of data":{"dimension":"Contextual"}}
+{"['https://doi.org/10.4230/dblp.rdf.ntriples'. 'https://dblp.org/rdf/dblp.ttl.gz']":{}}
+{"URL for download the dataset":{"description":"Checking whether the data is available as a SPARQL endpoint and is available for download as an RDF dump","input":"(working) SPARQL endpoint or Metadata or VoID file","output":"[]: if the sparql endpoint or rdf dump is not online;  list of links: if SPARQL endpoint and RDF dump are online.","dimension":"Versatility"}}
+{"Percentage of triples with labels":{"dimension":"Understandability"}}
+{"2811476 (out of 1000000 triples considered)":{}}
+{"A2-M Registered in search engines":{"description":"Registered in search engines","input":"Metadata","output":"1: dataset registered in any search engine; 0: otherwise","dimension":"FAIR"}}
+{"https://sparql.dblp.org/sparql":{}}
+{"['Name:LASLA. value:1745314'. 'Name:AugustiniConfessiones. value:77580'. 'Name:CompHistSem. value:1058077'. 'Name:CorpusFibonacci. value:16117'. 'Name:DanteLatinLoanwords. value:765'. 'Name:EtymologicalDictionaryofLatin. value:1452'. 'Name:IGVLL. value:1759'. 'Name:IndexThomisticusTreebank. value:403526'. 'Name:LatinAffectus. value:5172'. 'Name:LatinWordnetLiLa. value:8536']":{}}
+{"http://data.allie.dbcls.jp/sparql":{}}
+{"http://dati.camera.it/sparql":{}}
+{"I3-D Degree of connection":{"description":"Degree of connection","input":"Data","output":"1: contains link to another dataset; 0: otherwise","dimension":"FAIR"}}
+{"Timeliness":{"dimension":"Dataset dynamicity"}}
+{"Dataset URL":{"description":"Dataset URL","input":"(working) SPARQL endpoint or Metadata or VoID file","output":"url: the dataset url; absent: if the dataset url can't be retrieved","dimension":"Believability"}}
+{"Representational conciseness":{"dimension":"Representational"}}
+{"Amount of data score":{"description":"Overall score for the amount of data dimension computed as a linear combination of the individual amount of data metrics scores","input":"Amount of data metrics scores","output":"[0,1]. Best value: 1.","dimension":"Amount of data"}}
+{"Number of samAs chains":{"description":"detection of (a) interlinking degree, (b) clustering coefficient, (c) centrality, (d) open sameAs chains and (e) description richness through sameAs by using network measures","input":"Metadata","output":"False: no sameAs chains in the dataset; -: the SPARQL endpoint is missing; integer: number of sameAs chains in the dataset.","dimension":"Interlinking"}}
+{"Standard deviation lenght URIs (predicate)":{"dimension":"Representational conciseness"}}
+{"['https://dblp.org/rdf/schema#AmbiguousCreator'. 'https://dblp.org/rdf/schema#Article'. 'https://dblp.org/rdf/schema#AuthorSignature'. 'https://dblp.org/rdf/schema#Book'. 'https://dblp.org/rdf/schema#Conference'. 'https://dblp.org/rdf/schema#Creator'. 'https://dblp.org/rdf/schema#Data'. 'https://dblp.org/rdf/schema#Editorship'. 'https://dblp.org/rdf/schema#EditorSignature'. 'https://dblp.org/rdf/schema#Group'. 'https://dblp.org/rdf/schema#Incollection'. 'https://dblp.org/rdf/schema#Informal'. 'https://dblp.org/rdf/schema#Inproceedings'. 'https://dblp.org/rdf/schema#Journal'. 'https://dblp.org/rdf/schema#Person'. 'https://dblp.org/rdf/schema#Publication'. 'https://dblp.org/rdf/schema#Reference'. 'https://dblp.org/rdf/schema#Repository'. 'https://dblp.org/rdf/schema#Series'. 'https://dblp.org/rdf/schema#Signature'. 'https://dblp.org/rdf/schema#Stream'. 'https://dblp.org/rdf/schema#VersionRelation'. 'https://dblp.org/rdf/schema#Withdrawn']":{}}
+{"allie-abbreviation-and-long-form-database-in-life-science":{}}
+{"['ftp://ftp.dbcls.jp/allie/allie_rdf/allie_rdf_nt_latest.gz']":{}}
+{"License human redeable":{"description":"Detection of a license in the documentation of the dataset","input":"(working) SPARQL endpoint","output":"True: the human readable license is indicated; False: the human readable license is not indicated; -: The SPARQL endpoint is missing.","dimension":"Licensing"}}
+{"[''. 'text/turtle'. 'text/turtle'. 'meta/rdf-schema'. 'meta/rdf-schema']":{}}
+{"Standard deviation lenght URIs (object)":{"dimension":"Representational conciseness"}}
+{"dblp Knowledge Graph":{}}
+{"http://micro.semweb.csdb.cn/sparql":{}}
+{"Number of triples (query)":{"description":"Number of triples","input":"(working) SPARQL endpoint","output":"integer: the number of triples; -: The SPARQL endpoint is missing.","dimension":"Amount of data"}}
+{"['text/html; charset=UTF-8'. 'meta/rdf-schema'. 'meta/rdf-schema']":{}}
+{"Standard deviation length URIs (subject)":{"dimension":"Representational conciseness"}}
+{"['http://uri.dbcls.rois.ac.jp/']":{}}
+{"Sources":{"description":"stating the author and his contributors, the publisher of the data and its sources","input":"Metadata","output":"string: the website, the name and the email of the source; False: if the sources are not indicated.","dimension":"Verifiability"}}

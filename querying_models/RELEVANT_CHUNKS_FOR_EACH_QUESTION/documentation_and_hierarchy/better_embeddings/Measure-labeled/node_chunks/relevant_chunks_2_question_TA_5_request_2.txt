@@ -1,0 +1,40 @@
+{"allie-abbreviation-and-long-form-database-in-life-science":{}}
+{"A database of abbreviations and long forms utilized in Lifesciences. It provides a solution to the issue that many abbreviations are used in the literature. and polysemous or synonymous abbreviations appear frequently. making it difficult to read and understand scientific papers that are not relevant to the reader's expertise. Allie contains abbreviations and their corresponding long forms extracted from titles and abstracts in the entire MEDLINE\u00ae. a database of the U.S. National Library of Medicine. MEDLINE stores over 20 million bibliographic information in life science and is suitable for extracting domain specific abbreviations and their long forms appearing in actual literature.":{}}
+{"Allie Abbreviation And Long Form Database in Life Science":{}}
+{"2025-09-01":{}}
+{"['ftp://ftp.dbcls.jp/allie/allie_rdf/allie_rdf_nt_latest.gz']":{}}
+{"2025-06-01":{}}
+{"2025-08-03":{}}
+{"['ftp://ftp.dbcls.jp/allie/allie_rdf/allie_rdf_nt_latest.gz'. 'ftp://ftp.dbcls.jp/allie/allie_rdf/']":{}}
+{"2025-09-07":{}}
+{"http://data.allie.dbcls.jp/sparql":{}}
+{"2024-02-08":{}}
+{"2025-08-04":{}}
+{"2025-04-17":{}}
+{"2025-07-13":{}}
+{"Coronavirus dataset":{}}
+{"2025-07-18":{}}
+{"A2-M Registered in search engines":{"description":"Registered in search engines","input":"Metadata","output":"1: dataset registered in any search engine; 0: otherwise","dimension":"FAIR"}}
+{"['http://purl.org/allie/ontology/201108#']":{}}
+{"2025-05-04":{}}
+{"URL for download the dataset":{"description":"Checking whether the data is available as a SPARQL endpoint and is available for download as an RDF dump","input":"(working) SPARQL endpoint or Metadata or VoID file","output":"[]: if the sparql endpoint or rdf dump is not online;  list of links: if SPARQL endpoint and RDF dump are online.","dimension":"Versatility"}}
+{"http://allie.dbcls.jp/":{}}
+{"2811476 (out of 1000000 triples considered)":{}}
+{"2011-08-01":{}}
+{"A1-D Working access point(s)":{"description":"Working access point(s)","input":"Data","output":"1: operational SPARQL or accessible data dump; 0.5: accessible SPARQL endpoint or data dump; 0: otherwise","dimension":"FAIR"}}
+{"WordNet 2.0 (W3C)":{}}
+{"https://sparql.dblp.org/sparql":{}}
+{"Dataset update frequency":{"description":"it corresponds to the 'stating the [...] frequency of data validation'","input":"(working) SPARQL endpoint","output":"[]: the update frequency is not indicated; -: the SPARQL endpoint is missing; list of strings: the update frequency is indicated.","dimension":"Timeliness"}}
+{"New vocabularies defined in the dataset":{"description":"usage of established vocabularies","input":"(working) SPARQL endpoint","output":"[]: if no new vocabulary is defined; -: the SPARQL endpoint is missing; list of new vocabularies: if at least a new vocabulary is defined.","dimension":"Interoperability"}}
+{"Median length URIs (subject)":{"dimension":"Representational conciseness"}}
+{"Timeliness":{"dimension":"Dataset dynamicity"}}
+{"Median length URIs (object)":{"dimension":"Representational conciseness"}}
+{"dblp Knowledge Graph":{}}
+{"['https://doi.org/10.4230/dblp.rdf.ntriples'. 'https://dblp.org/rdf/dblp.ttl.gz']":{}}
+{"https://dblp.org":{}}
+{"[''. 'text/turtle'. 'text/turtle'. 'meta/rdf-schema'. 'meta/rdf-schema']":{}}
+{"Median length URIs (predicate)":{"dimension":"Representational conciseness"}}
+{"['text/html; charset=UTF-8'. 'meta/rdf-schema'. 'meta/rdf-schema']":{}}
+{"Standard deviation lenght URIs (object)":{"dimension":"Representational conciseness"}}
+{"Standard deviation length URIs (subject)":{"dimension":"Representational conciseness"}}
+'. '2024-09-16|0'. '2024-09-17|0'. '2024-09-18|0'. '2024-09-19|0'. '2024-09-20|0'. '2024-09-21|0'. '2024-09-22|0'. '2024-09-23|0'. '2024-09-24|0'. '2024-09-25|0'. '2024-09-26|0'. '2024-09-27|0'. '2024-09-28|0'. '2024-09-29|0'. '2024-09-30|0'. '2024-10-01|0'. '2024-10-02|0'. '2024-10-03|0'. '2024-10-07|0'. '2024-10-08|0'. '2024-10-09|0'. '2024-10-10|0'. '2024-10-16|0'. '2024-10-17|0'. '2024-11-09|0'. '2024-11-20|0'. '2024-11-21|0'. '2024-11-22|0'. '2024-11-26|0'. '2024-11-28|0'. '2024-11-29|0'. '2024-12-01|0'. '2024-12-02|0'. '2024-12-03|0'. '2024-12-04|0'. '2024-12-07|0'. '2024-12-10|0'. '2024-12-20|0'. '2024-12-23|0'. '2024-12-24|0'. '2025-01-02|0'. '2025-01-03|0'. '2025-01-05|0'. '2025-01-06|0'. '2025-01-07|0'. '2025-01-22|0'. '2025-01-23|0'. '2025-01-25|0'. '2025-01-29|0'. '2025-01-30|0'. '2025-02-04|0'. '2025-02-09|0'. '2025-02-13|0'. '2025-02-14|0'. '2025-02-17|0'. '2025-02-20|0'. '2025-02-21|0'. '2025-02-22|0'. '2025-02-23|0'. '2025-02-24|0'. '2025-02-25|0'. '2025-03-16|0'. '2025-03-18|0'. '2025-03-21|0'. '2025-04-03|0'. '2025-04-07|0'. '2025-04-08|0'. '2025-04-09|0'. '2025-04-16|0'. '2025-04-17|0']":{}}

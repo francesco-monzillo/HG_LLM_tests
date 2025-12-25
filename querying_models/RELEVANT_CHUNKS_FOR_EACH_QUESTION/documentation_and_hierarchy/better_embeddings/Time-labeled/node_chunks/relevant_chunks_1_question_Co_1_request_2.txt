@@ -1,0 +1,40 @@
+{"2811476 (out of 1000000 triples considered)":{}}
+{" Percentage of triples with labels":{}}
+{" Number of triples (metadata)":{}}
+{"Representational-Conciseness score":{}}
+{"_reuse_of_existing_vocabularies":{}}
+{"_accessing_of_data_in_different_ways":{}}
+{"_indication_of_metadata":{}}
+{"Coronavirus dataset":{}}
+{"_age_of_data_specified":{}}
+{"_high_throughput":{}}
+{"['https://doi.org/10.4230/dblp.rdf.ntriples'. 'https://dblp.org/rdf/dblp.ttl.gz']":{}}
+{"75th percentile length URIs (object)":{}}
+{"25th percentile length URIs (object)":{}}
+{"A2-M Registered in search engines":{"description":"Registered in search engines","input":"Metadata","output":"1: dataset registered in any search engine; 0: otherwise","dimension":"FAIR"}}
+{"_sources_specified":{}}
+{"25th percentile throughput":{}}
+{"https://creativecommons.org/licenses/by-sa/3.0/":{}}
+{"Representational-Consistency score":{"dimension":"Interoperability"}}
+{"75th percentile throughput":{}}
+{"['text/html; charset=UTF-8'. 'meta/rdf-schema'. 'meta/rdf-schema']":{}}
+{"75th percentile latency":{}}
+{"dblp Knowledge Graph":{}}
+{"http://creativecommons.org/licenses/by/4.0/":{}}
+{"_dataset_update_frequency_specified":{}}
+{"25th percentile latency":{}}
+{"http://data.allie.dbcls.jp/sparql":{}}
+{"_skos_mapping_frequency":{}}
+{"_human_readable_labelling":{}}
+{"['text/html; charset=UTF-8']":{}}
+{"2025-08-04":{}}
+{"Uses RDF structures":{"dimension":"Interpretability"}}
+{"_level_of_detail_specified":{}}
+{"2024-02-08":{}}
+{"External links":{"dimension":"Interlinking"}}
+{"_authors_specified":{}}
+{"U5-value":{}}
+{"2025-07-18":{}}
+{"http://dati.camera.it/sparql":{}}
+{"_publishers_specified":{}}
+{"[''. '']":{}}

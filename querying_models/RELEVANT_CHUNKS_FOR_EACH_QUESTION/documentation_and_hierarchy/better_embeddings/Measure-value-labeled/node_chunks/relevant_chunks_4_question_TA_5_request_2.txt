@@ -1,0 +1,40 @@
+{"allie-abbreviation-and-long-form-database-in-life-science":{}}
+{"_age_of_data_specified":{}}
+{"25th percentile length URIs (object)":{}}
+{"75th percentile length URIs (object)":{}}
+{"_time_elapsed_since_last_modification_specified":{}}
+{"_dataset_update_frequency_specified":{}}
+{"25th percentile length URIs (predicate)":{}}
+{"25th percentile length URIs (subject)":{}}
+{"75th percentile length URIs (predicate)":{}}
+{"75th percentile length URIs (subject)":{}}
+{"2025-06-01":{}}
+{"Standard deviation lenght URIs (subject)":{}}
+{"2025-08-03":{}}
+{"2025-09-07":{}}
+{"Offline dumps":{}}
+{"2025-07-13":{}}
+{"Historical updates":{}}
+{"A2-M Registered in search engines":{"description":"Registered in search engines","input":"Metadata","output":"1: dataset registered in any search engine; 0: otherwise","dimension":"FAIR"}}
+{" Number of triples (metadata)":{}}
+{"2025-05-04":{}}
+{"URL for download the dataset":{"description":"Checking whether the data is available as a SPARQL endpoint and is available for download as an RDF dump","input":"(working) SPARQL endpoint or Metadata or VoID file","output":"[]: if the sparql endpoint or rdf dump is not online;  list of links: if SPARQL endpoint and RDF dump are online.","dimension":"Versatility"}}
+{"A1-D Working access point(s)":{"description":"Working access point(s)","input":"Data","output":"1: operational SPARQL or accessible data dump; 0.5: accessible SPARQL endpoint or data dump; 0: otherwise","dimension":"FAIR"}}
+{"_indication_of_metadata":{}}
+{"75th percentile latency":{}}
+{"Dataset update frequency":{"description":"it corresponds to the 'stating the [...] frequency of data validation'","input":"(working) SPARQL endpoint","output":"[]: the update frequency is not indicated; -: the SPARQL endpoint is missing; list of strings: the update frequency is indicated.","dimension":"Timeliness"}}
+{"Max length URIs (object)":{}}
+{"New vocabularies defined in the dataset":{"description":"usage of established vocabularies","input":"(working) SPARQL endpoint","output":"[]: if no new vocabulary is defined; -: the SPARQL endpoint is missing; list of new vocabularies: if at least a new vocabulary is defined.","dimension":"Interoperability"}}
+{"Median length URIs (subject)":{"dimension":"Representational conciseness"}}
+{"25th percentile throughput":{}}
+{"25th percentile latency":{}}
+{" Percentage of triples with labels":{}}
+{"Max length URIs (predicate)":{}}
+{"75th percentile throughput":{}}
+{"Median length URIs (object)":{"dimension":"Representational conciseness"}}
+{"_modification_date_of_statements_specified":{}}
+{"_accessing_of_data_in_different_ways":{}}
+{"Median length URIs (predicate)":{"dimension":"Representational conciseness"}}
+{"_high_throughput":{}}
+{"Standard deviation lenght URIs (object)":{"dimension":"Representational conciseness"}}
+{"Min length URIs (object)":{}}

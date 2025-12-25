@@ -1,0 +1,40 @@
+{"Accuracy score":{"description":"Overall score for the accuracy dimension computed as a linear combination of the individual accuracy metrics scores","input":"Accuracy metrics scores","output":"[0,1]. Best value: 1.","dimension":"Accuracy"}}
+{"Representational-Conciseness score":{}}
+{" Percentage of triples with labels":{}}
+{"Verifiability score":{"description":"Overall score for the verifiability dimension computed as a linear combination of the individual verifiability metrics scores","input":"Verifiability metrics scores","output":"[0,1]. Best value: 1.","dimension":"Verifiability"}}
+{"Description":{"dimension":"Believability"}}
+{"Consistency score":{"description":"Overall score for the consistency dimension computed as a linear combination of the individual consistency metrics scores","input":"Consistency metrics scores","output":"[0,1]. Best value: 1.","dimension":"Consistency"}}
+{"Uses RDF structures":{"dimension":"Interpretability"}}
+{"Interpretability score":{"description":"Overall score for the interpretability dimension computed as a linear combination of the individual interpretability metrics scores","input":"Interpretability metrics scores","output":"[0,1]. Best value: 1.","dimension":"Interpretability"}}
+{"Standard deviation of latency":{"dimension":"Performance"}}
+{"Believability score":{"description":"Overall score for the believability dimension computed as a linear combination of the individual believability metrics scores","input":"Believability metrics scores","output":"[0,1]. Best value: 1.","dimension":"Believability"}}
+{"Score":{"description":"Overall quality score computed as a linear combination of all scores of the individual quality dimensions","input":"Quality dimensions scores","output":"[0,1]. Best value: 1."}}
+{"Standard deviation lenght URIs (object)":{"dimension":"Representational conciseness"}}
+{"Average throughput":{"dimension":"Performance"}}
+{"25th percentile throughput":{}}
+{"Representational-Consistency score":{"dimension":"Interoperability"}}
+{"75th percentile throughput":{}}
+{" Standard deviation of throughput":{}}
+{"Standard deviation lenght URIs (predicate)":{"dimension":"Representational conciseness"}}
+{"75th percentile latency":{}}
+{"Understandability score":{"description":"Overall score for the understandability dimension computed as a linear combination of the individual understandability metrics scores","input":"Understandability metrics scores","output":"[0,1]. Best value: 1.","dimension":"Understandability"}}
+{"25th percentile latency":{}}
+{" Number of triples (metadata)":{}}
+{"Average latency":{"dimension":"Performance"}}
+{"Completeness score":{"description":"Overall score for the completeness dimension computed as a linear combination of the individual completeness metrics scores","input":"Completeness metrics scores","output":"[0,1]. Best value: 1.","dimension":"Completeness"}}
+{"_reuse_of_existing_vocabularies":{}}
+{"Normalized score":{"description":"Overall quality score computed as a linear combination of all scores of the individual quality dimensions.","input":"Quality dimensions scores","output":"[0,100]. Best value: 100."}}
+{"_indication_of_metadata":{}}
+{"RC1-value":{}}
+{"Performance score":{"description":"Overall score for the performance dimension computed as a linear combination of the individual performance metrics scores","input":"Performance metrics scores","output":"[0,1]. Best value: 1.","dimension":"Performance"}}
+{"Trust value":{"description":"Meta-information about the identity of information provider","input":"Metadata","output":"float: the trust value;","dimension":"Believability"}}
+{"U5-value":{}}
+{"Amount of data score":{"description":"Overall score for the amount of data dimension computed as a linear combination of the individual amount of data metrics scores","input":"Amount of data metrics scores","output":"[0,1]. Best value: 1.","dimension":"Amount of data"}}
+{"RC2-value":{}}
+{"Median length URIs (subject)":{"dimension":"Representational conciseness"}}
+{"Conciseness score":{"description":"Overall score for the conciseness dimension computed as a linear combination of the individual conciseness metrics scores","input":"Conciseness metrics scores","output":"[0,1]. Best value: 1.","dimension":"Conciseness"}}
+{"U1-value":{}}
+{"_human_readable_labelling":{}}
+{"PE3-value":{}}
+{"Median length URIs (predicate)":{"dimension":"Representational conciseness"}}
+{"Median length URIs (object)":{"dimension":"Representational conciseness"}}

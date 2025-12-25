@@ -1,0 +1,40 @@
+{"NoiPA":{}}
+{"Accuracy":{"dimension":"Intrinsic"}}
+{"https://noipa.mef.gov.it":{}}
+{"Web:https://noipa.mef.gov.it Name:NoiPA Email:black@email.it":{}}
+{"Timeliness":{"dimension":"Dataset dynamicity"}}
+{"Consistency":{"dimension":"Intrinsic"}}
+{"0.0%":{}}
+{"8.992024":{}}
+{"Accuracy score":{"description":"Overall score for the accuracy dimension computed as a linear combination of the individual accuracy metrics scores","input":"Accuracy metrics scores","output":"[0,1]. Best value: 1.","dimension":"Accuracy"}}
+{"False":{}}
+{"2025-05-04":{}}
+{"Completeness":{"dimension":"Contextual"}}
+{"True":{}}
+{"2025-08-03":{}}
+{"2025-08-04":{}}
+{"2025-07-18":{}}
+{"9.063217":{}}
+{"2025-04-17":{}}
+{"2024-02-08":{}}
+{"2025-07-13":{}}
+{"2025-09-07":{}}
+{"10.123721":{}}
+{"2025-09-01":{}}
+{"0.0":{}}
+{"Amount of data":{"dimension":"Contextual"}}
+{"2025-06-01":{}}
+{"10.295021":{}}
+{"9.060253":{}}
+{"['text/html; charset=UTF-8']":{}}
+{"Interpretability":{"dimension":"Representational"}}
+{"http://creativecommons.org/licenses/by/4.0/":{}}
+{"":{}}
+{"https://creativecommons.org/licenses/by-sa/3.0/":{}}
+{"bpr":{}}
+{"https://sparql-noipa.mef.gov.it/sparql":{}}
+{"2011-08-01":{}}
+{"Standard deviation of latency":{"dimension":"Performance"}}
+{"-":{}}
+{"{}":{}}
+{"Conciseness":{"dimension":"Intrinsic"}}

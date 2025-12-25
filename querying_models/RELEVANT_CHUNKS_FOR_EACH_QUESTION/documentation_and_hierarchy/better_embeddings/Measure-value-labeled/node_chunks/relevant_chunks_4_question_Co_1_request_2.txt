@@ -1,0 +1,40 @@
+{" Percentage of triples with labels":{}}
+{" Number of triples (metadata)":{}}
+{"Representational-Conciseness score":{}}
+{"_reuse_of_existing_vocabularies":{}}
+{"_accessing_of_data_in_different_ways":{}}
+{"_indication_of_metadata":{}}
+{"_age_of_data_specified":{}}
+{"_high_throughput":{}}
+{"75th percentile length URIs (object)":{}}
+{"25th percentile length URIs (object)":{}}
+{"A2-M Registered in search engines":{"description":"Registered in search engines","input":"Metadata","output":"1: dataset registered in any search engine; 0: otherwise","dimension":"FAIR"}}
+{"_sources_specified":{}}
+{"25th percentile throughput":{}}
+{"Representational-Consistency score":{"dimension":"Interoperability"}}
+{"75th percentile throughput":{}}
+{"75th percentile latency":{}}
+{"_dataset_update_frequency_specified":{}}
+{"25th percentile latency":{}}
+{"_skos_mapping_frequency":{}}
+{"_human_readable_labelling":{}}
+{"Uses RDF structures":{"dimension":"Interpretability"}}
+{"2025-05-04":{}}
+{"_level_of_detail_specified":{}}
+{"2025-07-13":{}}
+{"External links":{"dimension":"Interlinking"}}
+{"_authors_specified":{}}
+{"2025-08-03":{}}
+{"U5-value":{}}
+{"_publishers_specified":{}}
+{"_contributors_specified":{}}
+{"I3-D Degree of connection":{"description":"Degree of connection","input":"Data","output":"1: contains link to another dataset; 0: otherwise","dimension":"FAIR"}}
+{"2025-09-07":{}}
+{"2025-06-01":{}}
+{"Amount of data score":{"description":"Overall score for the amount of data dimension computed as a linear combination of the individual amount of data metrics scores","input":"Amount of data metrics scores","output":"[0,1]. Best value: 1.","dimension":"Amount of data"}}
+{"Standard deviation lenght URIs (object)":{"dimension":"Representational conciseness"}}
+{"URL for download the dataset":{"description":"Checking whether the data is available as a SPARQL endpoint and is available for download as an RDF dump","input":"(working) SPARQL endpoint or Metadata or VoID file","output":"[]: if the sparql endpoint or rdf dump is not online;  list of links: if SPARQL endpoint and RDF dump are online.","dimension":"Versatility"}}
+{"25th percentile length URIs (predicate)":{}}
+{"Standard deviation lenght URIs (subject)":{}}
+{"75th percentile length URIs (predicate)":{}}
+{"_reuse_of_existing_terms":{}}

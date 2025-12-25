@@ -1,0 +1,40 @@
+{"Verifiability":{"dimension":"Trust"}}
+{"Is on a trusted provider list":{"description":"checking whether the provider/contributor is contained in a list of trusted providers","input":"Metadata","output":"boolean: true if the provider is trusted; false: if the provider is not trusted","dimension":"Believability"}}
+{"Verifiability score":{"description":"Overall score for the verifiability dimension computed as a linear combination of the individual verifiability metrics scores","input":"Verifiability metrics scores","output":"[0,1]. Best value: 1.","dimension":"Verifiability"}}
+{"Trust value":{"description":"Meta-information about the identity of information provider","input":"Metadata","output":"float: the trust value;","dimension":"Believability"}}
+{"Sources":{"description":"stating the author and his contributors, the publisher of the data and its sources","input":"Metadata","output":"string: the website, the name and the email of the source; False: if the sources are not indicated.","dimension":"Verifiability"}}
+{"Believability":{"dimension":"Trust"}}
+{"Author (metadata)":{"description":"stating the author and his contributors, the publisher of the data and its sources","input":"VoID file or metadata","output":"False: if the author is not indicated; string with authors: if the author is indicated.","dimension":"Verifiability"}}
+{"Reputation":{"dimension":"Trust"}}
+{"Author (query)":{"description":"stating the author and his contributors, the publisher of the data and its sources","input":"(working) SPARQL endpoint","output":"[]: if the author is not indicated; -: the SPARQL endpoint is missing; list of authors: if the author is indicated.","dimension":"Verifiability"}}
+{"Security":{"dimension":"Accessibility"}}
+{"Publisher":{"description":"stating the author and his contributors, the publisher of the data and its sources","input":"(working) SPARQL endpoint or VoID file","output":"[]: if the publisher is not indicated; -: the SPARQL endpoint is missing; list of publishers: if the publisher is indicated.","dimension":"Verifiability"}}
+{"Contributor":{"description":"stating the author and his contributors, the publisher of the data and its sources","input":"(working) SPARQL endpoint or VoID file","output":"[]: if the contributors is not indicated; -: the SPARQL endpoint is missing; list of contributors: if the contributors is indicated.","dimension":"Verifiability"}}
+{"Representational-Consistency score":{"dimension":"Interoperability"}}
+{"A1.2 Authentication & HTTPS support":{"description":"Authentication & HTTPS support","input":"(Meta)data","output":"1: security requirements can be discovered via SPARQL; 0: otherwise","dimension":"FAIR"}}
+{"Signed":{"description":"checking whether the dataset is signed","input":"Metadata","output":"boolean: true if the dataset is signed; false: if the dataset is not signed.","dimension":"Verifiability"}}
+{"R1.2 Publisher information such as authors-contributors-publishers and sources":{"description":"Publisher details","input":"(Meta)data","output":"1: publisher info explicitly reported; 0: otherwise","dimension":"FAIR"}}
+{"impossible to verify":{}}
+{"Dataset URL":{"description":"Dataset URL","input":"(working) SPARQL endpoint or Metadata or VoID file","output":"url: the dataset url; absent: if the dataset url can't be retrieved","dimension":"Believability"}}
+{"Interoperability":{"dimension":"Representational"}}
+{"True":{}}
+{"Inactive links":{"dimension":"Availability"}}
+{"Amount of data":{"dimension":"Contextual"}}
+{"Use HTTPS":{"description":"HTTPS support","input":"(working) SPARQL endpoint","output":"False: Does not use HTTPS; True: Uses HTTPS; -: The SPARQL endpoint is missing.","dimension":"Security"}}
+{"Consistency score":{"description":"Overall score for the consistency dimension computed as a linear combination of the individual consistency metrics scores","input":"Consistency metrics scores","output":"[0,1]. Best value: 1.","dimension":"Consistency"}}
+{"False":{}}
+{"Believability score":{"description":"Overall score for the believability dimension computed as a linear combination of the individual believability metrics scores","input":"Believability metrics scores","output":"[0,1]. Best value: 1.","dimension":"Believability"}}
+{"Availability":{"dimension":"Accessibility"}}
+{"Consistency":{"dimension":"Intrinsic"}}
+{"Description":{"dimension":"Believability"}}
+{"['Name:viaf. value:54']":{}}
+{"Number of triples":{"dimension":"Amount of data"}}
+{"Score":{"description":"Overall quality score computed as a linear combination of all scores of the individual quality dimensions","input":"Quality dimensions scores","output":"[0,1]. Best value: 1."}}
+{"VoID file absent":{}}
+{"Licensing":{"dimension":"Accessibility"}}
+{"Accuracy":{"dimension":"Intrinsic"}}
+{"Interoperability score":{"description":"Overall score for the interoperability dimension computed as a linear combination of the individual interoperability metrics scores","input":"Interoperability metrics scores","output":"[0,1]. Best value: 1.","dimension":"Interoperability"}}
+{"R1.1 Machine- or human-readable license retrievable via any primary source":{"description":"Any license retrievable","input":"(Meta)data","output":"1: license explicitly reported; 0: otherwise","dimension":"FAIR"}}
+{"Accuracy score":{"description":"Overall score for the accuracy dimension computed as a linear combination of the individual accuracy metrics scores","input":"Accuracy metrics scores","output":"[0,1]. Best value: 1.","dimension":"Accuracy"}}
+{"Interlinking":{"dimension":"Accessibility"}}
+{"I score":{"description":"Overall Interoperability score computed as a linear combination of all scores of the individual I subprinciples","input":"Interoperability principles scores","output":"[0,1]. Best value: 1.","dimension":"FAIR"}}

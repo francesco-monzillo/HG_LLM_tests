@@ -1,0 +1,40 @@
+{"WordNet 2.0 (W3C)":{}}
+{"http://www.w3.org/TR/wordnet-rdf":{}}
+{"Accuracy score":{"description":"Overall score for the accuracy dimension computed as a linear combination of the individual accuracy metrics scores","input":"Accuracy metrics scores","output":"[0,1]. Best value: 1.","dimension":"Accuracy"}}
+{"Percentage of triples with labels":{"dimension":"Understandability"}}
+{"w3c-wordnet":{}}
+{"Accuracy":{"dimension":"Intrinsic"}}
+{"Web:http://www.w3.org/TR/wordnet-rdf Name:W3C Email:public-swbp-wg@w3.org":{}}
+{"Completeness":{"dimension":"Contextual"}}
+{"Representational conciseness":{"dimension":"Representational"}}
+{"Understandability":{"dimension":"Representational"}}
+{"Interpretability":{"dimension":"Representational"}}
+{"Representational-Consistency score":{"dimension":"Interoperability"}}
+{"Uses RDF structures":{"dimension":"Interpretability"}}
+{"Amount of data":{"dimension":"Contextual"}}
+{"LemmaBank":{}}
+{"Conciseness score":{"description":"Overall score for the conciseness dimension computed as a linear combination of the individual conciseness metrics scores","input":"Conciseness metrics scores","output":"[0,1]. Best value: 1.","dimension":"Conciseness"}}
+{"2811476 (out of 1000000 triples considered)":{}}
+{"Understandability score":{"description":"Overall score for the understandability dimension computed as a linear combination of the individual understandability metrics scores","input":"Understandability metrics scores","output":"[0,1]. Best value: 1.","dimension":"Understandability"}}
+{"Conciseness":{"dimension":"Intrinsic"}}
+{"Verifiability score":{"description":"Overall score for the verifiability dimension computed as a linear combination of the individual verifiability metrics scores","input":"Verifiability metrics scores","output":"[0,1]. Best value: 1.","dimension":"Verifiability"}}
+{"Interpretability score":{"description":"Overall score for the interpretability dimension computed as a linear combination of the individual interpretability metrics scores","input":"Interpretability metrics scores","output":"[0,1]. Best value: 1.","dimension":"Interpretability"}}
+{"Median length URIs (subject)":{"dimension":"Representational conciseness"}}
+{"Completeness score":{"description":"Overall score for the completeness dimension computed as a linear combination of the individual completeness metrics scores","input":"Completeness metrics scores","output":"[0,1]. Best value: 1.","dimension":"Completeness"}}
+{"Timeliness":{"dimension":"Dataset dynamicity"}}
+{"http://lila-erc.eu/data/id/lemma/LemmaBank":{}}
+{"I2 Use of FAIR vocabularies":{"description":"Usage of FAIR vocabularies","input":"(Meta)data","output":"# of FAIR vocabularies / total # of vocabularies. Best value: 1.","dimension":"FAIR"}}
+{"Consistency score":{"description":"Overall score for the consistency dimension computed as a linear combination of the individual consistency metrics scores","input":"Consistency metrics scores","output":"[0,1]. Best value: 1.","dimension":"Consistency"}}
+{"Median length URIs (object)":{"dimension":"Representational conciseness"}}
+{"Median length URIs (predicate)":{"dimension":"Representational conciseness"}}
+{"Standard deviation lenght URIs (object)":{"dimension":"Representational conciseness"}}
+{"Believability score":{"description":"Overall score for the believability dimension computed as a linear combination of the individual believability metrics scores","input":"Believability metrics scores","output":"[0,1]. Best value: 1.","dimension":"Believability"}}
+{"Score":{"description":"Overall quality score computed as a linear combination of all scores of the individual quality dimensions","input":"Quality dimensions scores","output":"[0,1]. Best value: 1."}}
+{"Standard deviation length URIs (subject)":{"dimension":"Representational conciseness"}}
+{"Consistency":{"dimension":"Intrinsic"}}
+{"Standard deviation lenght URIs (predicate)":{"dimension":"Representational conciseness"}}
+{"Number of triples":{"dimension":"Amount of data"}}
+{"New terms defined in the dataset":{"description":"detection of whether existing terms from all relevant vo-cabularies for that particular domain have been reuse","input":"(working) SPARQL endpoint","output":"[]: if no new term is defined; -: the SPARQL endpoint is missing; list of new terms: if at least a new term is defined.","dimension":"Interoperability"}}
+{"Triples with white space in annotation(at the beginning or at the end)":{"description":"presence of white space in labels","input":"(working) SPARQL endpoint","output":"[0,1]. Best value: 1. -: if the SPARQL endpoint is missing or not online or error during the execution of the sparql query.","dimension":"Accuracy"}}
+{"Versatility":{"dimension":"Representational"}}
+{"Interoperability":{"dimension":"Representational"}}

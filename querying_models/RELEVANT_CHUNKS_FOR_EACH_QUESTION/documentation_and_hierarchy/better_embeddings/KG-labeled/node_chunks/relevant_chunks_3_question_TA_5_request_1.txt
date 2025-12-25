@@ -1,0 +1,40 @@
+{"25th percentile length URIs (object)":{}}
+{"2811476 (out of 1000000 triples considered)":{}}
+{"75th percentile length URIs (object)":{}}
+{"_age_of_data_specified":{}}
+{"25th percentile length URIs (predicate)":{}}
+{"75th percentile length URIs (predicate)":{}}
+{" Percentage of triples with labels":{}}
+{"A database of abbreviations and long forms utilized in Lifesciences. It provides a solution to the issue that many abbreviations are used in the literature. and polysemous or synonymous abbreviations appear frequently. making it difficult to read and understand scientific papers that are not relevant to the reader's expertise. Allie contains abbreviations and their corresponding long forms extracted from titles and abstracts in the entire MEDLINE\u00ae. a database of the U.S. National Library of Medicine. MEDLINE stores over 20 million bibliographic information in life science and is suitable for extracting domain specific abbreviations and their long forms appearing in actual literature.":{}}
+{"Allie Abbreviation And Long Form Database in Life Science":{}}
+{"25th percentile length URIs (subject)":{}}
+{"_dataset_update_frequency_specified":{}}
+{" Number of triples (metadata)":{}}
+{"75th percentile length URIs (subject)":{}}
+{"25th percentile throughput":{}}
+{"Standard deviation lenght URIs (subject)":{}}
+{"_time_elapsed_since_last_modification_specified":{}}
+{"75th percentile throughput":{}}
+{"75th percentile latency":{}}
+{"25th percentile latency":{}}
+{"Median length URIs (subject)":{"dimension":"Representational conciseness"}}
+{"Median length URIs (predicate)":{"dimension":"Representational conciseness"}}
+{"Standard deviation lenght URIs (predicate)":{"dimension":"Representational conciseness"}}
+{"Standard deviation lenght URIs (object)":{"dimension":"Representational conciseness"}}
+{"Median length URIs (object)":{"dimension":"Representational conciseness"}}
+{"http://data.allie.dbcls.jp/sparql":{}}
+{"A2-M Registered in search engines":{"description":"Registered in search engines","input":"Metadata","output":"1: dataset registered in any search engine; 0: otherwise","dimension":"FAIR"}}
+{"_indication_of_metadata":{}}
+{"Coronavirus dataset":{}}
+{"340000000.000000":{}}
+{"2025-09-01":{}}
+{"60000000.000000":{}}
+{"0.999999":{}}
+{"2025-06-01":{}}
+{"2011-08-01":{}}
+{"Amount of data score":{"description":"Overall score for the amount of data dimension computed as a linear combination of the individual amount of data metrics scores","input":"Amount of data metrics scores","output":"[0,1]. Best value: 1.","dimension":"Amount of data"}}
+{"Offline dumps":{}}
+{"Representational-Conciseness score":{}}
+{"_reuse_of_existing_vocabularies":{}}
+{"_high_throughput":{}}
+{"11.000000":{}}

@@ -1,0 +1,40 @@
+{"Verifiability score":{"description":"Overall score for the verifiability dimension computed as a linear combination of the individual verifiability metrics scores","input":"Verifiability metrics scores","output":"[0,1]. Best value: 1.","dimension":"Verifiability"}}
+{"Verifiability":{"dimension":"Trust"}}
+{"Believability score":{"description":"Overall score for the believability dimension computed as a linear combination of the individual believability metrics scores","input":"Believability metrics scores","output":"[0,1]. Best value: 1.","dimension":"Believability"}}
+{"Believability":{"dimension":"Trust"}}
+{"Description":{"dimension":"Believability"}}
+{"Consistency score":{"description":"Overall score for the consistency dimension computed as a linear combination of the individual consistency metrics scores","input":"Consistency metrics scores","output":"[0,1]. Best value: 1.","dimension":"Consistency"}}
+{"Consistency":{"dimension":"Intrinsic"}}
+{"Uses RDF structures":{"dimension":"Interpretability"}}
+{"Representational-Consistency score":{"dimension":"Interoperability"}}
+{"Completeness":{"dimension":"Contextual"}}
+{"Interpretability score":{"description":"Overall score for the interpretability dimension computed as a linear combination of the individual interpretability metrics scores","input":"Interpretability metrics scores","output":"[0,1]. Best value: 1.","dimension":"Interpretability"}}
+{"Interpretability":{"dimension":"Representational"}}
+{"Score":{"description":"Overall quality score computed as a linear combination of all scores of the individual quality dimensions","input":"Quality dimensions scores","output":"[0,1]. Best value: 1."}}
+{"Understandability":{"dimension":"Representational"}}
+{"Accuracy score":{"description":"Overall score for the accuracy dimension computed as a linear combination of the individual accuracy metrics scores","input":"Accuracy metrics scores","output":"[0,1]. Best value: 1.","dimension":"Accuracy"}}
+{"Accuracy":{"dimension":"Intrinsic"}}
+{"Percentage of triples with labels":{"dimension":"Understandability"}}
+{"Completeness score":{"description":"Overall score for the completeness dimension computed as a linear combination of the individual completeness metrics scores","input":"Completeness metrics scores","output":"[0,1]. Best value: 1.","dimension":"Completeness"}}
+{"Amount of data":{"dimension":"Contextual"}}
+{"Understandability score":{"description":"Overall score for the understandability dimension computed as a linear combination of the individual understandability metrics scores","input":"Understandability metrics scores","output":"[0,1]. Best value: 1.","dimension":"Understandability"}}
+{"Normalized score":{"description":"Overall quality score computed as a linear combination of all scores of the individual quality dimensions.","input":"Quality dimensions scores","output":"[0,100]. Best value: 100."}}
+{"Conciseness":{"dimension":"Intrinsic"}}
+{"Performance":{"dimension":"Accessibility"}}
+{"I score":{"description":"Overall Interoperability score computed as a linear combination of all scores of the individual I subprinciples","input":"Interoperability principles scores","output":"[0,1]. Best value: 1.","dimension":"FAIR"}}
+{"Trust value":{"description":"Meta-information about the identity of information provider","input":"Metadata","output":"float: the trust value;","dimension":"Believability"}}
+{"R score":{"description":"Overall Reusability score computed as a linear combination of all scores of the individual R subprinciples","input":"Reusability principles scores","output":"[0,1]. Best value: 1.","dimension":"FAIR"}}
+{"FAIR score":{"description":"Overall FAIR score computed as a linear combination of all scores of the individual FAIR principles","input":"FAIR principles scores","output":"[0,1]. Best value: 1.","dimension":"FAIR"}}
+{"Representational conciseness":{"dimension":"Representational"}}
+{"Interoperability score":{"description":"Overall score for the interoperability dimension computed as a linear combination of the individual interoperability metrics scores","input":"Interoperability metrics scores","output":"[0,1]. Best value: 1.","dimension":"Interoperability"}}
+{"Interoperability":{"dimension":"Representational"}}
+{"Performance score":{"description":"Overall score for the performance dimension computed as a linear combination of the individual performance metrics scores","input":"Performance metrics scores","output":"[0,1]. Best value: 1.","dimension":"Performance"}}
+{"Versatility score":{"description":"Overall score for the versatility dimension computed as a linear combination of the individual versatility metrics scores","input":"Versatility metrics scores","output":"[0,1]. Best value: 1.","dimension":"Versatility"}}
+{"F score":{"description":"Overall FAIR score computed as a linear combination of all scores of the individual F subprinciples","input":"FAIR principles scores","output":"[0,1]. Best value: 1.","dimension":"FAIR"}}
+{"Timeliness score":{"description":"Overall score for the timeliness dimension computed as a linear combination of the individual timeliness metrics scores","input":"Timeliness metrics scores","output":"[0,1]. Best value: 1.","dimension":"Timeliness"}}
+{"Timeliness":{"dimension":"Dataset dynamicity"}}
+{"Interlinking":{"dimension":"Accessibility"}}
+{"Interlinking score":{"description":"Overall score for the interlinking dimension computed as a linear combination of the individual interlinking metrics scores","input":"Interlinking metrics scores","output":"[0,1]. Best value: 1.","dimension":"Interlinking"}}
+{"Reputation":{"dimension":"Trust"}}
+{"Sources":{"description":"stating the author and his contributors, the publisher of the data and its sources","input":"Metadata","output":"string: the website, the name and the email of the source; False: if the sources are not indicated.","dimension":"Verifiability"}}
+{"Conciseness score":{"description":"Overall score for the conciseness dimension computed as a linear combination of the individual conciseness metrics scores","input":"Conciseness metrics scores","output":"[0,1]. Best value: 1.","dimension":"Conciseness"}}

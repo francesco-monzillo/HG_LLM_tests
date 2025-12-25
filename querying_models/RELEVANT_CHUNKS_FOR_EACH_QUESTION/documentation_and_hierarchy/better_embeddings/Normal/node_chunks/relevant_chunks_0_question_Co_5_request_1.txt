@@ -1,0 +1,40 @@
+{"Volatility score":{"dimension":"Timeliness"}}
+{"Average throughput":{"dimension":"Performance"}}
+{"Percentage of data updated":{"dimension":"Currency"}}
+{"Average latency":{"dimension":"Performance"}}
+{"Performance score":{"description":"Overall score for the performance dimension computed as a linear combination of the individual performance metrics scores","input":"Performance metrics scores","output":"[0,1]. Best value: 1.","dimension":"Performance"}}
+{"25th percentile throughput":{}}
+{"Inactive links":{"dimension":"Availability"}}
+{"2025-04-17":{}}
+{"2025-09-01":{}}
+{"75th percentile throughput":{}}
+{"2025-09-07":{}}
+{"['2018-05-16|None'. '2019-01-15|None'. '2019-04-05|None'. '2020-01-08|None'. '2022-10-08|None'. '2022-10-14|None'. '2022-10-18|None'. '2022-10-29|None'. '2022-12-05|None'. '2023-01-28|None'. '2023-02-16|None'. '2023-06-02|None'. '2023-12-02|None'. '2024-01-10|None'. '2024-01-26|None'. '2024-01-30|None'. '2024-02-02|None'. '2024-02-03|None'. '2024-02-06|None'. '2024-02-07|None'. '2024-02-08|None']":{}}
+{"Currency score":{"description":"Overall score for the currency dimension computed as a linear combination of the individual currency metrics scores","input":"Currency metrics scores","output":"[0,1]. Best value: 1.","dimension":"Currency"}}
+{"Description":{"dimension":"Believability"}}
+{"_age_of_data_specified":{}}
+{"2025-08-04":{}}
+{"2025-08-03":{}}
+{"2025-07-18":{}}
+{"Amount of data score":{"description":"Overall score for the amount of data dimension computed as a linear combination of the individual amount of data metrics scores","input":"Amount of data metrics scores","output":"[0,1]. Best value: 1.","dimension":"Amount of data"}}
+{"2025-07-13":{}}
+'. '2024-09-16|0'. '2024-09-17|0'. '2024-09-18|0'. '2024-09-19|0'. '2024-09-20|0'. '2024-09-21|0'. '2024-09-22|0'. '2024-09-23|0'. '2024-09-24|0'. '2024-09-25|0'. '2024-09-26|0'. '2024-09-27|0'. '2024-09-28|0'. '2024-09-29|0'. '2024-09-30|0'. '2024-10-01|0'. '2024-10-02|0'. '2024-10-03|0'. '2024-10-07|0'. '2024-10-08|0'. '2024-10-09|0'. '2024-10-10|0'. '2024-10-16|0'. '2024-10-17|0'. '2024-11-09|0'. '2024-11-20|0'. '2024-11-21|0'. '2024-11-22|0'. '2024-11-26|0'. '2024-11-28|0'. '2024-11-29|0'. '2024-12-01|0'. '2024-12-02|0'. '2024-12-03|0'. '2024-12-04|0'. '2024-12-07|0'. '2024-12-10|0'. '2024-12-20|0'. '2024-12-23|0'. '2024-12-24|0'. '2025-01-02|0'. '2025-01-03|0'. '2025-01-05|0'. '2025-01-06|0'. '2025-01-07|0'. '2025-01-22|0'. '2025-01-23|0'. '2025-01-25|0'. '2025-01-29|0'. '2025-01-30|0'. '2025-02-04|0'. '2025-02-09|0'. '2025-02-13|0'. '2025-02-14|0'. '2025-02-17|0'. '2025-02-20|0'. '2025-02-21|0'. '2025-02-22|0'. '2025-02-23|0'. '2025-02-24|0'. '2025-02-25|0'. '2025-03-16|0'. '2025-03-18|0'. '2025-03-21|0'. '2025-04-03|0'. '2025-04-07|0'. '2025-04-08|0'. '2025-04-09|0'. '2025-04-16|0'. '2025-04-17|0']":{}}
+{"2025-06-01":{}}
+{"['2022-12-17|1'. '2024-11-21|1'. '2025-08-01|13'. '2025-08-04|5']":{}}
+{"Licensing score":{"description":"Overall score for the licensing dimension computed as a linear combination of the individual licensing metrics scores","input":"Licensing metrics scores","output":"[0,1]. Best value: 1.","dimension":"Licensing"}}
+{"['2022-12-17|1'. '2024-11-21|1'. '2025-04-17|18']":{}}
+{"['Monthly']":{}}
+{"2025-05-04":{}}
+{"2024-02-08":{}}
+{"['2018-05-16|1'. '2019-01-15|1'. '2019-04-05|1'. '2020-01-08|1'. '2022-10-08|1'. '2022-10-14|2'. '2022-10-18|2'. '2022-10-29|2'. '2022-12-05|1'. '2023-01-28|1'. '2023-02-16|2'. '2023-06-02|1'. '2023-12-02|3'. '2024-01-10|1'. '2024-01-26|1'. '2024-01-30|1'. '2024-02-02|7'. '2024-02-03|2'. '2024-02-06|14'. '2024-02-07|17'. '2024-02-08|5']":{}}
+{"_dataset_update_frequency_specified":{}}
+{"['2022-12-17|1'. '2024-11-21|1'. '2025-08-29|16'. '2025-09-01|2']":{}}
+{"8.992024":{}}
+{"25th percentile length URIs (object)":{}}
+{"['2022-12-17|1'. '2024-11-21|1'. '2025-07-07|13'. '2025-07-09|2'. '2025-07-17|1'. '2025-07-18|2']":{}}
+{"_level_of_detail_specified":{}}
+{"Availability score":{"description":"Overall score for the availability dimension computed as a linear combination of the individual availability metrics scores","input":"Availability metrics scores","output":"[0,1]. Best value: 1.","dimension":"Availability"}}
+{"25th percentile length URIs (predicate)":{}}
+{"75th percentile length URIs (object)":{}}
+{"Reputation score":{"description":"Overall score for the reputation dimension computed as a linear combination of the individual reputation metrics scores","input":"Reputation metrics scores","output":"[0,1]. Best value: 1.","dimension":"Reputation"}}
+{"Uses RDF structures":{"dimension":"Interpretability"}}

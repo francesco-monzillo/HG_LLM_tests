@@ -1,0 +1,40 @@
+{"2811476 (out of 1000000 triples considered)":{}}
+{"Amount of data":{"dimension":"Contextual"}}
+{"Coronavirus dataset":{}}
+{"Timeliness":{"dimension":"Dataset dynamicity"}}
+{"Number of triples":{"dimension":"Amount of data"}}
+{"Currency":{"dimension":"Dataset dynamicity"}}
+{"['https://doi.org/10.4230/dblp.rdf.ntriples'. 'https://dblp.org/rdf/dblp.ttl.gz']":{}}
+{"Completeness":{"dimension":"Contextual"}}
+{"Percentage of triples with labels":{"dimension":"Understandability"}}
+{"Interpretability":{"dimension":"Representational"}}
+{"A2-M Registered in search engines":{"description":"Registered in search engines","input":"Metadata","output":"1: dataset registered in any search engine; 0: otherwise","dimension":"FAIR"}}
+{"Accuracy":{"dimension":"Intrinsic"}}
+{"Representational conciseness":{"dimension":"Representational"}}
+{"https://creativecommons.org/licenses/by-sa/3.0/":{}}
+{"Representational-Consistency score":{"dimension":"Interoperability"}}
+{"['text/html; charset=UTF-8'. 'meta/rdf-schema'. 'meta/rdf-schema']":{}}
+{"dblp Knowledge Graph":{}}
+{"http://creativecommons.org/licenses/by/4.0/":{}}
+{"http://data.allie.dbcls.jp/sparql":{}}
+{"Versatility":{"dimension":"Representational"}}
+{"Understandability":{"dimension":"Representational"}}
+{"['text/html; charset=UTF-8']":{}}
+{"2025-08-04":{}}
+{"Uses RDF structures":{"dimension":"Interpretability"}}
+{"2025-05-04":{}}
+{"2025-07-13":{}}
+{"2024-02-08":{}}
+{"External links":{"dimension":"Interlinking"}}
+{"2025-08-03":{}}
+{"2025-07-18":{}}
+{"http://dati.camera.it/sparql":{}}
+{"[''. '']":{}}
+{"Conciseness":{"dimension":"Intrinsic"}}
+{"I3-D Degree of connection":{"description":"Degree of connection","input":"Data","output":"1: contains link to another dataset; 0: otherwise","dimension":"FAIR"}}
+{"[''. 'text/turtle'. 'text/turtle'. 'meta/rdf-schema'. 'meta/rdf-schema']":{}}
+{"2025-09-07":{}}
+{"2025-09-01":{}}
+{"2025-04-17":{}}
+{"2025-06-01":{}}
+{"Amount of data score":{"description":"Overall score for the amount of data dimension computed as a linear combination of the individual amount of data metrics scores","input":"Amount of data metrics scores","output":"[0,1]. Best value: 1.","dimension":"Amount of data"}}

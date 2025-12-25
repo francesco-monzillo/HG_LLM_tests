@@ -1,0 +1,40 @@
+{"Licensing score":{"description":"Overall score for the licensing dimension computed as a linear combination of the individual licensing metrics scores","input":"Licensing metrics scores","output":"[0,1]. Best value: 1.","dimension":"Licensing"}}
+{" Percentage of triples with labels":{}}
+{"_human_readable_license_metadata_is_retrievable":{}}
+{"25th percentile throughput":{}}
+{"License human redeable":{"description":"Detection of a license in the documentation of the dataset","input":"(working) SPARQL endpoint","output":"True: the human readable license is indicated; False: the human readable license is not indicated; -: The SPARQL endpoint is missing.","dimension":"Licensing"}}
+{"75th percentile throughput":{}}
+{"Accuracy score":{"description":"Overall score for the accuracy dimension computed as a linear combination of the individual accuracy metrics scores","input":"Accuracy metrics scores","output":"[0,1]. Best value: 1.","dimension":"Accuracy"}}
+{"_machine_readable_license_metadata_is_retrievable":{}}
+{" Number of triples (metadata)":{}}
+{"_human_readable_license_query_is_retrievable":{}}
+{"R1.1 Machine- or human-readable license retrievable via any primary source":{"description":"Any license retrievable","input":"(Meta)data","output":"1: license explicitly reported; 0: otherwise","dimension":"FAIR"}}
+{"Average latency":{"dimension":"Performance"}}
+{"Amount of data score":{"description":"Overall score for the amount of data dimension computed as a linear combination of the individual amount of data metrics scores","input":"Amount of data metrics scores","output":"[0,1]. Best value: 1.","dimension":"Amount of data"}}
+{"75th percentile latency":{}}
+{"A2-M Registered in search engines":{"description":"Registered in search engines","input":"Metadata","output":"1: dataset registered in any search engine; 0: otherwise","dimension":"FAIR"}}
+{"75th percentile length URIs (object)":{}}
+{"25th percentile length URIs (object)":{}}
+{"_reuse_of_existing_vocabularies":{}}
+{"25th percentile length URIs (predicate)":{}}
+{"75th percentile length URIs (predicate)":{}}
+{"_age_of_data_specified":{}}
+{"2811476 (out of 1000000 triples considered)":{}}
+{"Representational-Conciseness score":{}}
+{"25th percentile latency":{}}
+{"_machine_readable_license_query_is_retrievable":{}}
+{"Performance score":{"description":"Overall score for the performance dimension computed as a linear combination of the individual performance metrics scores","input":"Performance metrics scores","output":"[0,1]. Best value: 1.","dimension":"Performance"}}
+{"Interpretability score":{"description":"Overall score for the interpretability dimension computed as a linear combination of the individual interpretability metrics scores","input":"Interpretability metrics scores","output":"[0,1]. Best value: 1.","dimension":"Interpretability"}}
+{"Average throughput":{"dimension":"Performance"}}
+{"_dataset_update_frequency_specified":{}}
+{"Consistency score":{"description":"Overall score for the consistency dimension computed as a linear combination of the individual consistency metrics scores","input":"Consistency metrics scores","output":"[0,1]. Best value: 1.","dimension":"Consistency"}}
+{"Score":{"description":"Overall quality score computed as a linear combination of all scores of the individual quality dimensions","input":"Quality dimensions scores","output":"[0,1]. Best value: 1."}}
+{"Representational-Consistency score":{"dimension":"Interoperability"}}
+{"Coronavirus dataset":{}}
+{"Standard deviation of latency":{"dimension":"Performance"}}
+{"_high_throughput":{}}
+{"License machine redeable (query)":{"description":"detection of the indication of a license in the VoID description or in the dataset itself","input":"(working) SPARQL endpoint","output":"string: the license if it can be recovered; -: the license is not indicated or the SPARQL endpoint is missing.","dimension":"Licensing"}}
+{"Entities as member of disjoint class":{"description":"no. of entities described as members of disjoint classes / total no. of entities described in the dataset","input":"(working) SPARQL endpoint","output":"[0,1]. Best value: 1. -: if the SPARQL endpoint is missing or not online or error during the execution of the sparql query.","dimension":"Consistency"}}
+{"_indication_of_metadata":{}}
+{"http://reference.data.gov.uk/id/open-government-licence":{}}
+{"_skos_mapping_frequency":{}}

@@ -1,0 +1,40 @@
+{"Licensing score":{"description":"Overall score for the licensing dimension computed as a linear combination of the individual licensing metrics scores","input":"Licensing metrics scores","output":"[0,1]. Best value: 1.","dimension":"Licensing"}}
+{"Percentage of triples with labels":{"dimension":"Understandability"}}
+{"License human redeable":{"description":"Detection of a license in the documentation of the dataset","input":"(working) SPARQL endpoint","output":"True: the human readable license is indicated; False: the human readable license is not indicated; -: The SPARQL endpoint is missing.","dimension":"Licensing"}}
+{"Accuracy score":{"description":"Overall score for the accuracy dimension computed as a linear combination of the individual accuracy metrics scores","input":"Accuracy metrics scores","output":"[0,1]. Best value: 1.","dimension":"Accuracy"}}
+{"R1.1 Machine- or human-readable license retrievable via any primary source":{"description":"Any license retrievable","input":"(Meta)data","output":"1: license explicitly reported; 0: otherwise","dimension":"FAIR"}}
+{"Average latency":{"dimension":"Performance"}}
+{"Licensing":{"dimension":"Accessibility"}}
+{"Amount of data score":{"description":"Overall score for the amount of data dimension computed as a linear combination of the individual amount of data metrics scores","input":"Amount of data metrics scores","output":"[0,1]. Best value: 1.","dimension":"Amount of data"}}
+{"A2-M Registered in search engines":{"description":"Registered in search engines","input":"Metadata","output":"1: dataset registered in any search engine; 0: otherwise","dimension":"FAIR"}}
+{"Currency":{"dimension":"Dataset dynamicity"}}
+{"2811476 (out of 1000000 triples considered)":{}}
+{"Timeliness":{"dimension":"Dataset dynamicity"}}
+{"Amount of data":{"dimension":"Contextual"}}
+{"Performance score":{"description":"Overall score for the performance dimension computed as a linear combination of the individual performance metrics scores","input":"Performance metrics scores","output":"[0,1]. Best value: 1.","dimension":"Performance"}}
+{"Interpretability score":{"description":"Overall score for the interpretability dimension computed as a linear combination of the individual interpretability metrics scores","input":"Interpretability metrics scores","output":"[0,1]. Best value: 1.","dimension":"Interpretability"}}
+{"Average throughput":{"dimension":"Performance"}}
+{"Performance":{"dimension":"Accessibility"}}
+{"Consistency score":{"description":"Overall score for the consistency dimension computed as a linear combination of the individual consistency metrics scores","input":"Consistency metrics scores","output":"[0,1]. Best value: 1.","dimension":"Consistency"}}
+{"Number of triples":{"dimension":"Amount of data"}}
+{"Score":{"description":"Overall quality score computed as a linear combination of all scores of the individual quality dimensions","input":"Quality dimensions scores","output":"[0,1]. Best value: 1."}}
+{"Representational-Consistency score":{"dimension":"Interoperability"}}
+{"Coronavirus dataset":{}}
+{"Standard deviation of latency":{"dimension":"Performance"}}
+{"License machine redeable (query)":{"description":"detection of the indication of a license in the VoID description or in the dataset itself","input":"(working) SPARQL endpoint","output":"string: the license if it can be recovered; -: the license is not indicated or the SPARQL endpoint is missing.","dimension":"Licensing"}}
+{"Entities as member of disjoint class":{"description":"no. of entities described as members of disjoint classes / total no. of entities described in the dataset","input":"(working) SPARQL endpoint","output":"[0,1]. Best value: 1. -: if the SPARQL endpoint is missing or not online or error during the execution of the sparql query.","dimension":"Consistency"}}
+{"http://reference.data.gov.uk/id/open-government-licence":{}}
+{"License machine redeable (metadata)":{"description":"detection of the indication of a license in the VoID description or in the dataset itself","input":"VoID file or metadata","output":"string: the license if it can be recovered; False: the license is not indicated","dimension":"Licensing"}}
+{"Completeness score":{"description":"Overall score for the completeness dimension computed as a linear combination of the individual completeness metrics scores","input":"Completeness metrics scores","output":"[0,1]. Best value: 1.","dimension":"Completeness"}}
+{"Verifiability score":{"description":"Overall score for the verifiability dimension computed as a linear combination of the individual verifiability metrics scores","input":"Verifiability metrics scores","output":"[0,1]. Best value: 1.","dimension":"Verifiability"}}
+{"https://creativecommons.org/licenses/by-sa/3.0/":{}}
+{"['text/html; charset=UTF-8'. 'meta/rdf-schema'. 'meta/rdf-schema']":{}}
+{"Interlinking score":{"description":"Overall score for the interlinking dimension computed as a linear combination of the individual interlinking metrics scores","input":"Interlinking metrics scores","output":"[0,1]. Best value: 1.","dimension":"Interlinking"}}
+{"Triples with malformed data type literals problem":{"description":"Incompatible with data type range","input":"(working) SPARQL endpoint","output":"[0,1]. Best value: 1. -: if the SPARQL endpoint is missing or not online or error during the execution of the sparql query.","dimension":"Accuracy"}}
+{"http://creativecommons.org/licenses/by/4.0/":{}}
+{"Security score":{"description":"Overall score for the security dimension computed as a linear combination of the individual security metrics scores","input":"Security metrics scores","output":"[0,1]. Best value: 1.","dimension":"Security"}}
+{"dblp Knowledge Graph":{}}
+{"Reputation":{"dimension":"Trust"}}
+{"Accuracy":{"dimension":"Intrinsic"}}
+{"F1-D URIs dereferenceability":{"description":"URIs dereferenceability","input":"Data","output":"# of dereferenceable URIs / total # of URIs. Best value: 1.","dimension":"FAIR"}}
+{"Interoperability score":{"description":"Overall score for the interoperability dimension computed as a linear combination of the individual interoperability metrics scores","input":"Interoperability metrics scores","output":"[0,1]. Best value: 1.","dimension":"Interoperability"}}

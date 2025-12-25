@@ -1,0 +1,40 @@
+{"LiLa Lemma Bank":{}}
+{"2811476 (out of 1000000 triples considered)":{}}
+{"['https://github.com/CIRCSE/LiLa_Lemma-Bank']":{}}
+{"http://lila-erc.eu/data/id/lemma/LemmaBank":{}}
+{"https://dblp.org":{}}
+{"['https://doi.org/10.4230/dblp.rdf.ntriples'. 'https://dblp.org/rdf/dblp.ttl.gz']":{}}
+{"https://creativecommons.org/licenses/by-sa/3.0/":{}}
+{"dblp Knowledge Graph":{}}
+{"2025-08-03":{}}
+{"2024-02-08":{}}
+{"2025-04-17":{}}
+{"2025-07-18":{}}
+{"2025-07-13":{}}
+{"2025-05-04":{}}
+{"2025-09-07":{}}
+{"2025-08-04":{}}
+{"Number of triples":{"dimension":"Amount of data"}}
+{"https://lila-erc.eu/sparql/lila_knowledge_base/sparql":{}}
+{"Percentage of triples with labels":{"dimension":"Understandability"}}
+{"LemmaBank":{}}
+{"impossible to verify":{}}
+{"2025-09-01":{}}
+{"8.992024":{}}
+{"2025-06-01":{}}
+{"{}":{}}
+{"http://creativecommons.org/licenses/by/4.0/":{}}
+{"https://creativecommons.org/publicdomain/zero/1.0/":{}}
+{"https://creativecommons.org/licenses/by/3.0/deed.it":{}}
+{"-":{}}
+{"":{}}
+{"Web:http://lila-erc.eu/data/id/lemma/LemmaBank Name:Marco Passarotti Email:marco.passarotti@unicatt.it":{}}
+{"340000000.000000":{}}
+{"Name: absent. email: onelove1h3art@gmail.com":{}}
+{"['text/html; charset=UTF-8']":{}}
+{"9.063217":{}}
+{"http://creativecommons.org/licenses/by/2.1/jp/":{}}
+{"Versatility score":{"description":"Overall score for the versatility dimension computed as a linear combination of the individual versatility metrics scores","input":"Versatility metrics scores","output":"[0,1]. Best value: 1.","dimension":"Versatility"}}
+{"['Name:dbpedia. value:23237'. 'Name:bbc-music. value:10000']":{}}
+{"['Name:bbc-music. value:10000'. 'Name:dbpedia. value:23237']":{}}
+{"Volatility score":{"dimension":"Timeliness"}}

@@ -1,0 +1,40 @@
+{"Verifiability score":{"description":"Overall score for the verifiability dimension computed as a linear combination of the individual verifiability metrics scores","input":"Verifiability metrics scores","output":"[0,1]. Best value: 1.","dimension":"Verifiability"}}
+{"Believability score":{"description":"Overall score for the believability dimension computed as a linear combination of the individual believability metrics scores","input":"Believability metrics scores","output":"[0,1]. Best value: 1.","dimension":"Believability"}}
+{"Description":{"dimension":"Believability"}}
+{"Consistency score":{"description":"Overall score for the consistency dimension computed as a linear combination of the individual consistency metrics scores","input":"Consistency metrics scores","output":"[0,1]. Best value: 1.","dimension":"Consistency"}}
+{"Uses RDF structures":{"dimension":"Interpretability"}}
+{"Representational-Consistency score":{"dimension":"Interoperability"}}
+{"Interpretability score":{"description":"Overall score for the interpretability dimension computed as a linear combination of the individual interpretability metrics scores","input":"Interpretability metrics scores","output":"[0,1]. Best value: 1.","dimension":"Interpretability"}}
+{"Score":{"description":"Overall quality score computed as a linear combination of all scores of the individual quality dimensions","input":"Quality dimensions scores","output":"[0,1]. Best value: 1."}}
+{"Representational-Conciseness score":{}}
+{"Accuracy score":{"description":"Overall score for the accuracy dimension computed as a linear combination of the individual accuracy metrics scores","input":"Accuracy metrics scores","output":"[0,1]. Best value: 1.","dimension":"Accuracy"}}
+{"Completeness score":{"description":"Overall score for the completeness dimension computed as a linear combination of the individual completeness metrics scores","input":"Completeness metrics scores","output":"[0,1]. Best value: 1.","dimension":"Completeness"}}
+{"Understandability score":{"description":"Overall score for the understandability dimension computed as a linear combination of the individual understandability metrics scores","input":"Understandability metrics scores","output":"[0,1]. Best value: 1.","dimension":"Understandability"}}
+{"Normalized score":{"description":"Overall quality score computed as a linear combination of all scores of the individual quality dimensions.","input":"Quality dimensions scores","output":"[0,100]. Best value: 100."}}
+{"I score":{"description":"Overall Interoperability score computed as a linear combination of all scores of the individual I subprinciples","input":"Interoperability principles scores","output":"[0,1]. Best value: 1.","dimension":"FAIR"}}
+{"Trust value":{"description":"Meta-information about the identity of information provider","input":"Metadata","output":"float: the trust value;","dimension":"Believability"}}
+{"R score":{"description":"Overall Reusability score computed as a linear combination of all scores of the individual R subprinciples","input":"Reusability principles scores","output":"[0,1]. Best value: 1.","dimension":"FAIR"}}
+{"FAIR score":{"description":"Overall FAIR score computed as a linear combination of all scores of the individual FAIR principles","input":"FAIR principles scores","output":"[0,1]. Best value: 1.","dimension":"FAIR"}}
+{"Performance score":{"description":"Overall score for the performance dimension computed as a linear combination of the individual performance metrics scores","input":"Performance metrics scores","output":"[0,1]. Best value: 1.","dimension":"Performance"}}
+{"Versatility score":{"description":"Overall score for the versatility dimension computed as a linear combination of the individual versatility metrics scores","input":"Versatility metrics scores","output":"[0,1]. Best value: 1.","dimension":"Versatility"}}
+{"F score":{"description":"Overall FAIR score computed as a linear combination of all scores of the individual F subprinciples","input":"FAIR principles scores","output":"[0,1]. Best value: 1.","dimension":"FAIR"}}
+{"Interlinking score":{"description":"Overall score for the interlinking dimension computed as a linear combination of the individual interlinking metrics scores","input":"Interlinking metrics scores","output":"[0,1]. Best value: 1.","dimension":"Interlinking"}}
+{"Sources":{"description":"stating the author and his contributors, the publisher of the data and its sources","input":"Metadata","output":"string: the website, the name and the email of the source; False: if the sources are not indicated.","dimension":"Verifiability"}}
+{"Conciseness score":{"description":"Overall score for the conciseness dimension computed as a linear combination of the individual conciseness metrics scores","input":"Conciseness metrics scores","output":"[0,1]. Best value: 1.","dimension":"Conciseness"}}
+{"A score":{"description":"Overall Accessibility score computed as a linear combination of all scores of the individual A subprinciples","input":"Accessibility principles scores","output":"[0,1]. Best value: 1.","dimension":"FAIR"}}
+{"Standard deviation lenght URIs (predicate)":{"dimension":"Representational conciseness"}}
+{"Licensing score":{"description":"Overall score for the licensing dimension computed as a linear combination of the individual licensing metrics scores","input":"Licensing metrics scores","output":"[0,1]. Best value: 1.","dimension":"Licensing"}}
+{"Standard deviation lenght URIs (object)":{"dimension":"Representational conciseness"}}
+{"Amount of data score":{"description":"Overall score for the amount of data dimension computed as a linear combination of the individual amount of data metrics scores","input":"Amount of data metrics scores","output":"[0,1]. Best value: 1.","dimension":"Amount of data"}}
+{"Security score":{"description":"Overall score for the security dimension computed as a linear combination of the individual security metrics scores","input":"Security metrics scores","output":"[0,1]. Best value: 1.","dimension":"Security"}}
+{"I2 Use of FAIR vocabularies":{"description":"Usage of FAIR vocabularies","input":"(Meta)data","output":"# of FAIR vocabularies / total # of vocabularies. Best value: 1.","dimension":"FAIR"}}
+{"F1-D URIs dereferenceability":{"description":"URIs dereferenceability","input":"Data","output":"# of dereferenceable URIs / total # of URIs. Best value: 1.","dimension":"FAIR"}}
+{"Interlinking completeness":{"description":"degree to which interlinks are not missing","input":"Metadata","output":"[0,1]. Best value: 1. insufficient data: if the interlinking completeness can't be calculated.","dimension":"Completeness"}}
+{"F2b-M Metadata availability for all the attributes covered in the FAIR score computation":{"description":"Coverage of required attributes","input":"Metadata","output":"# of covered attributes / total # of attributes. Best value: 1.","dimension":"FAIR"}}
+{"_indication_of_metadata":{}}
+{"Reputation score":{"description":"Overall score for the reputation dimension computed as a linear combination of the individual reputation metrics scores","input":"Reputation metrics scores","output":"[0,1]. Best value: 1.","dimension":"Reputation"}}
+{"_age_of_data_specified":{}}
+{"Volatility score":{"dimension":"Timeliness"}}
+{" Percentage of triples with labels":{}}
+{"75th percentile throughput":{}}
+{"U5-value":{}}

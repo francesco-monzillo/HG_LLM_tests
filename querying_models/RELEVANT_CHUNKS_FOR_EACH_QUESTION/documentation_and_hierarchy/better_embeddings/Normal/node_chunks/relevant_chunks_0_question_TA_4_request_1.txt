@@ -1,0 +1,40 @@
+{"NoiPA":{}}
+{"25th percentile latency":{}}
+{"75th percentile latency":{}}
+{"https://noipa.mef.gov.it":{}}
+{"Representational-Conciseness score":{}}
+{"U1-value":{}}
+{"U5-value":{}}
+{" Percentage of triples with labels":{}}
+{"MeanTPNoOff":{}}
+{"_skos_mapping_frequency":{}}
+{"Web:https://noipa.mef.gov.it Name:NoiPA Email:black@email.it":{}}
+{"_high_throughput":{}}
+{"Minimum latency":{}}
+{"RC1-value":{}}
+{"Maximum latency":{}}
+{"_authors_specified":{}}
+{"IN4-value":{}}
+{"IN3-value":{}}
+{"0.0%":{}}
+{"PE2-value":{}}
+{"_age_of_data_specified":{}}
+{"_sources_specified":{}}
+{"_reuse_of_existing_vocabularies":{}}
+{"_indication_of_metadata":{}}
+{"PE3-value":{}}
+{"8.992024":{}}
+{"Accuracy score":{"description":"Overall score for the accuracy dimension computed as a linear combination of the individual accuracy metrics scores","input":"Accuracy metrics scores","output":"[0,1]. Best value: 1.","dimension":"Accuracy"}}
+{"False":{}}
+{"2025-05-04":{}}
+{"25th percentile throughput":{}}
+{"True":{}}
+{"2025-08-03":{}}
+{"2025-08-04":{}}
+{"_publishers_specified":{}}
+{"2025-07-18":{}}
+{"9.063217":{}}
+{"2025-04-17":{}}
+{"2024-02-08":{}}
+{"2025-07-13":{}}
+{"2025-09-07":{}}

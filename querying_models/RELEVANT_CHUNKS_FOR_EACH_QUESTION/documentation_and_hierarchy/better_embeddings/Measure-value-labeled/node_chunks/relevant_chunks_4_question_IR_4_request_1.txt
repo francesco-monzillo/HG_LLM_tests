@@ -1,0 +1,40 @@
+{"Representational-Conciseness score":{}}
+{"Accuracy score":{"description":"Overall score for the accuracy dimension computed as a linear combination of the individual accuracy metrics scores","input":"Accuracy metrics scores","output":"[0,1]. Best value: 1.","dimension":"Accuracy"}}
+{"w3c-wordnet":{}}
+{" Percentage of triples with labels":{}}
+{"_reuse_of_existing_vocabularies":{}}
+{" Number of triples (metadata)":{}}
+{"Representational-Consistency score":{"dimension":"Interoperability"}}
+{"Uses RDF structures":{"dimension":"Interpretability"}}
+{"LemmaBank":{}}
+{"Conciseness score":{"description":"Overall score for the conciseness dimension computed as a linear combination of the individual conciseness metrics scores","input":"Conciseness metrics scores","output":"[0,1]. Best value: 1.","dimension":"Conciseness"}}
+{"Understandability score":{"description":"Overall score for the understandability dimension computed as a linear combination of the individual understandability metrics scores","input":"Understandability metrics scores","output":"[0,1]. Best value: 1.","dimension":"Understandability"}}
+{"Verifiability score":{"description":"Overall score for the verifiability dimension computed as a linear combination of the individual verifiability metrics scores","input":"Verifiability metrics scores","output":"[0,1]. Best value: 1.","dimension":"Verifiability"}}
+{"Interpretability score":{"description":"Overall score for the interpretability dimension computed as a linear combination of the individual interpretability metrics scores","input":"Interpretability metrics scores","output":"[0,1]. Best value: 1.","dimension":"Interpretability"}}
+{"25th percentile latency":{}}
+{"Median length URIs (subject)":{"dimension":"Representational conciseness"}}
+{"_reuse_of_existing_terms":{}}
+{"25th percentile throughput":{}}
+{"Completeness score":{"description":"Overall score for the completeness dimension computed as a linear combination of the individual completeness metrics scores","input":"Completeness metrics scores","output":"[0,1]. Best value: 1.","dimension":"Completeness"}}
+{"75th percentile latency":{}}
+{"I2 Use of FAIR vocabularies":{"description":"Usage of FAIR vocabularies","input":"(Meta)data","output":"# of FAIR vocabularies / total # of vocabularies. Best value: 1.","dimension":"FAIR"}}
+{"75th percentile throughput":{}}
+{"Consistency score":{"description":"Overall score for the consistency dimension computed as a linear combination of the individual consistency metrics scores","input":"Consistency metrics scores","output":"[0,1]. Best value: 1.","dimension":"Consistency"}}
+{"25th percentile length URIs (object)":{}}
+{"Median length URIs (object)":{"dimension":"Representational conciseness"}}
+{"Median length URIs (predicate)":{"dimension":"Representational conciseness"}}
+{"Standard deviation lenght URIs (object)":{"dimension":"Representational conciseness"}}
+{"Believability score":{"description":"Overall score for the believability dimension computed as a linear combination of the individual believability metrics scores","input":"Believability metrics scores","output":"[0,1]. Best value: 1.","dimension":"Believability"}}
+{"_indication_of_metadata":{}}
+{"Score":{"description":"Overall quality score computed as a linear combination of all scores of the individual quality dimensions","input":"Quality dimensions scores","output":"[0,1]. Best value: 1."}}
+{"75th percentile length URIs (object)":{}}
+{"Standard deviation lenght URIs (predicate)":{"dimension":"Representational conciseness"}}
+{"_human_readable_labelling":{}}
+{"New terms defined in the dataset":{"description":"detection of whether existing terms from all relevant vo-cabularies for that particular domain have been reuse","input":"(working) SPARQL endpoint","output":"[]: if no new term is defined; -: the SPARQL endpoint is missing; list of new terms: if at least a new term is defined.","dimension":"Interoperability"}}
+{"Triples with white space in annotation(at the beginning or at the end)":{"description":"presence of white space in labels","input":"(working) SPARQL endpoint","output":"[0,1]. Best value: 1. -: if the SPARQL endpoint is missing or not online or error during the execution of the sparql query.","dimension":"Accuracy"}}
+{"Entities as member of disjoint class":{"description":"no. of entities described as members of disjoint classes / total no. of entities described in the dataset","input":"(working) SPARQL endpoint","output":"[0,1]. Best value: 1. -: if the SPARQL endpoint is missing or not online or error during the execution of the sparql query.","dimension":"Consistency"}}
+{"Interlinking completeness":{"description":"degree to which interlinks are not missing","input":"Metadata","output":"[0,1]. Best value: 1. insufficient data: if the interlinking completeness can't be calculated.","dimension":"Completeness"}}
+{"Functional properties with inconsistent values":{"description":"FP = 1 - num of triples of with inconsistent values for functional properties / num of triples","input":"(working) SPARQL endpoint","output":"[0,1]. Best value: 1. -: if the SPARQL endpoint is missing or not online or error during the execution of the sparql query.","dimension":"Accuracy"}}
+{"25th percentile length URIs (predicate)":{}}
+{"Normalized score":{"description":"Overall quality score computed as a linear combination of all scores of the individual quality dimensions.","input":"Quality dimensions scores","output":"[0,100]. Best value: 100."}}
+{"Clustering coefficient":{"description":"detection of (a) interlinking degree, (b) clustering coefficient, (c) centrality, (d) open sameAs chains and (e) description richness through sameAs by using network measures","input":"Metadata","output":"float: the clustering coefficient; {}: if the dataset is not interlinked.","dimension":"Interlinking"}}

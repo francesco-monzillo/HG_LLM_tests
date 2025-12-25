@@ -1,0 +1,40 @@
+{"NoiPA":{}}
+{"Representational-Conciseness score":{}}
+{"25th percentile latency":{}}
+{"https://noipa.mef.gov.it":{}}
+{"75th percentile latency":{}}
+{"U1-value":{}}
+{"U5-value":{}}
+{"_authors_specified":{}}
+{"MeanTPNoOff":{}}
+{" Percentage of triples with labels":{}}
+{"Web:https://noipa.mef.gov.it Name:NoiPA Email:black@email.it":{}}
+{"_sources_specified":{}}
+{"IN4-value":{}}
+{"_skos_mapping_frequency":{}}
+{"IN3-value":{}}
+{"PE2-value":{}}
+{"RC1-value":{}}
+{"_publishers_specified":{}}
+{"_indication_of_metadata":{}}
+{"_age_of_data_specified":{}}
+{"PE3-value":{}}
+{"_reuse_of_existing_vocabularies":{}}
+{"0.0%":{}}
+{"_high_throughput":{}}
+{"8.992024":{}}
+{"2025-05-04":{}}
+{"False":{}}
+{"_human_readable_labelling":{}}
+{"2025-08-03":{}}
+{"2025-08-04":{}}
+{"True":{}}
+{"2025-07-18":{}}
+{"2025-09-07":{}}
+{"2025-07-13":{}}
+{"2024-02-08":{}}
+{"2025-04-17":{}}
+{"9.063217":{}}
+{"10.123721":{}}
+{"Minimum latency":{}}
+{"2025-09-01":{}}

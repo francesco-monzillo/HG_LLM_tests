@@ -1,0 +1,40 @@
+{"Number of triples linked":{}}
+{"_number_of_triples_availability":{}}
+{" Percentage of triples with labels":{}}
+{" Number of triples (metadata)":{}}
+{"2025-08-03":{}}
+{"_sources_specified":{}}
+{"2025-07-13":{}}
+{"2025-05-04":{}}
+{"2025-09-07":{}}
+{"LemmaBank":{}}
+{"Historical updates":{}}
+{"_contributors_specified":{}}
+{"2025-06-01":{}}
+{"_publishers_specified":{}}
+{"_level_of_detail_specified":{}}
+{"_sameAs_chains_frequency":{}}
+{"_age_of_data_specified":{}}
+{"Versatility score":{"description":"Overall score for the versatility dimension computed as a linear combination of the individual versatility metrics scores","input":"Versatility metrics scores","output":"[0,1]. Best value: 1.","dimension":"Versatility"}}
+{"Volatility score":{"dimension":"Timeliness"}}
+{"_reuse_of_existing_terms":{}}
+{"Inactive links":{"dimension":"Availability"}}
+{"External links":{"dimension":"Interlinking"}}
+{"dblp-kg":{}}
+{"bbc-programmes":{}}
+{"NoiPA":{}}
+{"_authors_specified":{}}
+{"Limited":{}}
+{"_specification_of_used_languages":{}}
+{"_indication_of_metadata":{}}
+{"PE3-value":{}}
+{"_modification_date_of_statements_specified":{}}
+{"KG name":{}}
+{"I3-D Degree of connection":{"description":"Degree of connection","input":"Data","output":"1: contains link to another dataset; 0: otherwise","dimension":"FAIR"}}
+{"_human_readable_labelling":{}}
+{"Description":{"dimension":"Believability"}}
+{"_accessing_of_data_in_different_ways":{}}
+{"IN3-value":{}}
+{"_high_throughput":{}}
+{"Number of triples (query)":{"description":"Number of triples","input":"(working) SPARQL endpoint","output":"integer: the number of triples; -: The SPARQL endpoint is missing.","dimension":"Amount of data"}}
+{"bpr":{}}

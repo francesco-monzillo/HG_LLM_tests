@@ -1,0 +1,40 @@
+{" Percentage of triples with labels":{}}
+{" Number of triples (metadata)":{}}
+{"Number of triples linked":{}}
+{"Number of triples (query)":{"description":"Number of triples","input":"(working) SPARQL endpoint","output":"integer: the number of triples; -: The SPARQL endpoint is missing.","dimension":"Amount of data"}}
+{"I3-D Degree of connection":{"description":"Degree of connection","input":"Data","output":"1: contains link to another dataset; 0: otherwise","dimension":"FAIR"}}
+{"75th percentile length URIs (object)":{}}
+{"25th percentile length URIs (object)":{}}
+{"_high_throughput":{}}
+{"URL for download the dataset":{"description":"Checking whether the data is available as a SPARQL endpoint and is available for download as an RDF dump","input":"(working) SPARQL endpoint or Metadata or VoID file","output":"[]: if the sparql endpoint or rdf dump is not online;  list of links: if SPARQL endpoint and RDF dump are online.","dimension":"Versatility"}}
+{"75th percentile length URIs (subject)":{}}
+{"_indication_of_metadata":{}}
+{"75th percentile length URIs (predicate)":{}}
+{"25th percentile length URIs (subject)":{}}
+{"_reuse_of_existing_vocabularies":{}}
+{"25th percentile length URIs (predicate)":{}}
+{"_accessing_of_data_in_different_ways":{}}
+{"A2-M Registered in search engines":{"description":"Registered in search engines","input":"Metadata","output":"1: dataset registered in any search engine; 0: otherwise","dimension":"FAIR"}}
+{"Triples with malformed data type literals problem":{"description":"Incompatible with data type range","input":"(working) SPARQL endpoint","output":"[0,1]. Best value: 1. -: if the SPARQL endpoint is missing or not online or error during the execution of the sparql query.","dimension":"Accuracy"}}
+{"75th percentile throughput":{}}
+{"_age_of_data_specified":{}}
+{"Median length URIs (subject)":{"dimension":"Representational conciseness"}}
+{"25th percentile throughput":{}}
+{"Representational-Conciseness score":{}}
+{"_dataset_update_frequency_specified":{}}
+{"Amount of data score":{"description":"Overall score for the amount of data dimension computed as a linear combination of the individual amount of data metrics scores","input":"Amount of data metrics scores","output":"[0,1]. Best value: 1.","dimension":"Amount of data"}}
+{"Median length URIs (predicate)":{"dimension":"Representational conciseness"}}
+{"Number of samAs chains":{"description":"detection of (a) interlinking degree, (b) clustering coefficient, (c) centrality, (d) open sameAs chains and (e) description richness through sameAs by using network measures","input":"Metadata","output":"False: no sameAs chains in the dataset; -: the SPARQL endpoint is missing; integer: number of sameAs chains in the dataset.","dimension":"Interlinking"}}
+{"Median length URIs (object)":{"dimension":"Representational conciseness"}}
+{"_human_readable_labelling":{}}
+{"Triples with white space in annotation(at the beginning or at the end)":{"description":"presence of white space in labels","input":"(working) SPARQL endpoint","output":"[0,1]. Best value: 1. -: if the SPARQL endpoint is missing or not online or error during the execution of the sparql query.","dimension":"Accuracy"}}
+{"Standard deviation lenght URIs (subject)":{}}
+{"Dataset URL":{"description":"Dataset URL","input":"(working) SPARQL endpoint or Metadata or VoID file","output":"url: the dataset url; absent: if the dataset url can't be retrieved","dimension":"Believability"}}
+{"Uses RDF structures":{"dimension":"Interpretability"}}
+{"Entities as member of disjoint class":{"description":"no. of entities described as members of disjoint classes / total no. of entities described in the dataset","input":"(working) SPARQL endpoint","output":"[0,1]. Best value: 1. -: if the SPARQL endpoint is missing or not online or error during the execution of the sparql query.","dimension":"Consistency"}}
+{"Representational-Consistency score":{"dimension":"Interoperability"}}
+{"Accuracy score":{"description":"Overall score for the accuracy dimension computed as a linear combination of the individual accuracy metrics scores","input":"Accuracy metrics scores","output":"[0,1]. Best value: 1.","dimension":"Accuracy"}}
+{"_skos_mapping_frequency":{}}
+{"F1-D URIs dereferenceability":{"description":"URIs dereferenceability","input":"Data","output":"# of dereferenceable URIs / total # of URIs. Best value: 1.","dimension":"FAIR"}}
+{"Clustering coefficient":{"description":"detection of (a) interlinking degree, (b) clustering coefficient, (c) centrality, (d) open sameAs chains and (e) description richness through sameAs by using network measures","input":"Metadata","output":"float: the clustering coefficient; {}: if the dataset is not interlinked.","dimension":"Interlinking"}}
+{"Triples with empty annotation problem":{"description":"labels, comments, notes which identifies triples whose property\u2019s object value is empty string","input":"(working) SPARQL endpoint","output":"[0,1]. Best value: 1. -: if the SPARQL endpoint is missing or not online or error during the execution of the sparql query.","dimension":"Accuracy"}}

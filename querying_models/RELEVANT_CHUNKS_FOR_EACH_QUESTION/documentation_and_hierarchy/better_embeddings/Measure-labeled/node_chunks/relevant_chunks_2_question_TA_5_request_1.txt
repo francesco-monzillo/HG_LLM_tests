@@ -1,0 +1,40 @@
+{"allie-abbreviation-and-long-form-database-in-life-science":{}}
+{"2811476 (out of 1000000 triples considered)":{}}
+{"A database of abbreviations and long forms utilized in Lifesciences. It provides a solution to the issue that many abbreviations are used in the literature. and polysemous or synonymous abbreviations appear frequently. making it difficult to read and understand scientific papers that are not relevant to the reader's expertise. Allie contains abbreviations and their corresponding long forms extracted from titles and abstracts in the entire MEDLINE\u00ae. a database of the U.S. National Library of Medicine. MEDLINE stores over 20 million bibliographic information in life science and is suitable for extracting domain specific abbreviations and their long forms appearing in actual literature.":{}}
+{"Allie Abbreviation And Long Form Database in Life Science":{}}
+{"Amount of data":{"dimension":"Contextual"}}
+{"Median length URIs (subject)":{"dimension":"Representational conciseness"}}
+{"Timeliness":{"dimension":"Dataset dynamicity"}}
+{"Median length URIs (predicate)":{"dimension":"Representational conciseness"}}
+{"Standard deviation lenght URIs (predicate)":{"dimension":"Representational conciseness"}}
+{"Standard deviation lenght URIs (object)":{"dimension":"Representational conciseness"}}
+{"Median length URIs (object)":{"dimension":"Representational conciseness"}}
+{"Standard deviation length URIs (subject)":{"dimension":"Representational conciseness"}}
+{"Currency":{"dimension":"Dataset dynamicity"}}
+{"Number of triples":{"dimension":"Amount of data"}}
+{"http://data.allie.dbcls.jp/sparql":{}}
+{"A2-M Registered in search engines":{"description":"Registered in search engines","input":"Metadata","output":"1: dataset registered in any search engine; 0: otherwise","dimension":"FAIR"}}
+{"Coronavirus dataset":{}}
+{"340000000.000000":{}}
+{"2025-09-01":{}}
+{"60000000.000000":{}}
+{"0.999999":{}}
+{"2025-06-01":{}}
+{"2011-08-01":{}}
+{"Amount of data score":{"description":"Overall score for the amount of data dimension computed as a linear combination of the individual amount of data metrics scores","input":"Amount of data metrics scores","output":"[0,1]. Best value: 1.","dimension":"Amount of data"}}
+{"Percentage of triples with labels":{"dimension":"Understandability"}}
+{"11.000000":{}}
+{"2024-02-08":{}}
+{"['http://purl.org/allie/ontology/201108#']":{}}
+{"1.000000":{}}
+{"['ftp://ftp.dbcls.jp/allie/allie_rdf/allie_rdf_nt_latest.gz']":{}}
+{"2025-04-17":{}}
+{"2025-08-04":{}}
+{"2025-08-03":{}}
+{"1.0":{}}
+{"dblp Knowledge Graph":{}}
+{"Representational conciseness":{"dimension":"Representational"}}
+{"F1-M Unique and persistent ID":{"description":"Unique and persistent identifiers","input":"Metadata","output":"1: dataset registered in a search engine that provides a persistent DOI; 0: otherwise","dimension":"FAIR"}}
+{"101.000000":{}}
+{"0.0":{}}
+{"2025-09-07":{}}

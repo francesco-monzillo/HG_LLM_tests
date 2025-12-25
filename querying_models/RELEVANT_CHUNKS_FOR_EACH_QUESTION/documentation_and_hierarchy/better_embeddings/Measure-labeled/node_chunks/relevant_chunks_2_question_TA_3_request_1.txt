@@ -1,0 +1,40 @@
+{"allie-abbreviation-and-long-form-database-in-life-science":{}}
+{"Amount of data":{"dimension":"Contextual"}}
+{"Currency":{"dimension":"Dataset dynamicity"}}
+{"Coronavirus dataset":{}}
+{"A database of abbreviations and long forms utilized in Lifesciences. It provides a solution to the issue that many abbreviations are used in the literature. and polysemous or synonymous abbreviations appear frequently. making it difficult to read and understand scientific papers that are not relevant to the reader's expertise. Allie contains abbreviations and their corresponding long forms extracted from titles and abstracts in the entire MEDLINE\u00ae. a database of the U.S. National Library of Medicine. MEDLINE stores over 20 million bibliographic information in life science and is suitable for extracting domain specific abbreviations and their long forms appearing in actual literature.":{}}
+{"Timeliness":{"dimension":"Dataset dynamicity"}}
+{"Number of triples":{"dimension":"Amount of data"}}
+{"Allie Abbreviation And Long Form Database in Life Science":{}}
+{"A2-M Registered in search engines":{"description":"Registered in search engines","input":"Metadata","output":"1: dataset registered in any search engine; 0: otherwise","dimension":"FAIR"}}
+{"Percentage of triples with labels":{"dimension":"Understandability"}}
+{"True":{}}
+{"I3-D Degree of connection":{"description":"Degree of connection","input":"Data","output":"1: contains link to another dataset; 0: otherwise","dimension":"FAIR"}}
+{"0.0":{}}
+{"1.0":{}}
+{"['http://purl.org/allie/ontology/201108#']":{}}
+{"False":{}}
+{"['ftp://ftp.dbcls.jp/allie/allie_rdf/allie_rdf_nt_latest.gz']":{}}
+{"2025-09-01":{}}
+{"[''. '']":{}}
+{"0.0%":{}}
+{"2025-06-01":{}}
+{"2811476 (out of 1000000 triples considered)":{}}
+{"http://data.allie.dbcls.jp/sparql":{}}
+{"2025-08-04":{}}
+{"absent":{}}
+{"2024-02-08":{}}
+{"['ftp://ftp.dbcls.jp/allie/allie_rdf/allie_rdf_nt_latest.gz'. 'ftp://ftp.dbcls.jp/allie/allie_rdf/']":{}}
+{"['https://doi.org/10.4230/dblp.rdf.ntriples'. 'https://dblp.org/rdf/dblp.ttl.gz']":{}}
+{"['2018-05-16|None'. '2019-01-15|None'. '2019-04-05|None'. '2020-01-08|None'. '2022-10-08|None'. '2022-10-14|None'. '2022-10-18|None'. '2022-10-29|None'. '2022-12-05|None'. '2023-01-28|None'. '2023-02-16|None'. '2023-06-02|None'. '2023-12-02|None'. '2024-01-10|None'. '2024-01-26|None'. '2024-01-30|None'. '2024-02-02|None'. '2024-02-03|None'. '2024-02-06|None'. '2024-02-07|None'. '2024-02-08|None']":{}}
+{"Amount of data score":{"description":"Overall score for the amount of data dimension computed as a linear combination of the individual amount of data metrics scores","input":"Amount of data metrics scores","output":"[0,1]. Best value: 1.","dimension":"Amount of data"}}
+{"2025-08-03":{}}
+{"['application/rdf+xml'. 'application/zip; qs=0.001'. '']":{}}
+{"Dataset URL":{"description":"Dataset URL","input":"(working) SPARQL endpoint or Metadata or VoID file","output":"url: the dataset url; absent: if the dataset url can't be retrieved","dimension":"Believability"}}
+{"2025-07-13":{}}
+{"0.999999":{}}
+{"['text/html; charset=UTF-8']":{}}
+{"['text/html; charset=UTF-8'. 'meta/rdf-schema'. 'meta/rdf-schema']":{}}
+{"dblp Knowledge Graph":{}}
+{"Accuracy score":{"description":"Overall score for the accuracy dimension computed as a linear combination of the individual accuracy metrics scores","input":"Accuracy metrics scores","output":"[0,1]. Best value: 1.","dimension":"Accuracy"}}
+{"['Monthly']":{}}

@@ -1,0 +1,40 @@
+{"Trust value":{"description":"Meta-information about the identity of information provider","input":"Metadata","output":"float: the trust value;","dimension":"Believability"}}
+{"Dataset URL":{"description":"Dataset URL","input":"(working) SPARQL endpoint or Metadata or VoID file","output":"url: the dataset url; absent: if the dataset url can't be retrieved","dimension":"Believability"}}
+{" Number of triples (metadata)":{}}
+{"Verifiability score":{"description":"Overall score for the verifiability dimension computed as a linear combination of the individual verifiability metrics scores","input":"Verifiability metrics scores","output":"[0,1]. Best value: 1.","dimension":"Verifiability"}}
+{"Signed":{"description":"checking whether the dataset is signed","input":"Metadata","output":"boolean: true if the dataset is signed; false: if the dataset is not signed.","dimension":"Verifiability"}}
+{"Is on a trusted provider list":{"description":"checking whether the provider/contributor is contained in a list of trusted providers","input":"Metadata","output":"boolean: true if the provider is trusted; false: if the provider is not trusted","dimension":"Believability"}}
+{"A1.2 Authentication & HTTPS support":{"description":"Authentication & HTTPS support","input":"(Meta)data","output":"1: security requirements can be discovered via SPARQL; 0: otherwise","dimension":"FAIR"}}
+{"I3-D Degree of connection":{"description":"Degree of connection","input":"Data","output":"1: contains link to another dataset; 0: otherwise","dimension":"FAIR"}}
+{"Sources":{"description":"stating the author and his contributors, the publisher of the data and its sources","input":"Metadata","output":"string: the website, the name and the email of the source; False: if the sources are not indicated.","dimension":"Verifiability"}}
+{"A2-M Registered in search engines":{"description":"Registered in search engines","input":"Metadata","output":"1: dataset registered in any search engine; 0: otherwise","dimension":"FAIR"}}
+{"URL for download the dataset":{"description":"Checking whether the data is available as a SPARQL endpoint and is available for download as an RDF dump","input":"(working) SPARQL endpoint or Metadata or VoID file","output":"[]: if the sparql endpoint or rdf dump is not online;  list of links: if SPARQL endpoint and RDF dump are online.","dimension":"Versatility"}}
+{"R1.1 Machine- or human-readable license retrievable via any primary source":{"description":"Any license retrievable","input":"(Meta)data","output":"1: license explicitly reported; 0: otherwise","dimension":"FAIR"}}
+{"Use HTTPS":{"description":"HTTPS support","input":"(working) SPARQL endpoint","output":"False: Does not use HTTPS; True: Uses HTTPS; -: The SPARQL endpoint is missing.","dimension":"Security"}}
+{"Security score":{"description":"Overall score for the security dimension computed as a linear combination of the individual security metrics scores","input":"Security metrics scores","output":"[0,1]. Best value: 1.","dimension":"Security"}}
+{"License human redeable":{"description":"Detection of a license in the documentation of the dataset","input":"(working) SPARQL endpoint","output":"True: the human readable license is indicated; False: the human readable license is not indicated; -: The SPARQL endpoint is missing.","dimension":"Licensing"}}
+{"_human_readable_license_metadata_is_retrievable":{}}
+{"Believability score":{"description":"Overall score for the believability dimension computed as a linear combination of the individual believability metrics scores","input":"Believability metrics scores","output":"[0,1]. Best value: 1.","dimension":"Believability"}}
+{" Percentage of triples with labels":{}}
+{"_reuse_of_existing_vocabularies":{}}
+{"_dataset_update_frequency_specified":{}}
+{"_age_of_data_specified":{}}
+{"Accuracy score":{"description":"Overall score for the accuracy dimension computed as a linear combination of the individual accuracy metrics scores","input":"Accuracy metrics scores","output":"[0,1]. Best value: 1.","dimension":"Accuracy"}}
+{"Representational-Consistency score":{"dimension":"Interoperability"}}
+{"_machine_readable_license_metadata_is_retrievable":{}}
+{"Consistency score":{"description":"Overall score for the consistency dimension computed as a linear combination of the individual consistency metrics scores","input":"Consistency metrics scores","output":"[0,1]. Best value: 1.","dimension":"Consistency"}}
+{"_indication_of_metadata":{}}
+{"Requires authentication":{"description":"use of login credentials (or use of SSL or SSH)","input":"(working) SPARQL endpoint","output":"False: Authentication is not required; True: authentication required; -: The SPARQL endpoint is missing.","dimension":"Security"}}
+{"F4-M Metadata registered in a searchable engine":{"description":"Metadata registered in a searchable engine","input":"Metadata","output":"1: dataset registered in any search engine; 0: otherwise","dimension":"FAIR"}}
+{"Reputation score":{"description":"Overall score for the reputation dimension computed as a linear combination of the individual reputation metrics scores","input":"Reputation metrics scores","output":"[0,1]. Best value: 1.","dimension":"Reputation"}}
+{"_human_readable_license_query_is_retrievable":{}}
+{"License machine redeable (metadata)":{"description":"detection of the indication of a license in the VoID description or in the dataset itself","input":"VoID file or metadata","output":"string: the license if it can be recovered; False: the license is not indicated","dimension":"Licensing"}}
+{"New vocabularies defined in the dataset":{"description":"usage of established vocabularies","input":"(working) SPARQL endpoint","output":"[]: if no new vocabulary is defined; -: the SPARQL endpoint is missing; list of new vocabularies: if at least a new vocabulary is defined.","dimension":"Interoperability"}}
+{"75th percentile length URIs (object)":{}}
+{"A1-D Working access point(s)":{"description":"Working access point(s)","input":"Data","output":"1: operational SPARQL or accessible data dump; 0.5: accessible SPARQL endpoint or data dump; 0: otherwise","dimension":"FAIR"}}
+{"F2a-M - Metadata availability via standard primary sources":{"description":"Metadata availability via standard primary sources","input":"Metadata","output":"1: SPARQL endpoint, searchable engine, or VoID/DCAT; 0: otherwise","dimension":"FAIR"}}
+{"I score":{"description":"Overall Interoperability score computed as a linear combination of all scores of the individual I subprinciples","input":"Interoperability principles scores","output":"[0,1]. Best value: 1.","dimension":"FAIR"}}
+{"25th percentile length URIs (object)":{}}
+{"Score":{"description":"Overall quality score computed as a linear combination of all scores of the individual quality dimensions","input":"Quality dimensions scores","output":"[0,1]. Best value: 1."}}
+{"License machine redeable (query)":{"description":"detection of the indication of a license in the VoID description or in the dataset itself","input":"(working) SPARQL endpoint","output":"string: the license if it can be recovered; -: the license is not indicated or the SPARQL endpoint is missing.","dimension":"Licensing"}}
+{"I1-M Metadata are described with VoID/DCAT predicates":{"description":"VoID/DCAT description","input":"Metadata","output":"1: published according to VoID/DCAT specs; 0: otherwise","dimension":"FAIR"}}

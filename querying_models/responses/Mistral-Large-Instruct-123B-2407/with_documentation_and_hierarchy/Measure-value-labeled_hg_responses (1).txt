@@ -1,0 +1,214 @@
+Question: IR_1.
+Request: Retrieve the SPARQL endpoint status of NoiPA in the date September 7th, 2025?
+Expected Response: On
+Response:
+ The SPARQL endpoint status of NoiPA on September 7th, 2025, is available.
+
+Vote:
+--------------------------------------------------
+Question: IR_1.
+Request: Is the NoiPA SPARQL endpoint up in the last assessment?
+Expected Response: On
+Response:
+ Yes, the NoiPA SPARQL endpoint is up according to the latest assessment.
+
+Vote:
+--------------------------------------------------
+Question: IR_2.
+Request: Which is the amount of data of the LiLa Lemma Bank dataset?
+Expected Response: 1,699,687
+Response:
+ The amount of data of the LiLa Lemma Bank dataset is not explicitly provided in the given data. However, it is mentioned that the dataset contains approximately 200,000 canonical forms for Latin, which are modeled using the Ontolex ontology.
+
+Vote:
+--------------------------------------------------
+Question: IR_2.
+Request: How many triples does LiLa Lemma Bank have?
+Expected Response: 1,699,687
+Response:
+ LiLa Lemma Bank has 200,000 canonical forms for Latin that are used to interlink the linguistic resources in the LiLa Knowledge Base.
+
+Vote:
+--------------------------------------------------
+Question: IR_3.
+Request: Which is the license of the DBLP dataset?
+Expected Response: CC-0
+Response:
+ The license of the DBLP dataset is under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+Vote:
+--------------------------------------------------
+Question: IR_3.
+Request: How is DBLP licensed?
+Expected Response: CC-0
+Response:
+ DBLP is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). This means that users are free to share and adapt the work, as long as they give appropriate credit, indicate if changes were made, and do not use the material for commercial purposes.
+
+Vote:
+--------------------------------------------------
+Question: IR_4.
+Request: Which is the accuracy score of WordNet?
+Expected Response: 0.00
+Response:
+ The accuracy score of WordNet is 1.000000.
+
+Vote:
+--------------------------------------------------
+Question: IR_4.
+Request: How accurate is WordNet?
+Expected Response: 0.00
+Response:
+ The accuracy of WordNet varies depending on the specific metric being evaluated. Here are some accuracy scores for WordNet across different dates:
+
+- **2025-07-13**: Accuracy score = 0.000000
+- **2025-08-03**: Accuracy score = 0.000000
+- **2025-09-07**: Accuracy score = 0.000000
+
+These scores indicate that WordNet has an accuracy score of 0.000000 across these dates, suggesting that it may not be highly accurate according to this specific metric.
+
+Vote:
+--------------------------------------------------
+Question: IR_5.
+Request: What is the trust value of the Linked Open Camera dataset?
+Expected Response: 0.5
+Response:
+ The trust value of the Linked Open Camera dataset is 0.750000.
+
+Vote:
+--------------------------------------------------
+Question: IR_5.
+Request: How trustworthy is the Linked Open Camera dataset?
+Expected Response: 0.5
+Response:
+ The Linked Open Camera dataset has a Trust value of 0.750000 for both 2025-05-04 and 2025-07-13. This indicates a high level of trustworthiness for the dataset.
+
+Vote:
+--------------------------------------------------
+Question: TA_1.
+Request: Is the number of triples of NoiPA retrieved via the SPARQL endpoint always the same?
+Expected Response: No, they slightly increase over time.
+Response:
+ No, the number of triples retrieved via the SPARQL endpoint can vary depending on the specific query and the state of the dataset at the time of the query. The results provided here show different numbers of triples for different queries and dates.
+
+Vote:
+--------------------------------------------------
+Question: TA_1.
+Request: The number of triples of NoiPA retrieved via the SPARQL endpoint is constant?
+Expected Response: No, they slightly increase over time.
+Response:
+ Yes, the number of triples of NoiPA retrieved via the SPARQL endpoint is constant across different dates.
+
+Vote:
+--------------------------------------------------
+Question: TA_2.
+Request: Is the SPARQL endpoint of DBLP always available?
+Expected Response: Yes
+Response:
+ Yes, the SPARQL endpoint of DBLP is always available.
+
+Vote:
+--------------------------------------------------
+Question: TA_2.
+Request: Is the DBLP SPARQL endpoint always up?
+Expected Response: Yes
+Response:
+ Yes, the DBLP SPARQL endpoint is always up.
+
+Vote:
+--------------------------------------------------
+Question: TA_3.
+Request: Is the data dump of the Allie Abbreviation And Long Form dataset always set to 1 in the observed period?
+Expected Response: No, it is discontinuous
+Response:
+ No, the data dump of the Allie Abbreviation And Long Form dataset is not always set to 1 in the observed period. The dataset has multiple versions and updates over time.
+
+Vote:
+--------------------------------------------------
+Question: TA_3.
+Request: Is the data dump of the Allie Abbreviation And Long Form dataset always up?
+Expected Response: No, it is discontinuous
+Response:
+ No, the data dump of the Allie Abbreviation And Long Form dataset is not always up. The availability of the data dump varies across different dates and datasets. For example, on 2025-05-04, the data dump was not available, but on 2025-06-01, it was available. Similarly, on 2025-07-13, the data dump was not available, but on 2025-08-03, it was available again.
+
+Vote:
+--------------------------------------------------
+Question: TA_4.
+Request: Is the accuracy of NoiPA constant over time?
+Expected Response: No
+Response:
+ The accuracy of NoiPA appears to be consistent over time, with an accuracy score of 1.000000 across multiple dates. This indicates that the accuracy of NoiPA has remained stable and reliable over the period assessed.
+
+Vote:
+--------------------------------------------------
+Question: TA_4.
+Request: Does the accuracy of NoiPA remain consistent over time?
+Expected Response: No
+Response:
+ The accuracy of NoiPA appears to be consistently high across different time periods, as indicated by the Accuracy scores provided in the data. This suggests that the quality and reliability of the data have been maintained over time.
+
+Vote:
+--------------------------------------------------
+Question: TA_5.
+Request: What is the longest continuous period in which the Allie Abbreviation And Long Form dataset data dump has been equals to 1?
+Expected Response: 91 days
+Response:
+ The longest continuous period in which the Allie Abbreviation And Long Form dataset data dump has been available is 1 year.
+
+Vote:
+--------------------------------------------------
+Question: TA_5.
+Request: For how long, without interruption, has the Allie Abbreviation And Long Form dataset data dump remained up?
+Expected Response: 91 days
+Response:
+ The Allie Abbreviation And Long Form dataset data dump has been up without interruption since its creation.
+
+Vote:
+--------------------------------------------------
+Question: Co_1.
+Request: Which dataset has the highest number of triples?
+Expected Response: DBLP
+Response:
+ The dataset with the highest number of triples is "NoiPA" with 352,748,967,000,000 triples.
+
+Vote:
+--------------------------------------------------
+Question: Co_1.
+Request: Which is the biggest dataset among the compared ones?
+Expected Response: DBLP
+Response:
+ The biggest dataset among the compared ones is the "dblp-kg" dataset with 157187352.000000 Number of triples (metadata).
+
+Vote:
+--------------------------------------------------
+Question: Co_2.
+Request: Which is the dataset performing worst in the license metric?
+Expected Response: CIDOC-CRM
+Response:
+ The dataset performing worst in the license metric is "bbc-programmes" with a Licensing score of 0.0 across multiple dates.
+
+Vote:
+--------------------------------------------------
+Question: Co_2.
+Request: Which is the worst performing dataset in the license metric?
+Expected Response: CIDOC-CRM
+Response:
+ The worst performing dataset in the license metric is CIDOC-CRM, with a Licensing score of 0.0 across multiple dates.
+
+Vote:
+--------------------------------------------------
+Question: Co_3.
+Request: What is the mean score for the accuracy dimension?
+Expected Response: 0.50
+Response:
+ The mean score for the accuracy dimension is computed as a linear combination of the individual accuracy metrics scores, resulting in a value between 0 and 1. The best value for accuracy is 1.
+
+Vote:
+--------------------------------------------------
+Question: Co_3.
+Request: What is the mean value of the accuracy dimension?
+Expected Response: 0.50
+Response:
+ The mean value of the accuracy dimension is 0.5, indicating that the average accuracy score across the datasets is 50%.
+
+Vote:
+--------------------------------------------------

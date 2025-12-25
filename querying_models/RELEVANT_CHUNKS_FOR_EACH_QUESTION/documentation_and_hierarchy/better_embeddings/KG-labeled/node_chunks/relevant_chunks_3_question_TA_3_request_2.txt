@@ -1,0 +1,40 @@
+{"A database of abbreviations and long forms utilized in Lifesciences. It provides a solution to the issue that many abbreviations are used in the literature. and polysemous or synonymous abbreviations appear frequently. making it difficult to read and understand scientific papers that are not relevant to the reader's expertise. Allie contains abbreviations and their corresponding long forms extracted from titles and abstracts in the entire MEDLINE\u00ae. a database of the U.S. National Library of Medicine. MEDLINE stores over 20 million bibliographic information in life science and is suitable for extracting domain specific abbreviations and their long forms appearing in actual literature.":{}}
+{"Allie Abbreviation And Long Form Database in Life Science":{}}
+{"['ftp://ftp.dbcls.jp/allie/allie_rdf/allie_rdf_nt_latest.gz']":{}}
+{"['ftp://ftp.dbcls.jp/allie/allie_rdf/allie_rdf_nt_latest.gz'. 'ftp://ftp.dbcls.jp/allie/allie_rdf/']":{}}
+{"URL for download the dataset":{"description":"Checking whether the data is available as a SPARQL endpoint and is available for download as an RDF dump","input":"(working) SPARQL endpoint or Metadata or VoID file","output":"[]: if the sparql endpoint or rdf dump is not online;  list of links: if SPARQL endpoint and RDF dump are online.","dimension":"Versatility"}}
+{"http://data.allie.dbcls.jp/sparql":{}}
+{"Offline dumps":{}}
+{"Coronavirus dataset":{}}
+{"_dataset_update_frequency_specified":{}}
+{"_age_of_data_specified":{}}
+{"25th percentile length URIs (object)":{}}
+{"['http://purl.org/allie/ontology/201108#']":{}}
+{"75th percentile length URIs (object)":{}}
+{"A2-M Registered in search engines":{"description":"Registered in search engines","input":"Metadata","output":"1: dataset registered in any search engine; 0: otherwise","dimension":"FAIR"}}
+{"http://allie.dbcls.jp/":{}}
+{"['https://doi.org/10.4230/dblp.rdf.ntriples'. 'https://dblp.org/rdf/dblp.ttl.gz']":{}}
+{"https://sparql.dblp.org/sparql":{}}
+{"_reuse_of_existing_vocabularies":{}}
+{"25th percentile length URIs (predicate)":{}}
+{"Standard deviation lenght URIs (subject)":{}}
+{"25th percentile length URIs (subject)":{}}
+{"['https://dblp.org/rdf/schema#AmbiguousCreator'. 'https://dblp.org/rdf/schema#Article'. 'https://dblp.org/rdf/schema#AuthorSignature'. 'https://dblp.org/rdf/schema#Book'. 'https://dblp.org/rdf/schema#Conference'. 'https://dblp.org/rdf/schema#Creator'. 'https://dblp.org/rdf/schema#Data'. 'https://dblp.org/rdf/schema#Editorship'. 'https://dblp.org/rdf/schema#EditorSignature'. 'https://dblp.org/rdf/schema#Group'. 'https://dblp.org/rdf/schema#Incollection'. 'https://dblp.org/rdf/schema#Informal'. 'https://dblp.org/rdf/schema#Inproceedings'. 'https://dblp.org/rdf/schema#Journal'. 'https://dblp.org/rdf/schema#Person'. 'https://dblp.org/rdf/schema#Publication'. 'https://dblp.org/rdf/schema#Reference'. 'https://dblp.org/rdf/schema#Repository'. 'https://dblp.org/rdf/schema#Series'. 'https://dblp.org/rdf/schema#Signature'. 'https://dblp.org/rdf/schema#Stream'. 'https://dblp.org/rdf/schema#VersionRelation'. 'https://dblp.org/rdf/schema#Withdrawn']":{}}
+{"WordNet 2.0 (W3C)":{}}
+{" Number of triples (metadata)":{}}
+{"75th percentile length URIs (predicate)":{}}
+{"_indication_of_metadata":{}}
+{"[''. 'text/turtle'. 'text/turtle'. 'meta/rdf-schema'. 'meta/rdf-schema']":{}}
+{"New vocabularies defined in the dataset":{"description":"usage of established vocabularies","input":"(working) SPARQL endpoint","output":"[]: if no new vocabulary is defined; -: the SPARQL endpoint is missing; list of new vocabularies: if at least a new vocabulary is defined.","dimension":"Interoperability"}}
+{" Percentage of triples with labels":{}}
+{"_human_readable_labelling":{}}
+{"Dataset URL":{"description":"Dataset URL","input":"(working) SPARQL endpoint or Metadata or VoID file","output":"url: the dataset url; absent: if the dataset url can't be retrieved","dimension":"Believability"}}
+{"_high_throughput":{}}
+{"75th percentile length URIs (subject)":{}}
+{"http://www.w3.org/TR/wordnet-rdf":{}}
+{"2025-09-01":{}}
+{"dblp Knowledge Graph":{}}
+{"['text/html; charset=UTF-8'. 'meta/rdf-schema'. 'meta/rdf-schema']":{}}
+{"_accessing_of_data_in_different_ways":{}}
+{"2025-06-01":{}}
+{"https://dblp.org":{}}

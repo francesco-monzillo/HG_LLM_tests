@@ -1,0 +1,40 @@
+{"['https://doi.org/10.4230/dblp.rdf.ntriples'. 'https://dblp.org/rdf/dblp.ttl.gz']":{}}
+{"https://dblp.org":{}}
+{"dblp Knowledge Graph":{}}
+{"_human_readable_license_metadata_is_retrievable":{}}
+{"https://sparql.dblp.org/sparql":{}}
+{"License human redeable":{"description":"Detection of a license in the documentation of the dataset","input":"(working) SPARQL endpoint","output":"True: the human readable license is indicated; False: the human readable license is not indicated; -: The SPARQL endpoint is missing.","dimension":"Licensing"}}
+{"http://creativecommons.org/licenses/by/4.0/":{}}
+{"https://creativecommons.org/licenses/by-sa/3.0/":{}}
+{"R1.1 Machine- or human-readable license retrievable via any primary source":{"description":"Any license retrievable","input":"(Meta)data","output":"1: license explicitly reported; 0: otherwise","dimension":"FAIR"}}
+{"['http://uri.dbcls.rois.ac.jp/']":{}}
+{"Web:https://dblp.org Name:Marcel R. Ackermann Email:marcel.ackermann@dagstuhl.de":{}}
+{"http://reference.data.gov.uk/id/open-government-licence":{}}
+{"['https://dblp.org/rdf/schema#AmbiguousCreator'. 'https://dblp.org/rdf/schema#Article'. 'https://dblp.org/rdf/schema#AuthorSignature'. 'https://dblp.org/rdf/schema#Book'. 'https://dblp.org/rdf/schema#Conference'. 'https://dblp.org/rdf/schema#Creator'. 'https://dblp.org/rdf/schema#Data'. 'https://dblp.org/rdf/schema#Editorship'. 'https://dblp.org/rdf/schema#EditorSignature'. 'https://dblp.org/rdf/schema#Group'. 'https://dblp.org/rdf/schema#Incollection'. 'https://dblp.org/rdf/schema#Informal'. 'https://dblp.org/rdf/schema#Inproceedings'. 'https://dblp.org/rdf/schema#Journal'. 'https://dblp.org/rdf/schema#Person'. 'https://dblp.org/rdf/schema#Publication'. 'https://dblp.org/rdf/schema#Reference'. 'https://dblp.org/rdf/schema#Repository'. 'https://dblp.org/rdf/schema#Series'. 'https://dblp.org/rdf/schema#Signature'. 'https://dblp.org/rdf/schema#Stream'. 'https://dblp.org/rdf/schema#VersionRelation'. 'https://dblp.org/rdf/schema#Withdrawn']":{}}
+{"_human_readable_license_query_is_retrievable":{}}
+{" Number of triples (metadata)":{}}
+{"https://www.apache.org/licenses/LICENSE-2.0":{}}
+{"_machine_readable_license_metadata_is_retrievable":{}}
+{"http://www.opendefinition.org/licenses/cc-zero":{}}
+{" Percentage of triples with labels":{}}
+{"http://data.allie.dbcls.jp/sparql":{}}
+{"https://creativecommons.org/licenses/by/3.0/deed.it":{}}
+{"_reuse_of_existing_vocabularies":{}}
+{"Coronavirus dataset":{}}
+{"http://creativecommons.org/licenses/by/2.1/jp/":{}}
+{"['text/html; charset=UTF-8'. 'meta/rdf-schema'. 'meta/rdf-schema']":{}}
+{"A2-M Registered in search engines":{"description":"Registered in search engines","input":"Metadata","output":"1: dataset registered in any search engine; 0: otherwise","dimension":"FAIR"}}
+{"['ftp://ftp.dbcls.jp/allie/allie_rdf/allie_rdf_nt_latest.gz']":{}}
+{"_indication_of_metadata":{}}
+{"https://creativecommons.org/publicdomain/zero/1.0/":{}}
+{"2811476 (out of 1000000 triples considered)":{}}
+{"_contributors_specified":{}}
+{"URL for download the dataset":{"description":"Checking whether the data is available as a SPARQL endpoint and is available for download as an RDF dump","input":"(working) SPARQL endpoint or Metadata or VoID file","output":"[]: if the sparql endpoint or rdf dump is not online;  list of links: if SPARQL endpoint and RDF dump are online.","dimension":"Versatility"}}
+{"_machine_readable_license_query_is_retrievable":{}}
+{"_age_of_data_specified":{}}
+{"_specification_of_used_languages":{}}
+{"_human_readable_labelling":{}}
+{"http://allie.dbcls.jp/":{}}
+{"[''. 'text/turtle'. 'text/turtle'. 'meta/rdf-schema'. 'meta/rdf-schema']":{}}
+{"Web:http://allie.dbcls.jp/ Name:Database Center for Life Science Email:info AT dbcls.rois.ac.jp":{}}
+{"http://www.opendefinition.org/licenses/cc-by":{}}

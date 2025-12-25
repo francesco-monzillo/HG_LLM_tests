@@ -1,0 +1,40 @@
+{"['https://doi.org/10.4230/dblp.rdf.ntriples'. 'https://dblp.org/rdf/dblp.ttl.gz']":{}}
+{"dblp Knowledge Graph":{}}
+{"https://dblp.org":{}}
+{"URL for download the dataset":{"description":"Checking whether the data is available as a SPARQL endpoint and is available for download as an RDF dump","input":"(working) SPARQL endpoint or Metadata or VoID file","output":"[]: if the sparql endpoint or rdf dump is not online;  list of links: if SPARQL endpoint and RDF dump are online.","dimension":"Versatility"}}
+{"A2-M Registered in search engines":{"description":"Registered in search engines","input":"Metadata","output":"1: dataset registered in any search engine; 0: otherwise","dimension":"FAIR"}}
+{"A1-D Working access point(s)":{"description":"Working access point(s)","input":"Data","output":"1: operational SPARQL or accessible data dump; 0.5: accessible SPARQL endpoint or data dump; 0: otherwise","dimension":"FAIR"}}
+{" Number of triples (metadata)":{}}
+{"https://sparql.dblp.org/sparql":{}}
+{" Percentage of triples with labels":{}}
+{"['https://dblp.org/rdf/schema#AmbiguousCreator'. 'https://dblp.org/rdf/schema#Article'. 'https://dblp.org/rdf/schema#AuthorSignature'. 'https://dblp.org/rdf/schema#Book'. 'https://dblp.org/rdf/schema#Conference'. 'https://dblp.org/rdf/schema#Creator'. 'https://dblp.org/rdf/schema#Data'. 'https://dblp.org/rdf/schema#Editorship'. 'https://dblp.org/rdf/schema#EditorSignature'. 'https://dblp.org/rdf/schema#Group'. 'https://dblp.org/rdf/schema#Incollection'. 'https://dblp.org/rdf/schema#Informal'. 'https://dblp.org/rdf/schema#Inproceedings'. 'https://dblp.org/rdf/schema#Journal'. 'https://dblp.org/rdf/schema#Person'. 'https://dblp.org/rdf/schema#Publication'. 'https://dblp.org/rdf/schema#Reference'. 'https://dblp.org/rdf/schema#Repository'. 'https://dblp.org/rdf/schema#Series'. 'https://dblp.org/rdf/schema#Signature'. 'https://dblp.org/rdf/schema#Stream'. 'https://dblp.org/rdf/schema#VersionRelation'. 'https://dblp.org/rdf/schema#Withdrawn']":{}}
+{"License human redeable":{"description":"Detection of a license in the documentation of the dataset","input":"(working) SPARQL endpoint","output":"True: the human readable license is indicated; False: the human readable license is not indicated; -: The SPARQL endpoint is missing.","dimension":"Licensing"}}
+{"Entities as member of disjoint class":{"description":"no. of entities described as members of disjoint classes / total no. of entities described in the dataset","input":"(working) SPARQL endpoint","output":"[0,1]. Best value: 1. -: if the SPARQL endpoint is missing or not online or error during the execution of the sparql query.","dimension":"Consistency"}}
+{"Availability for download (query)":{"description":"Checking whether an RDF dump is provided and can be downloaded","input":"(working) SPARQL endpoint","output":"False: The RDF dump is offline;  True: The RDF dump is online. -: The RDF dump is missing.","dimension":"Availability"}}
+{"Dataset URL":{"description":"Dataset URL","input":"(working) SPARQL endpoint or Metadata or VoID file","output":"url: the dataset url; absent: if the dataset url can't be retrieved","dimension":"Believability"}}
+{"R1.1 Machine- or human-readable license retrievable via any primary source":{"description":"Any license retrievable","input":"(Meta)data","output":"1: license explicitly reported; 0: otherwise","dimension":"FAIR"}}
+{"Availability for download (metadata)":{"description":"Checking whether an RDF dump is provided and can be downloaded","input":"Metadata or VoID file","output":"0: The RDF dump is offline;  1: The RDF dump is online. -1: The RDF dump is missing.","dimension":"Availability"}}
+{"Availability of RDF dump (query)":{"description":"Checking whether an RDF dump is provided and can be downloaded","input":"(working) SPARQL endpoint","output":"False: The RDF dump is offline;  True: The RDF dump is online. -: The RDF dump is missing.","dimension":"Availability"}}
+{"Triples with malformed data type literals problem":{"description":"Incompatible with data type range","input":"(working) SPARQL endpoint","output":"[0,1]. Best value: 1. -: if the SPARQL endpoint is missing or not online or error during the execution of the sparql query.","dimension":"Accuracy"}}
+{"_dataset_update_frequency_specified":{}}
+{"dblp-kg":{}}
+{"Coronavirus dataset":{}}
+{"2811476 (out of 1000000 triples considered)":{}}
+{"Functional properties with inconsistent values":{"description":"FP = 1 - num of triples of with inconsistent values for functional properties / num of triples","input":"(working) SPARQL endpoint","output":"[0,1]. Best value: 1. -: if the SPARQL endpoint is missing or not online or error during the execution of the sparql query.","dimension":"Accuracy"}}
+{"F1-M Unique and persistent ID":{"description":"Unique and persistent identifiers","input":"Metadata","output":"1: dataset registered in a search engine that provides a persistent DOI; 0: otherwise","dimension":"FAIR"}}
+{"I3-D Degree of connection":{"description":"Degree of connection","input":"Data","output":"1: contains link to another dataset; 0: otherwise","dimension":"FAIR"}}
+{"Availability of RDF dump (metadata)":{"description":"Checking whether an RDF dump is provided and can be downloaded","input":"Metadata or VoID file","output":"0: The RDF dump is offline;  1: The RDF dump is online. -1: The RDF dump is missing.","dimension":"Availability"}}
+{"Dataset update frequency":{"description":"it corresponds to the 'stating the [...] frequency of data validation'","input":"(working) SPARQL endpoint","output":"[]: the update frequency is not indicated; -: the SPARQL endpoint is missing; list of strings: the update frequency is indicated.","dimension":"Timeliness"}}
+{"['http://uri.dbcls.rois.ac.jp/']":{}}
+{"_age_of_data_specified":{}}
+{"F4-M Metadata registered in a searchable engine":{"description":"Metadata registered in a searchable engine","input":"Metadata","output":"1: dataset registered in any search engine; 0: otherwise","dimension":"FAIR"}}
+{"http://data.allie.dbcls.jp/sparql":{}}
+{"Availability score":{"description":"Overall score for the availability dimension computed as a linear combination of the individual availability metrics scores","input":"Availability metrics scores","output":"[0,1]. Best value: 1.","dimension":"Availability"}}
+{"_reuse_of_existing_vocabularies":{}}
+{"Extensional conciseness":{"description":"number of unique objects in relation to the overall number of object representations in the dataset","input":"(working) SPARQL endpoint","output":"[0,1]. Best value: 1. -: if the SPARQL endpoint is missing or not online or error during the execution of the sparql query.","dimension":"Conciseness"}}
+{"_indication_of_metadata":{}}
+{"Intensional conciseness":{"description":"number of unique objects in relation to the overall number of object representations in the dataset","input":"(working) SPARQL endpoint","output":"[0,1]. Best value: 1. -: if the SPARQL endpoint is missing or not online or error during the execution of the sparql query.","dimension":"Conciseness"}}
+{"Invalid usage of inverse-functional properties":{"description":"IFP = 1 - num of triples of with inconsistent values for functional properties / num of triples","input":"(working) SPARQL endpoint","output":"[0,1]. Best value: 1. -: if the SPARQL endpoint is missing or not online or error during the execution of the sparql query.","dimension":"Accuracy"}}
+{"New vocabularies defined in the dataset":{"description":"usage of established vocabularies","input":"(working) SPARQL endpoint","output":"[]: if no new vocabulary is defined; -: the SPARQL endpoint is missing; list of new vocabularies: if at least a new vocabulary is defined.","dimension":"Interoperability"}}
+{"_high_throughput":{}}
+{"_human_readable_license_metadata_is_retrievable":{}}

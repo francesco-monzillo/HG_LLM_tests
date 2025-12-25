@@ -1,0 +1,40 @@
+{"_human_readable_license_metadata_is_retrievable":{}}
+{"_human_readable_license_query_is_retrievable":{}}
+{"dblp-kg":{}}
+{"_machine_readable_license_metadata_is_retrievable":{}}
+{"_machine_readable_license_query_is_retrievable":{}}
+{"R1.1 Machine- or human-readable license retrievable via any primary source":{"description":"Any license retrievable","input":"(Meta)data","output":"1: license explicitly reported; 0: otherwise","dimension":"FAIR"}}
+{"_publishers_specified":{}}
+{"License human redeable":{"description":"Detection of a license in the documentation of the dataset","input":"(working) SPARQL endpoint","output":"True: the human readable license is indicated; False: the human readable license is not indicated; -: The SPARQL endpoint is missing.","dimension":"Licensing"}}
+{"_contributors_specified":{}}
+{"bpr":{}}
+{"Limited":{}}
+{"_specification_of_used_languages":{}}
+{"_sources_specified":{}}
+{"_human_readable_labelling":{}}
+{"allie-abbreviation-and-long-form-database-in-life-science":{}}
+{"_reuse_of_existing_terms":{}}
+{"_age_of_data_specified":{}}
+{"_level_of_detail_specified":{}}
+{"_reuse_of_existing_vocabularies":{}}
+{"2025-07-13":{}}
+{"_indication_of_metadata":{}}
+{"2025-05-04":{}}
+{"2025-08-03":{}}
+{"_high_throughput":{}}
+{"2025-06-01":{}}
+{"_authors_specified":{}}
+{"2025-09-07":{}}
+{"Licensing score":{"description":"Overall score for the licensing dimension computed as a linear combination of the individual licensing metrics scores","input":"Licensing metrics scores","output":"[0,1]. Best value: 1.","dimension":"Licensing"}}
+{"_accessing_of_data_in_different_ways":{}}
+{" Number of triples (metadata)":{}}
+{"License machine redeable (query)":{"description":"detection of the indication of a license in the VoID description or in the dataset itself","input":"(working) SPARQL endpoint","output":"string: the license if it can be recovered; -: the license is not indicated or the SPARQL endpoint is missing.","dimension":"Licensing"}}
+{"LemmaBank":{}}
+{"CIDOC-CRM":{}}
+{"_signed_specified":{}}
+{"NoiPA":{}}
+{"Offline dumps":{}}
+{"Historical updates":{}}
+{"External links":{"dimension":"Interlinking"}}
+{" Percentage of triples with labels":{}}
+{"Number of triples linked":{}}

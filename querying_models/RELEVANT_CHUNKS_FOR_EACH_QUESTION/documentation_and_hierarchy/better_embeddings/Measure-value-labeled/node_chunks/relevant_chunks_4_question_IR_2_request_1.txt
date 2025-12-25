@@ -1,0 +1,40 @@
+{" Number of triples (metadata)":{}}
+{" Percentage of triples with labels":{}}
+{"LemmaBank":{}}
+{"_reuse_of_existing_vocabularies":{}}
+{"URL for download the dataset":{"description":"Checking whether the data is available as a SPARQL endpoint and is available for download as an RDF dump","input":"(working) SPARQL endpoint or Metadata or VoID file","output":"[]: if the sparql endpoint or rdf dump is not online;  list of links: if SPARQL endpoint and RDF dump are online.","dimension":"Versatility"}}
+{"A2-M Registered in search engines":{"description":"Registered in search engines","input":"Metadata","output":"1: dataset registered in any search engine; 0: otherwise","dimension":"FAIR"}}
+{"_dataset_update_frequency_specified":{}}
+{"I3-D Degree of connection":{"description":"Degree of connection","input":"Data","output":"1: contains link to another dataset; 0: otherwise","dimension":"FAIR"}}
+{"Dataset URL":{"description":"Dataset URL","input":"(working) SPARQL endpoint or Metadata or VoID file","output":"url: the dataset url; absent: if the dataset url can't be retrieved","dimension":"Believability"}}
+{"_accessing_of_data_in_different_ways":{}}
+{"Representational-Conciseness score":{}}
+{"_age_of_data_specified":{}}
+{"Amount of data score":{"description":"Overall score for the amount of data dimension computed as a linear combination of the individual amount of data metrics scores","input":"Amount of data metrics scores","output":"[0,1]. Best value: 1.","dimension":"Amount of data"}}
+{"_indication_of_metadata":{}}
+{"_high_throughput":{}}
+{"Number of samAs chains":{"description":"detection of (a) interlinking degree, (b) clustering coefficient, (c) centrality, (d) open sameAs chains and (e) description richness through sameAs by using network measures","input":"Metadata","output":"False: no sameAs chains in the dataset; -: the SPARQL endpoint is missing; integer: number of sameAs chains in the dataset.","dimension":"Interlinking"}}
+{"Standard deviation lenght URIs (predicate)":{"dimension":"Representational conciseness"}}
+{"allie-abbreviation-and-long-form-database-in-life-science":{}}
+{"License human redeable":{"description":"Detection of a license in the documentation of the dataset","input":"(working) SPARQL endpoint","output":"True: the human readable license is indicated; False: the human readable license is not indicated; -: The SPARQL endpoint is missing.","dimension":"Licensing"}}
+{"25th percentile length URIs (object)":{}}
+{"Standard deviation lenght URIs (object)":{"dimension":"Representational conciseness"}}
+{"25th percentile length URIs (predicate)":{}}
+{"Number of triples (query)":{"description":"Number of triples","input":"(working) SPARQL endpoint","output":"integer: the number of triples; -: The SPARQL endpoint is missing.","dimension":"Amount of data"}}
+{"75th percentile length URIs (object)":{}}
+{"Sources":{"description":"stating the author and his contributors, the publisher of the data and its sources","input":"Metadata","output":"string: the website, the name and the email of the source; False: if the sources are not indicated.","dimension":"Verifiability"}}
+{"Median length URIs (subject)":{"dimension":"Representational conciseness"}}
+{"_specification_of_used_languages":{}}
+{"Clustering coefficient":{"description":"detection of (a) interlinking degree, (b) clustering coefficient, (c) centrality, (d) open sameAs chains and (e) description richness through sameAs by using network measures","input":"Metadata","output":"float: the clustering coefficient; {}: if the dataset is not interlinked.","dimension":"Interlinking"}}
+{"Number of labels/comments present on the data":{"description":"no. of entities described by stating an rdfs:label or rdfs:comment in the dataset / total no. of entities described in the data.","input":"(working) SPARQL endpoint","output":"integer: the number of labels/comments; -: the SPARQL endpoint is missing; False: if no label/comment is present or error during the execution of the sparql query.","dimension":"Understandability"}}
+{"75th percentile length URIs (predicate)":{}}
+{"Standard deviation lenght URIs (subject)":{}}
+{"25th percentile length URIs (subject)":{}}
+{"Accuracy score":{"description":"Overall score for the accuracy dimension computed as a linear combination of the individual accuracy metrics scores","input":"Accuracy metrics scores","output":"[0,1]. Best value: 1.","dimension":"Accuracy"}}
+{"Centrality":{"description":"detection of (a) interlinking degree, (b) clustering coefficient, (c) centrality, (d) open sameAs chains and (e) description richness through sameAs by using network measures","input":"Metadata","output":"float: the centrality; empty: if the dataset is not interlinked.","dimension":"Interlinking"}}
+{"25th percentile throughput":{}}
+{"New vocabularies defined in the dataset":{"description":"usage of established vocabularies","input":"(working) SPARQL endpoint","output":"[]: if no new vocabulary is defined; -: the SPARQL endpoint is missing; list of new vocabularies: if at least a new vocabulary is defined.","dimension":"Interoperability"}}
+{"F4-M Metadata registered in a searchable engine":{"description":"Metadata registered in a searchable engine","input":"Metadata","output":"1: dataset registered in any search engine; 0: otherwise","dimension":"FAIR"}}
+{"Uses RDF structures":{"dimension":"Interpretability"}}
+{"Degree of connection":{"description":"detection of (a) interlinking degree, (b) clustering coefficient, (c) centrality, (d) open sameAs chains and (e) description richness through sameAs by using network measures","input":"Metadata","output":"integer: the degree of connection; -: if the dataset is not interlinked.","dimension":"Interlinking"}}
+{"Median length URIs (predicate)":{"dimension":"Representational conciseness"}}

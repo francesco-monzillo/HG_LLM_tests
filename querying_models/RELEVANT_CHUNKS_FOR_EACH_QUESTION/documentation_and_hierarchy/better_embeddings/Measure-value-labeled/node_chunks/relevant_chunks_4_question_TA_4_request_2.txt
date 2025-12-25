@@ -1,0 +1,40 @@
+{"NoiPA":{}}
+{"Representational-Conciseness score":{}}
+{"25th percentile latency":{}}
+{"75th percentile latency":{}}
+{"U1-value":{}}
+{"U5-value":{}}
+{"_authors_specified":{}}
+{"MeanTPNoOff":{}}
+{" Percentage of triples with labels":{}}
+{"_sources_specified":{}}
+{"IN4-value":{}}
+{"_skos_mapping_frequency":{}}
+{"IN3-value":{}}
+{"PE2-value":{}}
+{"RC1-value":{}}
+{"_publishers_specified":{}}
+{"_indication_of_metadata":{}}
+{"_age_of_data_specified":{}}
+{"PE3-value":{}}
+{"_reuse_of_existing_vocabularies":{}}
+{"_high_throughput":{}}
+{"2025-05-04":{}}
+{"_human_readable_labelling":{}}
+{"2025-08-03":{}}
+{"2025-09-07":{}}
+{"2025-07-13":{}}
+{"Minimum latency":{}}
+{"2025-06-01":{}}
+{"_contributors_specified":{}}
+{"Accuracy score":{"description":"Overall score for the accuracy dimension computed as a linear combination of the individual accuracy metrics scores","input":"Accuracy metrics scores","output":"[0,1]. Best value: 1.","dimension":"Accuracy"}}
+{"bpr":{}}
+{"25th percentile throughput":{}}
+{"Maximum latency":{}}
+{"_level_of_detail_specified":{}}
+{"Representational-Consistency score":{"dimension":"Interoperability"}}
+{"_reuse_of_existing_terms":{}}
+{"External links":{"dimension":"Interlinking"}}
+{"RC2-value":{}}
+{"_low_latency":{}}
+{"dblp-kg":{}}

@@ -1,0 +1,65 @@
+<html>
+<body>
+
+
+    <input type="file" id="file-input" />
+
+    <input type="text" id="text-input" value="" />
+
+    <input type="button" id="submit-button" value="Submit" />
+
+    <div id="output"></div>
+
+    <script src="https://js.puter.com/v2/"></script>
+    <script>
+
+        function readSingleFile(e) {
+            var file = e.target.files[0];
+
+            if (!file) {
+                return;
+            }
+            var reader = new FileReader();
+
+            reader.onload = function(e) {
+                var file_content = e.target.result;
+
+                var request = document.getElementById('text-input').value;
+
+                if(request.trim() === "") {
+                    alert("Please enter a query in the text input.");
+                    return;
+                }
+
+                puter.ai.chat([
+                                {
+                                    "role": "system",
+                                    "content": JSON.stringify(file_content)
+                                },
+                                {
+                                    "role": "user",
+                                    "content": request
+                                }
+                            ], 
+                            {
+                                model: 'deepseek/deepseek-prover-v2',
+                            }
+                            ).then(response => {
+                                document.getElementById('output').innerText = response.message.content;
+                            });
+            
+            }
+
+
+            // Read the file as text will trigger the onload event above.
+            document.getElementById('output').innerText = "Loading response...";
+            reader.readAsText(file);
+            
+        }
+
+        document.getElementById('file-input')
+        .addEventListener('change', readSingleFile, false);
+
+    </script>
+</body>
+</html>

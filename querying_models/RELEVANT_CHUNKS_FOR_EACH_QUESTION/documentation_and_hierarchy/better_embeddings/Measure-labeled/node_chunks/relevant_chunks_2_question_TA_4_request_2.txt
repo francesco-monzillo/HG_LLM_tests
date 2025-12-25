@@ -1,0 +1,40 @@
+{"NoiPA":{}}
+{"Accuracy":{"dimension":"Intrinsic"}}
+{"https://noipa.mef.gov.it":{}}
+{"Web:https://noipa.mef.gov.it Name:NoiPA Email:black@email.it":{}}
+{"Consistency":{"dimension":"Intrinsic"}}
+{"Completeness":{"dimension":"Contextual"}}
+{"0.0%":{}}
+{"8.992024":{}}
+{"2025-05-04":{}}
+{"Timeliness":{"dimension":"Dataset dynamicity"}}
+{"False":{}}
+{"2025-08-03":{}}
+{"2025-08-04":{}}
+{"True":{}}
+{"2025-07-18":{}}
+{"2025-09-07":{}}
+{"2025-07-13":{}}
+{"2024-02-08":{}}
+{"2025-04-17":{}}
+{"9.063217":{}}
+{"10.123721":{}}
+{"Amount of data":{"dimension":"Contextual"}}
+{"2025-09-01":{}}
+{"['text/html; charset=UTF-8']":{}}
+{"2025-06-01":{}}
+{"http://creativecommons.org/licenses/by/4.0/":{}}
+{"9.060253":{}}
+{"Interpretability":{"dimension":"Representational"}}
+{"Accuracy score":{"description":"Overall score for the accuracy dimension computed as a linear combination of the individual accuracy metrics scores","input":"Accuracy metrics scores","output":"[0,1]. Best value: 1.","dimension":"Accuracy"}}
+{"bpr":{}}
+{"https://creativecommons.org/licenses/by-sa/3.0/":{}}
+{"Representational-Consistency score":{"dimension":"Interoperability"}}
+{"10.295021":{}}
+{"Conciseness":{"dimension":"Intrinsic"}}
+{"":{}}
+{"dblp Knowledge Graph":{}}
+{"https://sparql-noipa.mef.gov.it/sparql":{}}
+{"{}":{}}
+{"-":{}}
+{"2811476 (out of 1000000 triples considered)":{}}

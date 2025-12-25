@@ -1,0 +1,40 @@
+{"_human_readable_license_metadata_is_retrievable":{}}
+{"_machine_readable_license_metadata_is_retrievable":{}}
+{"_human_readable_license_query_is_retrievable":{}}
+{"_machine_readable_license_query_is_retrievable":{}}
+{"R1.1 Machine- or human-readable license retrievable via any primary source":{"description":"Any license retrievable","input":"(Meta)data","output":"1: license explicitly reported; 0: otherwise","dimension":"FAIR"}}
+{"Licensing score":{"description":"Overall score for the licensing dimension computed as a linear combination of the individual licensing metrics scores","input":"Licensing metrics scores","output":"[0,1]. Best value: 1.","dimension":"Licensing"}}
+{"_signed_specified":{}}
+{"License machine redeable (metadata)":{"description":"detection of the indication of a license in the VoID description or in the dataset itself","input":"VoID file or metadata","output":"string: the license if it can be recovered; False: the license is not indicated","dimension":"Licensing"}}
+{"_serialization_formats_specified":{}}
+{"License human redeable":{"description":"Detection of a license in the documentation of the dataset","input":"(working) SPARQL endpoint","output":"True: the human readable license is indicated; False: the human readable license is not indicated; -: The SPARQL endpoint is missing.","dimension":"Licensing"}}
+{"_skos_mapping_frequency":{}}
+{"_dataset_update_frequency_specified":{}}
+{"sdTPNoOff":{}}
+{"MaxTPNoOff":{}}
+{"_indication_of_metadata":{}}
+{"License machine redeable (query)":{"description":"detection of the indication of a license in the VoID description or in the dataset itself","input":"(working) SPARQL endpoint","output":"string: the license if it can be recovered; -: the license is not indicated or the SPARQL endpoint is missing.","dimension":"Licensing"}}
+{"_reuse_of_existing_vocabularies":{}}
+{"_low_latency":{}}
+{" Number of triples (metadata)":{}}
+{"_age_of_data_specified":{}}
+{"_history_of_updates_specified":{}}
+{"_specification_of_used_languages":{}}
+{"_high_throughput":{}}
+{"MinTPNoOff":{}}
+{"_scope_retrievable":{}}
+{"Minimum latency":{}}
+{"CS2-value":{}}
+{"MeanTPNoOff":{}}
+{"Availability VoID file":{}}
+{"_human_readable_labelling":{}}
+{"Limited":{}}
+{"Maximum latency":{}}
+{"_contributors_specified":{}}
+{"_level_of_detail_specified":{}}
+{"2025-06-01":{}}
+{"Minimum throughput":{}}
+{"_publishers_specified":{}}
+{"_time_elapsed_since_last_modification_specified":{}}
+{"_sources_specified":{}}
+{"_reuse_of_existing_terms":{}}

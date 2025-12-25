@@ -1,0 +1,40 @@
+{"w3c-wordnet":{}}
+{"_reuse_of_existing_vocabularies":{}}
+{"Representational-Conciseness score":{}}
+{"LemmaBank":{}}
+{"_reuse_of_existing_terms":{}}
+{" Percentage of triples with labels":{}}
+{"Uses RDF structures":{"dimension":"Interpretability"}}
+{"_sources_specified":{}}
+{"_indication_of_metadata":{}}
+{"_authors_specified":{}}
+{" Number of triples (metadata)":{}}
+{"_human_readable_labelling":{}}
+{"_specification_of_used_languages":{}}
+{"External links":{"dimension":"Interlinking"}}
+{"Description":{"dimension":"Believability"}}
+{"Accuracy score":{"description":"Overall score for the accuracy dimension computed as a linear combination of the individual accuracy metrics scores","input":"Accuracy metrics scores","output":"[0,1]. Best value: 1.","dimension":"Accuracy"}}
+{"_publishers_specified":{}}
+{"Representational-Consistency score":{"dimension":"Interoperability"}}
+{"Median length URIs (subject)":{"dimension":"Representational conciseness"}}
+{"_contributors_specified":{}}
+{"New terms defined in the dataset":{"description":"detection of whether existing terms from all relevant vo-cabularies for that particular domain have been reuse","input":"(working) SPARQL endpoint","output":"[]: if no new term is defined; -: the SPARQL endpoint is missing; list of new terms: if at least a new term is defined.","dimension":"Interoperability"}}
+{"_age_of_data_specified":{}}
+{"_level_of_detail_specified":{}}
+{"_high_throughput":{}}
+{"25th percentile length URIs (object)":{}}
+{"Standard deviation lenght URIs (object)":{"dimension":"Representational conciseness"}}
+{"_accessing_of_data_in_different_ways":{}}
+{"Standard deviation lenght URIs (predicate)":{"dimension":"Representational conciseness"}}
+{"Median length URIs (object)":{"dimension":"Representational conciseness"}}
+{"75th percentile length URIs (object)":{}}
+{"2025-05-04":{}}
+{"New vocabularies defined in the dataset":{"description":"usage of established vocabularies","input":"(working) SPARQL endpoint","output":"[]: if no new vocabulary is defined; -: the SPARQL endpoint is missing; list of new vocabularies: if at least a new vocabulary is defined.","dimension":"Interoperability"}}
+{"Median length URIs (predicate)":{"dimension":"Representational conciseness"}}
+{"Sources":{"description":"stating the author and his contributors, the publisher of the data and its sources","input":"Metadata","output":"string: the website, the name and the email of the source; False: if the sources are not indicated.","dimension":"Verifiability"}}
+{"25th percentile latency":{}}
+{"2025-07-13":{}}
+{"25th percentile length URIs (predicate)":{}}
+{"75th percentile latency":{}}
+{"2025-08-03":{}}
+{"2025-06-01":{}}

@@ -1,0 +1,40 @@
+{"allie-abbreviation-and-long-form-database-in-life-science":{}}
+{"URL for download the dataset":{"description":"Checking whether the data is available as a SPARQL endpoint and is available for download as an RDF dump","input":"(working) SPARQL endpoint or Metadata or VoID file","output":"[]: if the sparql endpoint or rdf dump is not online;  list of links: if SPARQL endpoint and RDF dump are online.","dimension":"Versatility"}}
+{"Offline dumps":{}}
+{"_dataset_update_frequency_specified":{}}
+{"_age_of_data_specified":{}}
+{"25th percentile length URIs (object)":{}}
+{"75th percentile length URIs (object)":{}}
+{"A2-M Registered in search engines":{"description":"Registered in search engines","input":"Metadata","output":"1: dataset registered in any search engine; 0: otherwise","dimension":"FAIR"}}
+{"_reuse_of_existing_vocabularies":{}}
+{"25th percentile length URIs (predicate)":{}}
+{"Standard deviation lenght URIs (subject)":{}}
+{"25th percentile length URIs (subject)":{}}
+{" Number of triples (metadata)":{}}
+{"75th percentile length URIs (predicate)":{}}
+{"_indication_of_metadata":{}}
+{"New vocabularies defined in the dataset":{"description":"usage of established vocabularies","input":"(working) SPARQL endpoint","output":"[]: if no new vocabulary is defined; -: the SPARQL endpoint is missing; list of new vocabularies: if at least a new vocabulary is defined.","dimension":"Interoperability"}}
+{" Percentage of triples with labels":{}}
+{"_human_readable_labelling":{}}
+{"Dataset URL":{"description":"Dataset URL","input":"(working) SPARQL endpoint or Metadata or VoID file","output":"url: the dataset url; absent: if the dataset url can't be retrieved","dimension":"Believability"}}
+{"_high_throughput":{}}
+{"75th percentile length URIs (subject)":{}}
+{"_accessing_of_data_in_different_ways":{}}
+{"2025-06-01":{}}
+{"A1-D Working access point(s)":{"description":"Working access point(s)","input":"Data","output":"1: operational SPARQL or accessible data dump; 0.5: accessible SPARQL endpoint or data dump; 0: otherwise","dimension":"FAIR"}}
+{"2025-08-03":{}}
+{"2025-07-13":{}}
+{"2025-09-07":{}}
+{"Availability of RDF dump (query)":{"description":"Checking whether an RDF dump is provided and can be downloaded","input":"(working) SPARQL endpoint","output":"False: The RDF dump is offline;  True: The RDF dump is online. -: The RDF dump is missing.","dimension":"Availability"}}
+{"_human_readable_license_metadata_is_retrievable":{}}
+{"Dataset update frequency":{"description":"it corresponds to the 'stating the [...] frequency of data validation'","input":"(working) SPARQL endpoint","output":"[]: the update frequency is not indicated; -: the SPARQL endpoint is missing; list of strings: the update frequency is indicated.","dimension":"Timeliness"}}
+{"Availability for download (query)":{"description":"Checking whether an RDF dump is provided and can be downloaded","input":"(working) SPARQL endpoint","output":"False: The RDF dump is offline;  True: The RDF dump is online. -: The RDF dump is missing.","dimension":"Availability"}}
+{"_specification_of_used_languages":{}}
+{"_reuse_of_existing_terms":{}}
+{"_serialization_formats_specified":{}}
+{"w3c-wordnet":{}}
+{"2025-05-04":{}}
+{"Standard deviation lenght URIs (object)":{"dimension":"Representational conciseness"}}
+{"I3-D Degree of connection":{"description":"Degree of connection","input":"Data","output":"1: contains link to another dataset; 0: otherwise","dimension":"FAIR"}}
+{"25th percentile throughput":{}}
+{"_time_elapsed_since_last_modification_specified":{}}

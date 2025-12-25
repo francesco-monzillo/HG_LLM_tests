@@ -1,0 +1,40 @@
+{"https://dblp.org":{}}
+{"dblp Knowledge Graph":{}}
+{"_human_readable_license_metadata_is_retrievable":{}}
+{"_human_readable_license_query_is_retrievable":{}}
+{"['https://doi.org/10.4230/dblp.rdf.ntriples'. 'https://dblp.org/rdf/dblp.ttl.gz']":{}}
+{"_machine_readable_license_metadata_is_retrievable":{}}
+{"http://reference.data.gov.uk/id/open-government-licence":{}}
+{"Web:https://dblp.org Name:Marcel R. Ackermann Email:marcel.ackermann@dagstuhl.de":{}}
+{"http://creativecommons.org/licenses/by/4.0/":{}}
+{"https://sparql.dblp.org/sparql":{}}
+{"_machine_readable_license_query_is_retrievable":{}}
+{"http://www.opendefinition.org/licenses/cc-zero":{}}
+{"https://creativecommons.org/licenses/by-sa/3.0/":{}}
+{"R1.1 Machine- or human-readable license retrievable via any primary source":{"description":"Any license retrievable","input":"(Meta)data","output":"1: license explicitly reported; 0: otherwise","dimension":"FAIR"}}
+{"['https://dblp.org/rdf/schema#AmbiguousCreator'. 'https://dblp.org/rdf/schema#Article'. 'https://dblp.org/rdf/schema#AuthorSignature'. 'https://dblp.org/rdf/schema#Book'. 'https://dblp.org/rdf/schema#Conference'. 'https://dblp.org/rdf/schema#Creator'. 'https://dblp.org/rdf/schema#Data'. 'https://dblp.org/rdf/schema#Editorship'. 'https://dblp.org/rdf/schema#EditorSignature'. 'https://dblp.org/rdf/schema#Group'. 'https://dblp.org/rdf/schema#Incollection'. 'https://dblp.org/rdf/schema#Informal'. 'https://dblp.org/rdf/schema#Inproceedings'. 'https://dblp.org/rdf/schema#Journal'. 'https://dblp.org/rdf/schema#Person'. 'https://dblp.org/rdf/schema#Publication'. 'https://dblp.org/rdf/schema#Reference'. 'https://dblp.org/rdf/schema#Repository'. 'https://dblp.org/rdf/schema#Series'. 'https://dblp.org/rdf/schema#Signature'. 'https://dblp.org/rdf/schema#Stream'. 'https://dblp.org/rdf/schema#VersionRelation'. 'https://dblp.org/rdf/schema#Withdrawn']":{}}
+{"http://allie.dbcls.jp/":{}}
+{"https://www.apache.org/licenses/LICENSE-2.0":{}}
+{"https://creativecommons.org/licenses/by/3.0/deed.it":{}}
+{"http://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40":{}}
+{"http://creativecommons.org/licenses/by/2.1/jp/":{}}
+{"['http://uri.dbcls.rois.ac.jp/']":{}}
+{"https://creativecommons.org/publicdomain/zero/1.0/":{}}
+{"_publishers_specified":{}}
+{"License human redeable":{"description":"Detection of a license in the documentation of the dataset","input":"(working) SPARQL endpoint","output":"True: the human readable license is indicated; False: the human readable license is not indicated; -: The SPARQL endpoint is missing.","dimension":"Licensing"}}
+{"http://www.opendefinition.org/licenses/cc-by":{}}
+{"http://www.opendefinition.org/licenses/cc-by-sa":{}}
+{"_contributors_specified":{}}
+{"['ftp://ftp.dbcls.jp/allie/allie_rdf/allie_rdf_nt_latest.gz']":{}}
+{"Limited":{}}
+{"_specification_of_used_languages":{}}
+{"Web:http://allie.dbcls.jp/ Name:Database Center for Life Science Email:info AT dbcls.rois.ac.jp":{}}
+{"The dblp Knowledge Graph (dblp KG) is a fully semantic view of all the data and relationships found in the dblp computer science bibliography. The dblp KG is synchronized daily with the current and curated data of the dblp bibliography.":{}}
+{"_sources_specified":{}}
+{"['text/html; charset=UTF-8'. 'meta/rdf-schema'. 'meta/rdf-schema']":{}}
+{"http://data.allie.dbcls.jp/sparql":{}}
+{"_human_readable_labelling":{}}
+{"['ftp://ftp.dbcls.jp/allie/allie_rdf/allie_rdf_nt_latest.gz'. 'ftp://ftp.dbcls.jp/allie/allie_rdf/']":{}}
+{"_reuse_of_existing_terms":{}}
+{"_age_of_data_specified":{}}
+{"['text/html; charset=UTF-8']":{}}

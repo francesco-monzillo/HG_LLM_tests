@@ -1,0 +1,40 @@
+{"Verifiability score":{"description":"Overall score for the verifiability dimension computed as a linear combination of the individual verifiability metrics scores","input":"Verifiability metrics scores","output":"[0,1]. Best value: 1.","dimension":"Verifiability"}}
+{"Verifiability":{"dimension":"Trust"}}
+{"Believability score":{"description":"Overall score for the believability dimension computed as a linear combination of the individual believability metrics scores","input":"Believability metrics scores","output":"[0,1]. Best value: 1.","dimension":"Believability"}}
+{"Believability":{"dimension":"Trust"}}
+{"Description":{"dimension":"Believability"}}
+{"Accuracy":{"dimension":"Intrinsic"}}
+{"Consistency":{"dimension":"Intrinsic"}}
+{"Consistency score":{"description":"Overall score for the consistency dimension computed as a linear combination of the individual consistency metrics scores","input":"Consistency metrics scores","output":"[0,1]. Best value: 1.","dimension":"Consistency"}}
+{"Completeness":{"dimension":"Contextual"}}
+{"impossible to verify":{}}
+{"Representational-Consistency score":{"dimension":"Interoperability"}}
+{"Interpretability":{"dimension":"Representational"}}
+{"Accuracy score":{"description":"Overall score for the accuracy dimension computed as a linear combination of the individual accuracy metrics scores","input":"Accuracy metrics scores","output":"[0,1]. Best value: 1.","dimension":"Accuracy"}}
+{"Amount of data":{"dimension":"Contextual"}}
+{"Uses RDF structures":{"dimension":"Interpretability"}}
+{"Interpretability score":{"description":"Overall score for the interpretability dimension computed as a linear combination of the individual interpretability metrics scores","input":"Interpretability metrics scores","output":"[0,1]. Best value: 1.","dimension":"Interpretability"}}
+{"Trust value":{"description":"Meta-information about the identity of information provider","input":"Metadata","output":"float: the trust value;","dimension":"Believability"}}
+{"Percentage of triples with labels":{"dimension":"Understandability"}}
+{"Score":{"description":"Overall quality score computed as a linear combination of all scores of the individual quality dimensions","input":"Quality dimensions scores","output":"[0,1]. Best value: 1."}}
+{"2811476 (out of 1000000 triples considered)":{}}
+{"Understandability":{"dimension":"Representational"}}
+{"Sources":{"description":"stating the author and his contributors, the publisher of the data and its sources","input":"Metadata","output":"string: the website, the name and the email of the source; False: if the sources are not indicated.","dimension":"Verifiability"}}
+{"True":{}}
+{"Conciseness":{"dimension":"Intrinsic"}}
+{"Completeness score":{"description":"Overall score for the completeness dimension computed as a linear combination of the individual completeness metrics scores","input":"Completeness metrics scores","output":"[0,1]. Best value: 1.","dimension":"Completeness"}}
+{"Versatility":{"dimension":"Representational"}}
+{"Interoperability":{"dimension":"Representational"}}
+{"Normalized score":{"description":"Overall quality score computed as a linear combination of all scores of the individual quality dimensions.","input":"Quality dimensions scores","output":"[0,100]. Best value: 100."}}
+{"Representational conciseness":{"dimension":"Representational"}}
+{"External links":{"dimension":"Interlinking"}}
+{"Versatility score":{"description":"Overall score for the versatility dimension computed as a linear combination of the individual versatility metrics scores","input":"Versatility metrics scores","output":"[0,1]. Best value: 1.","dimension":"Versatility"}}
+{"Reputation":{"dimension":"Trust"}}
+{"['text/html; charset=UTF-8'. 'meta/rdf-schema'. 'meta/rdf-schema']":{}}
+{"Performance":{"dimension":"Accessibility"}}
+{"1.0":{}}
+{"Understandability score":{"description":"Overall score for the understandability dimension computed as a linear combination of the individual understandability metrics scores","input":"Understandability metrics scores","output":"[0,1]. Best value: 1.","dimension":"Understandability"}}
+{"False":{}}
+{"Timeliness":{"dimension":"Dataset dynamicity"}}
+{"I score":{"description":"Overall Interoperability score computed as a linear combination of all scores of the individual I subprinciples","input":"Interoperability principles scores","output":"[0,1]. Best value: 1.","dimension":"FAIR"}}
+{"2.0":{}}

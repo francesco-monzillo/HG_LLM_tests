@@ -1,0 +1,40 @@
+{"Volatility score":{"dimension":"Timeliness"}}
+{"Percentage of data updated":{"dimension":"Currency"}}
+{"2025-09-07":{}}
+{"Average throughput":{"dimension":"Performance"}}
+{"Inactive links":{"dimension":"Availability"}}
+{"Average latency":{"dimension":"Performance"}}
+{"Description":{"dimension":"Believability"}}
+{"2025-08-03":{}}
+{"2025-05-04":{}}
+{"25th percentile throughput":{}}
+{"2025-07-13":{}}
+{"2025-06-01":{}}
+{"_age_of_data_specified":{}}
+{"Currency score":{"description":"Overall score for the currency dimension computed as a linear combination of the individual currency metrics scores","input":"Currency metrics scores","output":"[0,1]. Best value: 1.","dimension":"Currency"}}
+{"Performance score":{"description":"Overall score for the performance dimension computed as a linear combination of the individual performance metrics scores","input":"Performance metrics scores","output":"[0,1]. Best value: 1.","dimension":"Performance"}}
+{"_level_of_detail_specified":{}}
+{"75th percentile throughput":{}}
+{"Licensing score":{"description":"Overall score for the licensing dimension computed as a linear combination of the individual licensing metrics scores","input":"Licensing metrics scores","output":"[0,1]. Best value: 1.","dimension":"Licensing"}}
+{"_modification_date_of_statements_specified":{}}
+{"_dataset_update_frequency_specified":{}}
+{"Amount of data score":{"description":"Overall score for the amount of data dimension computed as a linear combination of the individual amount of data metrics scores","input":"Amount of data metrics scores","output":"[0,1]. Best value: 1.","dimension":"Amount of data"}}
+{"_sources_specified":{}}
+{"Uses RDF structures":{"dimension":"Interpretability"}}
+{"25th percentile length URIs (object)":{}}
+{"Versatility score":{"description":"Overall score for the versatility dimension computed as a linear combination of the individual versatility metrics scores","input":"Versatility metrics scores","output":"[0,1]. Best value: 1.","dimension":"Versatility"}}
+{"25th percentile latency":{}}
+{"Historical updates":{}}
+{"External links":{"dimension":"Interlinking"}}
+{"Standard deviation of latency":{"dimension":"Performance"}}
+{"75th percentile latency":{}}
+{"_sameAs_chains_frequency":{}}
+{"_publishers_specified":{}}
+{"Availability score":{"description":"Overall score for the availability dimension computed as a linear combination of the individual availability metrics scores","input":"Availability metrics scores","output":"[0,1]. Best value: 1.","dimension":"Availability"}}
+{"MeanTPNoOff":{}}
+{"75th percentile length URIs (object)":{}}
+{"U5-value":{}}
+{"_skos_mapping_frequency":{}}
+{"Interlinking score":{"description":"Overall score for the interlinking dimension computed as a linear combination of the individual interlinking metrics scores","input":"Interlinking metrics scores","output":"[0,1]. Best value: 1.","dimension":"Interlinking"}}
+{" Percentage of triples with labels":{}}
+{"25th percentile length URIs (predicate)":{}}

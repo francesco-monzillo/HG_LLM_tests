@@ -1,0 +1,40 @@
+{"LiLa Lemma Bank":{}}
+{"2811476 (out of 1000000 triples considered)":{}}
+{"['https://github.com/CIRCSE/LiLa_Lemma-Bank']":{}}
+{"Number of triples linked":{}}
+{"_number_of_triples_availability":{}}
+{" Percentage of triples with labels":{}}
+{"http://lila-erc.eu/data/id/lemma/LemmaBank":{}}
+{" Number of triples (metadata)":{}}
+{"https://dblp.org":{}}
+{"['https://doi.org/10.4230/dblp.rdf.ntriples'. 'https://dblp.org/rdf/dblp.ttl.gz']":{}}
+{"https://creativecommons.org/licenses/by-sa/3.0/":{}}
+{"dblp Knowledge Graph":{}}
+{"2024-02-08":{}}
+{"2025-04-17":{}}
+{"2025-07-18":{}}
+{"_sources_specified":{}}
+{"2025-08-04":{}}
+{"https://lila-erc.eu/sparql/lila_knowledge_base/sparql":{}}
+{"LemmaBank":{}}
+{"impossible to verify":{}}
+{"2025-09-01":{}}
+{"Historical updates":{}}
+{"_contributors_specified":{}}
+{"8.992024":{}}
+{"{}":{}}
+{"_publishers_specified":{}}
+{"http://creativecommons.org/licenses/by/4.0/":{}}
+{"https://creativecommons.org/publicdomain/zero/1.0/":{}}
+{"https://creativecommons.org/licenses/by/3.0/deed.it":{}}
+{"_level_of_detail_specified":{}}
+{"-":{}}
+{"":{}}
+{"Web:http://lila-erc.eu/data/id/lemma/LemmaBank Name:Marco Passarotti Email:marco.passarotti@unicatt.it":{}}
+{"340000000.000000":{}}
+{"_sameAs_chains_frequency":{}}
+{"Name: absent. email: onelove1h3art@gmail.com":{}}
+{"['text/html; charset=UTF-8']":{}}
+{"9.063217":{}}
+{"http://creativecommons.org/licenses/by/2.1/jp/":{}}
+{"_age_of_data_specified":{}}

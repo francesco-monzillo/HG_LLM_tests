@@ -1,0 +1,40 @@
+{"Volatility score":{"dimension":"Timeliness"}}
+{"Average throughput":{"dimension":"Performance"}}
+{"Percentage of data updated":{"dimension":"Currency"}}
+{"Average latency":{"dimension":"Performance"}}
+{"Performance score":{"description":"Overall score for the performance dimension computed as a linear combination of the individual performance metrics scores","input":"Performance metrics scores","output":"[0,1]. Best value: 1.","dimension":"Performance"}}
+{"25th percentile throughput":{}}
+{"Inactive links":{"dimension":"Availability"}}
+{"75th percentile throughput":{}}
+{"2025-09-07":{}}
+{"Currency score":{"description":"Overall score for the currency dimension computed as a linear combination of the individual currency metrics scores","input":"Currency metrics scores","output":"[0,1]. Best value: 1.","dimension":"Currency"}}
+{"Description":{"dimension":"Believability"}}
+{"_age_of_data_specified":{}}
+{"2025-08-03":{}}
+{"Amount of data score":{"description":"Overall score for the amount of data dimension computed as a linear combination of the individual amount of data metrics scores","input":"Amount of data metrics scores","output":"[0,1]. Best value: 1.","dimension":"Amount of data"}}
+{"2025-07-13":{}}
+{"2025-06-01":{}}
+{"Licensing score":{"description":"Overall score for the licensing dimension computed as a linear combination of the individual licensing metrics scores","input":"Licensing metrics scores","output":"[0,1]. Best value: 1.","dimension":"Licensing"}}
+{"2025-05-04":{}}
+{"_dataset_update_frequency_specified":{}}
+{"25th percentile length URIs (object)":{}}
+{"_level_of_detail_specified":{}}
+{"Availability score":{"description":"Overall score for the availability dimension computed as a linear combination of the individual availability metrics scores","input":"Availability metrics scores","output":"[0,1]. Best value: 1.","dimension":"Availability"}}
+{"25th percentile length URIs (predicate)":{}}
+{"75th percentile length URIs (object)":{}}
+{"Reputation score":{"description":"Overall score for the reputation dimension computed as a linear combination of the individual reputation metrics scores","input":"Reputation metrics scores","output":"[0,1]. Best value: 1.","dimension":"Reputation"}}
+{"Uses RDF structures":{"dimension":"Interpretability"}}
+{"_modification_date_of_statements_specified":{}}
+{"Interlinking score":{"description":"Overall score for the interlinking dimension computed as a linear combination of the individual interlinking metrics scores","input":"Interlinking metrics scores","output":"[0,1]. Best value: 1.","dimension":"Interlinking"}}
+{"Standard deviation of latency":{"dimension":"Performance"}}
+{"25th percentile latency":{}}
+{"25th percentile length URIs (subject)":{}}
+{"75th percentile length URIs (predicate)":{}}
+{"75th percentile latency":{}}
+{"Versatility score":{"description":"Overall score for the versatility dimension computed as a linear combination of the individual versatility metrics scores","input":"Versatility metrics scores","output":"[0,1]. Best value: 1.","dimension":"Versatility"}}
+{"Security score":{"description":"Overall score for the security dimension computed as a linear combination of the individual security metrics scores","input":"Security metrics scores","output":"[0,1]. Best value: 1.","dimension":"Security"}}
+{"Believability score":{"description":"Overall score for the believability dimension computed as a linear combination of the individual believability metrics scores","input":"Believability metrics scores","output":"[0,1]. Best value: 1.","dimension":"Believability"}}
+{"Accuracy score":{"description":"Overall score for the accuracy dimension computed as a linear combination of the individual accuracy metrics scores","input":"Accuracy metrics scores","output":"[0,1]. Best value: 1.","dimension":"Accuracy"}}
+{" Percentage of triples with labels":{}}
+{"Interpretability score":{"description":"Overall score for the interpretability dimension computed as a linear combination of the individual interpretability metrics scores","input":"Interpretability metrics scores","output":"[0,1]. Best value: 1.","dimension":"Interpretability"}}
+{"_sources_specified":{}}

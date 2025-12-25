@@ -1,0 +1,40 @@
+{"http://www.w3.org/TR/wordnet-rdf":{}}
+{"WordNet 2.0 (W3C)":{}}
+{"Web:http://www.w3.org/TR/wordnet-rdf Name:W3C Email:public-swbp-wg@w3.org":{}}
+{"_reuse_of_existing_vocabularies":{}}
+{"Representational-Conciseness score":{}}
+{"http://lila-erc.eu/data/id/lemma/LemmaBank":{}}
+{"_reuse_of_existing_terms":{}}
+{"['http://purl.org/allie/ontology/201108#']":{}}
+{" Percentage of triples with labels":{}}
+{"http://www.opendefinition.org/licenses/cc-by":{}}
+{"https://sparql.dblp.org/sparql":{}}
+{"Uses RDF structures":{"dimension":"Interpretability"}}
+{"http://www.opendefinition.org/licenses/cc-by-sa":{}}
+{"dblp Knowledge Graph":{}}
+{"http://www.opendefinition.org/licenses/cc-zero":{}}
+{"http://dati.camera.it/sparql":{}}
+{"['http://www.w3.org/2002/07/owl#'. 'http://purl.org/allie/ontology/201108#']":{}}
+{"_sources_specified":{}}
+{"['text/html; charset=UTF-8'. 'meta/rdf-schema'. 'meta/rdf-schema']":{}}
+{"2811476 (out of 1000000 triples considered)":{}}
+{"http://data.allie.dbcls.jp/sparql":{}}
+{"_indication_of_metadata":{}}
+{"['Name:LASLA. value:1745314'. 'Name:AugustiniConfessiones. value:77580'. 'Name:CompHistSem. value:1058077'. 'Name:CorpusFibonacci. value:16117'. 'Name:DanteLatinLoanwords. value:765'. 'Name:EtymologicalDictionaryofLatin. value:1452'. 'Name:IGVLL. value:1759'. 'Name:IndexThomisticusTreebank. value:403526'. 'Name:LatinAffectus. value:5172'. 'Name:LatinWordnetLiLa. value:8536']":{}}
+{"{}":{}}
+{"http://micro.semweb.csdb.cn/sparql":{}}
+{"_authors_specified":{}}
+{"http://creativecommons.org/licenses/by/4.0/":{}}
+{" Number of triples (metadata)":{}}
+{"_human_readable_labelling":{}}
+{"https://lila-erc.eu/sparql/lila_knowledge_base/sparql":{}}
+{"_specification_of_used_languages":{}}
+{"[''. 'text/turtle'. 'text/turtle'. 'meta/rdf-schema'. 'meta/rdf-schema']":{}}
+{"https://creativecommons.org/licenses/by-sa/3.0/":{}}
+{"[''. '']":{}}
+{"External links":{"dimension":"Interlinking"}}
+{"['text/html; charset=UTF-8']":{}}
+{"Description":{"dimension":"Believability"}}
+{"Accuracy score":{"description":"Overall score for the accuracy dimension computed as a linear combination of the individual accuracy metrics scores","input":"Accuracy metrics scores","output":"[0,1]. Best value: 1.","dimension":"Accuracy"}}
+{"_publishers_specified":{}}
+{"https://sparql-noipa.mef.gov.it/sparql":{}}

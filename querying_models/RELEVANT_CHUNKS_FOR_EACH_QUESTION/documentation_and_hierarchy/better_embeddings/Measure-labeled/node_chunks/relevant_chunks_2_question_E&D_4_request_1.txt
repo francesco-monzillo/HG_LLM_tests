@@ -1,0 +1,40 @@
+{"https://www.apache.org/licenses/LICENSE-2.0":{}}
+{"R1.1 Machine- or human-readable license retrievable via any primary source":{"description":"Any license retrievable","input":"(Meta)data","output":"1: license explicitly reported; 0: otherwise","dimension":"FAIR"}}
+{"Licensing":{"dimension":"Accessibility"}}
+{"http://www.opendefinition.org/licenses/cc-zero":{}}
+{"https://creativecommons.org/publicdomain/zero/1.0/":{}}
+{"http://creativecommons.org/licenses/by/4.0/":{}}
+{"Licensing score":{"description":"Overall score for the licensing dimension computed as a linear combination of the individual licensing metrics scores","input":"Licensing metrics scores","output":"[0,1]. Best value: 1.","dimension":"Licensing"}}
+{"1.0":{}}
+{"https://creativecommons.org/licenses/by-sa/3.0/":{}}
+{"http://creativecommons.org/licenses/by/2.1/jp/":{}}
+{"License machine redeable (metadata)":{"description":"detection of the indication of a license in the VoID description or in the dataset itself","input":"VoID file or metadata","output":"string: the license if it can be recovered; False: the license is not indicated","dimension":"Licensing"}}
+{"License human redeable":{"description":"Detection of a license in the documentation of the dataset","input":"(working) SPARQL endpoint","output":"True: the human readable license is indicated; False: the human readable license is not indicated; -: The SPARQL endpoint is missing.","dimension":"Licensing"}}
+{"2.0":{}}
+{"https://creativecommons.org/licenses/by/3.0/deed.it":{}}
+{"3.0":{}}
+{"License machine redeable (query)":{"description":"detection of the indication of a license in the VoID description or in the dataset itself","input":"(working) SPARQL endpoint","output":"string: the license if it can be recovered; -: the license is not indicated or the SPARQL endpoint is missing.","dimension":"Licensing"}}
+{"http://reference.data.gov.uk/id/open-government-licence":{}}
+{"http://www.opendefinition.org/licenses/cc-by-sa":{}}
+{"http://www.opendefinition.org/licenses/cc-by":{}}
+{"http://w3id.org/italia/controlled-vocabulary/licences/A21_CCBY40":{}}
+{"No dump available":{}}
+{"0.0":{}}
+{"True":{}}
+{"[''. '']":{}}
+{"False":{}}
+{"['application/rdf+xml'. 'application/zip; qs=0.001'. '']":{}}
+{"2025-06-01":{}}
+{"2025-09-01":{}}
+{"Available":{}}
+{"['text/turtle; charset=UTF-8'. 'index/ftp'. 'gzip:ntriples'. 'meta/void']":{}}
+{"2025-08-04":{}}
+{"['text/html; charset=UTF-8']":{}}
+{"[]":{}}
+{"2024-02-08":{}}
+{"2025-07-13":{}}
+{"2025-07-18":{}}
+{"['text']":{}}
+{"['application/rdf+xml'. 'text/html'. 'text/html'. 'text/html'. 'application/n-triples+gzip']":{}}
+{"Security":{"dimension":"Accessibility"}}
+{"2025-08-03":{}}

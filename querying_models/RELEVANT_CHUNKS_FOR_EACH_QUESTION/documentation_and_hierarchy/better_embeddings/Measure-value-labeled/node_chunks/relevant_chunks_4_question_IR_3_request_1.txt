@@ -1,0 +1,40 @@
+{"_human_readable_license_metadata_is_retrievable":{}}
+{"License human redeable":{"description":"Detection of a license in the documentation of the dataset","input":"(working) SPARQL endpoint","output":"True: the human readable license is indicated; False: the human readable license is not indicated; -: The SPARQL endpoint is missing.","dimension":"Licensing"}}
+{"dblp-kg":{}}
+{"R1.1 Machine- or human-readable license retrievable via any primary source":{"description":"Any license retrievable","input":"(Meta)data","output":"1: license explicitly reported; 0: otherwise","dimension":"FAIR"}}
+{"_human_readable_license_query_is_retrievable":{}}
+{" Number of triples (metadata)":{}}
+{"_machine_readable_license_metadata_is_retrievable":{}}
+{" Percentage of triples with labels":{}}
+{"_reuse_of_existing_vocabularies":{}}
+{"A2-M Registered in search engines":{"description":"Registered in search engines","input":"Metadata","output":"1: dataset registered in any search engine; 0: otherwise","dimension":"FAIR"}}
+{"_indication_of_metadata":{}}
+{"_contributors_specified":{}}
+{"URL for download the dataset":{"description":"Checking whether the data is available as a SPARQL endpoint and is available for download as an RDF dump","input":"(working) SPARQL endpoint or Metadata or VoID file","output":"[]: if the sparql endpoint or rdf dump is not online;  list of links: if SPARQL endpoint and RDF dump are online.","dimension":"Versatility"}}
+{"_machine_readable_license_query_is_retrievable":{}}
+{"_age_of_data_specified":{}}
+{"_specification_of_used_languages":{}}
+{"_human_readable_labelling":{}}
+{"_publishers_specified":{}}
+{"_high_throughput":{}}
+{"bpr":{}}
+{"_sources_specified":{}}
+{"allie-abbreviation-and-long-form-database-in-life-science":{}}
+{"Sources":{"description":"stating the author and his contributors, the publisher of the data and its sources","input":"Metadata","output":"string: the website, the name and the email of the source; False: if the sources are not indicated.","dimension":"Verifiability"}}
+{"_dataset_update_frequency_specified":{}}
+{"_authors_specified":{}}
+{"Number of triples linked":{}}
+{"LemmaBank":{}}
+{"_reuse_of_existing_terms":{}}
+{"2025-07-13":{}}
+{"2025-06-01":{}}
+{"_level_of_detail_specified":{}}
+{"2025-05-04":{}}
+{"2025-08-03":{}}
+{"Representational-Conciseness score":{}}
+{"Licensing score":{"description":"Overall score for the licensing dimension computed as a linear combination of the individual licensing metrics scores","input":"Licensing metrics scores","output":"[0,1]. Best value: 1.","dimension":"Licensing"}}
+{"CIDOC-CRM":{}}
+{"Author (query)":{"description":"stating the author and his contributors, the publisher of the data and its sources","input":"(working) SPARQL endpoint","output":"[]: if the author is not indicated; -: the SPARQL endpoint is missing; list of authors: if the author is indicated.","dimension":"Verifiability"}}
+{"2025-09-07":{}}
+{"_skos_mapping_frequency":{}}
+{"License machine redeable (query)":{"description":"detection of the indication of a license in the VoID description or in the dataset itself","input":"(working) SPARQL endpoint","output":"string: the license if it can be recovered; -: the license is not indicated or the SPARQL endpoint is missing.","dimension":"Licensing"}}
