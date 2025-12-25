@@ -320,3 +320,115 @@ Response:
 
 Vote:
 --------------------------------------------------
+Question: Co_4.
+Request: What is the best observed score in the Verifiability dimension?
+Expected Response: 0.4983 (NoiPA, Allie, Bathing Water Quality)
+Response:
+ The best observed score in the Verifiability dimension is 1.000000.
+
+Vote:
+--------------------------------------------------
+Question: Co_4.
+Request: What is the highest observed Verifiability score?
+Expected Response: 0.4983 (NoiPA, Allie, Bathing Water Quality)
+Response:
+ The highest observed Verifiability score is 1.000000.
+
+Vote:
+--------------------------------------------------
+Question: Co_5.
+Request: What are the highest-performing dimensions in September 2025?
+Expected Response: License, Performance, Accuracy, Believability, Currency, Timeliness, Security, Conciseness and Interpretability
+Response:
+ The highest-performing dimensions in September 2025 include "25th percentile throughput", "25th percentile latency", and "25th percentile length URIs (subject)" from environment-agency-bathing-water-quality, "25th percentile length URIs (object)" from microsoft-coronavirus, and "25th percentile length URIs (predicate)" from NoiPA.
+
+Vote:
+--------------------------------------------------
+Question: Co_5.
+Request: What are the dimensions performing better in September 2025?
+Expected Response: License, Performance, Accuracy, Believability, Currency, Timeliness, Security, Conciseness and Interpretability
+Response:
+ The dimensions that performed well in September 2025 include "Currency," "Performance," and "Believability." These dimensions have higher scores indicating good performance or trustworthiness.
+
+Vote:
+--------------------------------------------------
+Question: E&D_1.
+Request: Why is the availability score equals to 1 for the DBLP dataset?
+Expected Response: Because all the metrics in the availability dimension can be correctly computed
+Response:
+ The availability score for the DBLP dataset is equal to 1 because it meets all the criteria for high availability. This includes having a complete set of metadata, being easily accessible, and providing reliable access points. Additionally, there might be specific features or services offered by the DBLP dataset that contribute to its high availability rating.
+
+Vote:
+--------------------------------------------------
+Question: E&D_1.
+Request: Why does the DBLP dataset have an availability score of 1?
+Expected Response: Because all the metrics in the availability dimension can be correctly computed
+Response:
+ The availability score of 1 indicates perfect availability according to the criteria specified by the metric being evaluated. This means that the dataset meets all the requirements for high availability, such as having multiple access points, using standard protocols, and ensuring robust uptime across different platforms.
+
+Vote:
+--------------------------------------------------
+Question: E&D_2.
+Request: Does a score of amount of data equals to 0 mean that the dataset is empty?
+Expected Response: No, it means that the amount of data cannot be computed via the SPARQL endpoint and it is not declared in the metadata.
+Response:
+ No, a score of 0 for the amount of data dimension indicates that there is no data available for this specific metric within the dataset. It doesn't necessarily imply that the entire dataset is empty, but rather suggests that the particular aspect being measured has no associated data points.
+
+Vote:
+--------------------------------------------------
+Question: E&D_2.
+Request: if the amount-of-data score is 0, does that mean the dataset contains no data?
+Expected Response: No, it means that the amount of data cannot be computed via the SPARQL endpoint and it is not declared in the metadata.
+Response:
+ No, an Amount of Data Score of 0 indicates poor data quantity but doesn't necessarily imply complete absence of data. It suggests that the dataset has minimal useful content.
+
+Vote:
+--------------------------------------------------
+Question: E&D_3.
+Request: When the availability score is 1, does it mean that both the SPARQL endpoint and the data dump are working?
+Expected Response: Yes
+Response:
+ Yes, when the availability score is 1, it means that both the SPARQL endpoint and the data dump are fully operational and accessible.
+
+Vote:
+--------------------------------------------------
+Question: E&D_3.
+Request: if the availability score is 1, does that mean both the SPARQL endpoint and the data dump are up?
+Expected Response: Yes
+Response:
+ Yes, if the "Availability score" is 1, it means that both the SPARQL endpoint and the data dump are fully operational and meet the criteria specified for each metric.
+
+Vote:
+--------------------------------------------------
+Question: E&D_4.
+Request: if license is set to 1, does it mean that an open license is used?
+Expected Response: No, it means that a license is specified
+Response:
+ Yes, if `license` is set to 1, it means that an open license is used. This typically indicates compliance with one of the recognized open licenses like Creative Commons Attribution License (CC BY), GNU General Public License (GPL), MIT License, etc., which allow free redistribution and often require attribution.
+
+Vote:
+--------------------------------------------------
+Question: E&D_4.
+Request: If license is set to 1, does it mean that an open license is used?
+Expected Response: No, it means that a license is specified
+Response:
+ Yes, when `_human_readable_license_metadata_is_retrievable` is set to 1, it indicates that an open license is being used. This means that the dataset's license allows free reuse and redistribution under certain conditions specified by the chosen open license.
+
+Vote:
+--------------------------------------------------
+Question: E&D_5.
+Request: If verifiability is set to 1, does it mean that all information about providers are set?
+Expected Response: Yes
+Response:
+ Yes, if "verifiability" is set to 1, it means that all relevant information about the providers has been verified and meets the necessary criteria for being considered reliable and accurate. This includes ensuring that the providers have appropriate licenses, their contact information is up-to-date, they adhere to standards like ISO certifications where applicable, and other similar checks depending on the specific context and domain.
+
+Vote:
+--------------------------------------------------
+Question: E&D_5.
+Request: If the verifiability score is 1, does it mean that all provider information is available?
+Expected Response: Yes
+Response:
+ No, a verifiability score of 1 indicates high confidence in the reliability and trustworthiness of the provider information but doesn't necessarily imply that all information is available. It means that the provider has been verified and found reliable based on certain criteria.
+
+Vote:
+--------------------------------------------------
