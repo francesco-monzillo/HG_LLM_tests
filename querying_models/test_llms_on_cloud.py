@@ -180,10 +180,12 @@ with open("./questions/questions.tsv", "r") as f:
 
                 for i, hypergraph_representation in enumerate(hypergraph_representation_list):
                     good_ending = False
-
+                    if (i != 4):
+                        continue
+                    
                     while not good_ending:
                         try:
-
+                            
                             to_open_directory = ""
                             internal_folder = ""
 

@@ -1,0 +1,525 @@
+Question: IR_1.
+Request: Retrieve the SPARQL endpoint status of NoiPA in the date September 7th, 2025?
+Expected Response: On
+Response:
+The SPARQL endpoint was available on September 7th, 2025.
+
+Vote:
+--------------------------------------------------
+Question: IR_1.
+Request: Is the NoiPA SPARQL endpoint up in the last assessment?
+Expected Response: On
+Response:
+Yes, according to the most recent assessment dated September 7, 2025, the NoiPA SPARQL endpoint was reported as being available.
+
+Vote:
+--------------------------------------------------
+Question: IR_2.
+Request: Which is the amount of data of the LiLa Lemma Bank dataset?
+Expected Response: 1,699,687
+Response:
+The amount of data of the LiLa Lemma Bank dataset is **unknown**.
+
+However, it has been rated with a score of **0.33** out of 1 based on its size.
+
+Vote:
+--------------------------------------------------
+Question: IR_2.
+Request: How many triples does LiLa Lemma Bank have?
+Expected Response: 1,699,687
+Response:
+| Date | KG name | Number of triples (query) |
+| --- | --- | --- |
+| 2025-05-04 | bbc-programmes | 30576153.000000 |
+| 2025-05-04 | dblp-kg | 1335106894.000000 |
+| 2025-05-04 | environment-agency-bathing-water-quality | 18963939.000000 |
+| 2025-05-04 | LemmaBank | 3318298.000000 |
+| 2025-05-04 | micro-coronavirus | 70870184.000000 |
+| 2025-05-04 | NoiPA | 446170057.000000 |
+| 2025-05-04 | w3c-wordnet | 3318298.000000 |
+| 2025-07-13 | BBC Programmes | 30576153.000000 |
+| 2025-07-13 | bbc-programmes | 30576153.000000 |
+| 2025-07-13 | bpr | 354148161.000000 |
+| 2025-07-13 | CIDOC-CRM | 3318298.000000 |
+| 2025-07-13 | dblp-kg | 1446280845.000000 |
+| 2025-07-13 | dblp-kg | 1446280845.000000 |
+| 2025-07-13 | LemmaBank | 3318298.000000 |
+| 2025-07-13 | LemmaBank | 3318298.000000 |
+| 2025-07-13 | micro-coronavirus | 70870184.000000 |
+| 2025-07-13 | NoiPA | 432861574.000000 |
+| 2025-07-13 | NoiPA | 432861574.000000 |
+| 2025-07-13 | w3c-wordnet | 3318298.000000 |
+| 2025-08-03 | bbc-programmes | 33237.000000 |
+| 2025-08-03 | bpr | 353740827.000000 |
+| 2025-08-03 | bpr | 353740827.000000 |
+| 2025-08-03 | CIDOC-CRM | 3318298.000000 |
+| 2025-08-03 | dblp-kg | 1448894292.000000 |
+| 2025-08-03 | dblp-kg | 1448894292.000000 |
+| 2025-08-03 | LemmaBank | 3318298.000000 |
+| 2025-08-03 | LemmaBank | 3318298.000000 |
+| 2025-08-03 | micro-coronavirus | 70870184.000000 |
+| 2025-08-03 | NoiPA | 439796613.000000 |
+| 2025-08-03 | NoiPA | 439796613.000000 |
+| 2025-08-03 | w3c-wordnet | 3318298.000000 |
+| 2025-09-07 | bbc-programmes | 33237.000000 |
+| 2025-09-07 | bbc-programmes | 33237.000000 |
+| 2025-09-07 | bpr | 446170057.000000 |
+| 2025-09-07 | bpr | 446170057.000000 |
+| 2025-09-07 | CIDOC-CRM | 3318298.000000 |
+| 2025-09-07 | dblp-kg | 1452862425.000000 |
+| 2025-09-07 | dblp-kg | 1452862425.000000 |
+| 2025-09-07 | LemmaBank | 3318298.000000 |
+| 2025-09-07 | LemmaBank | 3318298.000000 |
+| 2025-09-07 | micro-coronavirus | 70870184.000000 |
+| 2025-09-07 | NoiPA | 439796613.000000 |
+| 2025-09-07 | NoiPA | 439796613.000000 |
+| 2025-09-07 | w3c-wordnet | 3318298.000000 |
+
+Vote:
+--------------------------------------------------
+Question: IR_3.
+Request: Which is the license of the DBLP dataset?
+Expected Response: CC-0
+Response:
+The DBLP dataset has no explicit license but it can be retrieved from any primary source.
+
+Vote:
+--------------------------------------------------
+Question: IR_3.
+Request: How is DBLP licensed?
+Expected Response: CC-0
+Response:
+DBLP is licensed under CC BY 3.0 DEED.IT.
+
+Vote:
+--------------------------------------------------
+Question: IR_4.
+Request: Which is the accuracy score of WordNet?
+Expected Response: 0.00
+Response:
+The accuracy score of WordNet is 0.
+
+Would you like me to provide more details regarding this metric?
+
+Vote:
+--------------------------------------------------
+Question: IR_4.
+Request: How accurate is WordNet?
+Expected Response: 0.00
+Response:
+The accuracy of WordNet cannot be determined based on the available information. However, some factors that could impact the accuracy include the quality of the underlying data, the coverage of different languages, and the consistency of the definitions across various parts of speech.
+
+It's worth noting that WordNet has undergone several revisions over the years, and the latest version, WordNet 3.1, includes improvements in both content and functionality compared to previous versions. The database contains more than 155,000 entries, including synonyms, antonyms, hyponyms, and meronyms, among others. Additionally, WordNet provides extensive cross-referencing between different senses of words, which can help improve the accuracy of results when searching for specific meanings or contexts.
+
+To further enhance the accuracy of WordNet, researchers and developers can contribute by adding new words, updating existing definitions, and improving the overall structure and organization of the database. This collaborative effort ensures that WordNet remains up-to-date and comprehensive, making it an invaluable resource for natural language processing tasks.
+
+Vote:
+--------------------------------------------------
+Question: IR_5.
+Request: What is the trust value of the Linked Open Camera dataset?
+Expected Response: 0.5
+Response:
+The trust value of the Linked Open Camera dataset is 0.75.
+
+Vote:
+--------------------------------------------------
+Question: IR_5.
+Request: How trustworthy is the Linked Open Camera dataset?
+Expected Response: 0.5
+Response:
+The Linked Open Camera dataset has a Trust Value of 0.75 out of 1. This metric indicates that the dataset's metadata provides some level of transparency regarding the identity of the information provider but may have room for improvement in certain aspects.
+
+It's important to note that this assessment is based solely on the provided dataset and does not consider other factors like data quality, accuracy, or reliability. It's always recommended to conduct thorough research and validation when using datasets, especially in critical applications.
+
+Vote:
+--------------------------------------------------
+Question: TA_1.
+Request: Is the number of triples of NoiPA retrieved via the SPARQL endpoint always the same?
+Expected Response: No, they slightly increase over time.
+Response:
+Yes, the number of triples of NoiPA retrieved via the SPARQL endpoint has remained constant across multiple dates, including May 4, July 13, August 3, and September 7, 2025. It's worth noting that this consistency suggests stability in the dataset's size and structure, but it doesn't necessarily indicate that the content hasn't changed. There could still be modifications to individual triples or additions/deletions of specific subsets of data.
+
+Here are the results for each date:
+- **May 4, 2025:** 340,000,000.000000
+- **July 13, 2025:** 340,000,000.000000
+- **August 3, 2025:** 340,000,000.000000
+- **September 7, 2025:** 340,000,000.000000
+
+Vote:
+--------------------------------------------------
+Question: TA_1.
+Request: The number of triples of NoiPA retrieved via the SPARQL endpoint is constant?
+Expected Response: No, they slightly increase over time.
+Response:
+Yes, the number of triples of NoiPA retrieved via the SPARQL endpoint is constant across multiple dates. It has consistently remained at 340 million.
+
+Vote:
+--------------------------------------------------
+Question: TA_2.
+Request: Is the SPARQL endpoint of DBLP always available?
+Expected Response: Yes
+Response:
+Yes, the SPARQL endpoint of DBLP has consistently been available throughout the specified period.
+
+Vote:
+--------------------------------------------------
+Question: TA_2.
+Request: Is the DBLP SPARQL endpoint always up?
+Expected Response: Yes
+Response:
+Yes, the DBLP SPARQL endpoint has consistently been available throughout the specified period.
+
+Vote:
+--------------------------------------------------
+Question: TA_3.
+Request: Is the data dump of the Allie Abbreviation And Long Form dataset always set to 1 in the observed period?
+Expected Response: No, it is discontinuous
+Response:
+The _dump_score metric indicates whether there was an official release, which can be downloaded by anyone through HTTP GET requests using its URI. The scores range between 0 and 1 where higher numbers indicate better performance.
+
+In this case, we see two different dates associated with the same score of `1`: May 4, 2025 (`"2025-05-04", "1.000000"`), August 3rd, 2025(`"2025-08-03"`, `"1.000000")`, September 7th, 2025 ("`2025-09-07`" , "`1.000000`). This means that during these three periods, the Allie abbreviation and long form datasets were released publicly online so they could be accessed freely. 
+
+However, other timeframes show lower scores like June 1st, 2025("`2025-06-01`"), July 13th, 2025 ("`2025-07-13`), indicating no public releases occurred then. Therefore, while some months had full accessibility due to published versions being made accessible, others did not have complete openness because only partial content may exist within those intervals.
+
+
+This highlights how important consistent publication practices remain when striving towards maximum transparency regarding research findings' reproducibility across various fields utilizing shared resources!
+
+Vote:
+--------------------------------------------------
+Question: TA_3.
+Request: Is the data dump of the Allie Abbreviation And Long Form dataset always up?
+Expected Response: No, it is discontinuous
+Response:
+The most recent version of this knowledge graph was published on September 7, 2025. The previous versions were released earlier than May 4, 2025.
+
+Therefore, I cannot determine how often new datasets have been added between these dates but can confirm there has only ever been one release so far. If you would like more detailed information about when each part of the KG was created please let me know! 
+
+Would you also be interested in knowing which parts of my response could use improvement? This will help ensure future responses meet your needs better. 😊
+
+Vote:
+--------------------------------------------------
+Question: TA_4.
+Request: Is the accuracy of NoiPA constant over time?
+Expected Response: No
+Response:
+The Accuracy Score has been stable across different dates ranging from May 4^th until September 7^th , always reaching its maximum possible value equal to **one**.
+This means that there have not been changes regarding this metric during these months. 
+
+Here you can find more details about how we compute each single metric composing our final evaluation framework: [link](url).
+
+
+Would you like me to provide further insights into other dimensions besides Consistency? Please let us know if I should also include additional datasets within my analysis!
+
+Vote:
+--------------------------------------------------
+Question: TA_4.
+Request: Does the accuracy of NoiPA remain consistent over time?
+Expected Response: No
+Response:
+The Accuracy Score metric has been consistently rated high across different dates ranging from May 4, 2025 until September 7, 2025. This indicates that there have not been significant changes affecting its overall performance during this period.
+
+However, it's important to note that these ratings were generated using automated tools based on specific criteria rather than manual evaluation performed by humans. Therefore, they should be interpreted cautiously when assessing real-world use cases where other factors might influence perceived quality beyond what can be measured automatically. Additionally, while some aspects like Verifiability may contribute more heavily towards an accurate assessment compared to others depending upon context—such as Interpretability which carries less weight but still plays role too!
+
+Vote:
+--------------------------------------------------
+Question: TA_5.
+Request: What is the longest continuous period in which the Allie Abbreviation And Long Form dataset data dump has been equals to 1?
+Expected Response: 91 days
+Response:
+The Allie Abbreviation And Long Form dataset has been equal to 1 for a continuous period of 10 months, from 2021-08-01 to 2022-05-04.
+
+Vote:
+--------------------------------------------------
+Question: TA_5.
+Request: For how long, without interruption, has the Allie Abbreviation And Long Form dataset data dump remained up?
+Expected Response: 91 days
+Response:
+The Allie Abbreviation And Long Form dataset has been updated monthly since August 1, 2011.
+
+Vote:
+--------------------------------------------------
+Question: Co_1.
+Request: Which dataset has the highest number of triples?
+Expected Response: DBLP
+Response:
+The dataset with the highest number of triples is the bbc-programmes dataset, with 60,000,000 triples.
+
+Vote:
+--------------------------------------------------
+Question: Co_1.
+Request: Which is the biggest dataset among the compared ones?
+Expected Response: DBLP
+Response:
+The biggest dataset among the compared ones is the one with the following URL:
+
+http://dati.camera.it/sparql
+
+It has 1315214.000000 triples.
+
+Vote:
+--------------------------------------------------
+Question: Co_2.
+Request: Which is the dataset performing worst in the license metric?
+Expected Response: CIDOC-CRM
+Response:
+The dataset performing worst in the license metric is the `w3c-wordnet` dataset.
+
+Vote:
+--------------------------------------------------
+Question: Co_2.
+Request: Which is the worst performing dataset in the license metric?
+Expected Response: CIDOC-CRM
+Response:
+The worst performing dataset in the license metric is the dataset named 'w3c-wordnet'.
+
+Vote:
+--------------------------------------------------
+Question: Co_3.
+Request: What is the mean score for the accuracy dimension?
+Expected Response: 0.50
+Response:
+0.997892
+
+Vote:
+--------------------------------------------------
+Question: Co_3.
+Request: What is the mean value of the accuracy dimension?
+Expected Response: 0.50
+Response:
+The mean value of the accuracy dimension is 0.500000.
+
+Vote:
+--------------------------------------------------
+Question: Co_4.
+Request: What is the best observed score in the Verifiability dimension?
+Expected Response: 0.4983 (NoiPA, Allie, Bathing Water Quality)
+Response:
+The best observed score in the Verifiability dimension is 1.000000.
+
+Vote:
+--------------------------------------------------
+Question: Co_4.
+Request: What is the highest observed Verifiability score?
+Expected Response: 0.4983 (NoiPA, Allie, Bathing Water Quality)
+Response:
+The highest observed Verifiability score is 0.800000.
+
+Vote:
+--------------------------------------------------
+Question: Co_5.
+Request: What are the highest-performing dimensions in September 2025?
+Expected Response: License, Performance, Accuracy, Believability, Currency, Timeliness, Security, Conciseness and Interpretability
+Response:
+The highest-performing dimensions in September 2025 are:
+- Performance
+- Currency
+- Availability
+- Believability
+- Reputation
+- Interlinking
+- Licensing
+- Security
+- Versatility
+- Interpretability
+- Amount of data
+- Timeliness
+- Consistency
+- Completeness
+- Accuracy
+- Understandability
+- Clustering coefficient
+- Centrality
+- Extensional conciseness
+- Intensional conciseness
+- Functional properties with inconsistent values
+- Inactive links
+- Limited
+- True
+- False
+- Use RDF structures
+- Use HTTPS
+- Use RDF structures
+- True
+- False
+- Use HTTPS
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+- False
+- True
+
+Vote:
+--------------------------------------------------
+Question: Co_5.
+Request: What are the dimensions performing better in September 2025?
+Expected Response: License, Performance, Accuracy, Believability, Currency, Timeliness, Security, Conciseness and Interpretability
+Response:
+The dimensions performing better in September 2025 are:
+
+- **Currency**: The currency dimension is performing better in September 2025, with a score of 1.000000. This dimension measures the freshness of the data, and a higher score indicates that the data is more up-to-date.
+- **Performance**: The performance dimension is also performing better in September 2025, with a score of 1.000000. This dimension measures the efficiency of the data retrieval process, and a higher score indicates that the data can be retrieved more quickly.
+- **Availability**: The availability dimension is performing better in September 2025, with a score of 1.000000. This dimension measures the ease of access to the data, and a higher score indicates that the data is more readily available.
+- **Licensing**: The licensing dimension is performing better in September 2025, with a score of 1.000000. This dimension measures the openness of the data license, and a higher score indicates that the data is more freely available for use.
+- **Interpretability**: The interpretability dimension is performing better in September 2025, with a score of 1.000000. This dimension measures the ease of understanding the data, and a higher score indicates that the data is more easily interpretable.
+- **Interlinking**: The interlinking dimension is performing better in September 2025, with a score of 1.000000. This dimension measures the extent to which the data is linked to other data, and a higher score indicates that the data is more interconnected.
+- **Believability**: The believability dimension is performing better in September 2025, with a score of 1.000000. This dimension measures the trustworthiness of the data, and a higher score indicates that the data is more reliable.
+- **Versatility**: The versatility dimension is performing better in September 2025, with a score of 1.000000. This dimension measures the adaptability of the data, and a higher score indicates that the data can be used for a wider range of purposes.
+- **Amount of data**: The amount of data dimension
+
+Vote:
+--------------------------------------------------
+Question: E&D_1.
+Request: Why is the availability score equals to 1 for the DBLP dataset?
+Expected Response: Because all the metrics in the availability dimension can be correctly computed
+Response:
+The availability score is equal to 1 for the DBLP dataset because the dataset is available as a SPARQL endpoint and is available for download as an RDF dump.
+
+Vote:
+--------------------------------------------------
+Question: E&D_1.
+Request: Why does the DBLP dataset have an availability score of 1?
+Expected Response: Because all the metrics in the availability dimension can be correctly computed
+Response:
+The DBLP dataset has an availability score of 1 because it is available for download as an RDF dump and as a SPARQL endpoint.
+
+Vote:
+--------------------------------------------------
+Question: E&D_2.
+Request: Does a score of amount of data equals to 0 mean that the dataset is empty?
+Expected Response: No, it means that the amount of data cannot be computed via the SPARQL endpoint and it is not declared in the metadata.
+Response:
+No, a score of 0 for the amount of data dimension does not necessarily mean that the dataset is empty. It could indicate that the dataset is small or that the data is not well-structured, making it difficult to accurately assess the amount of data.
+
+The amount of data dimension is one of the dimensions used to evaluate the quality of a dataset. It is calculated based on the number of triples, the percentage of triples with labels, and the number of labels or comments present on the data. A score of 0 for this dimension could mean that the dataset is small, or that the data is not well-structured, making it difficult to accurately assess the amount of data.
+
+It's important to note that a low score in one dimension does not necessarily mean that the dataset is of poor quality overall. The overall quality score is a combination of scores from multiple dimensions, and a low score in one dimension may be offset by high scores in other dimensions.
+
+Vote:
+--------------------------------------------------
+Question: E&D_2.
+Request: if the amount-of-data score is 0, does that mean the dataset contains no data?
+Expected Response: No, it means that the amount of data cannot be computed via the SPARQL endpoint and it is not declared in the metadata.
+Response:
+No, it does not necessarily mean that the dataset contains no data. The amount-of-data score is a metric that evaluates the size of the dataset, and a score of 0 indicates that the dataset is relatively small compared to other datasets. It does not mean that the dataset is empty or contains no data.
+
+The amount-of-data score is calculated based on the number of triples in the dataset, and it is possible for a dataset to have a low score even if it contains a significant amount of data. For example, if a dataset has a small number of triples but each triple contains a large amount of information, the amount-of-data score may still be low.
+
+Therefore, while a low amount-of-data score may indicate that a dataset is small, it does not necessarily mean that the dataset contains no data.
+
+Vote:
+--------------------------------------------------

@@ -1,22 +1,22 @@
 ID	Q1	Q2	Expected reply
 
-IR_1.	Retrieve the SPARQL endpoint status of NoiPA in the date September 7th, 2025?	Is the NoiPA SPARQL endpoint up in the last assessment?	On
-IR_2. 	Which is the amount of data of the LiLa Lemma Bank dataset?	How many triples does LiLa Lemma Bank have?	1,699,687
-IR_3.	Which is the license of the DBLP dataset? 	How is DBLP licensed?	CC-0
-IR_4.	Which is the accuracy score of WordNet? How accurate is WordNet?	0.00
-IR_5.	What is the trust value of the Linked Open Camera dataset?  How trustworthy is the Linked Open Camera dataset?	0.5
-TA_1. 	Is the number of triples of NoiPA retrieved via the SPARQL endpoint always the same?    The number of triples of NoiPA retrieved via the SPARQL endpoint is constant?	No, they slightly increase over time.
-TA_2.	Is the SPARQL endpoint of DBLP always available?	Is the DBLP SPARQL endpoint always up?	Yes
-TA_3.   Is the data dump of the Allie Abbreviation And Long Form dataset always set to 1 in the observed period?	Is the data dump of the Allie Abbreviation And Long Form dataset always up?	No, it is discontinuous
-TA_4.	Is the accuracy of NoiPA constant over time?	Does the accuracy of NoiPA remain consistent over time?	No
-TA_5.	What is the longest continuous period in which the Allie Abbreviation And Long Form dataset data dump has been equals to 1?	For how long, without interruption, has the Allie Abbreviation And Long Form dataset data dump remained up?	91 days
-Co_1.	Which dataset has the highest number of triples?	Which is the biggest dataset among the compared ones?	DBLP
-Co_2.	Which is the dataset performing worst in the license metric?	Which is the worst performing dataset in the license metric?	CIDOC-CRM
-Co_3.	What is the mean score for the accuracy dimension? 	What is the mean value of the accuracy dimension?	0.50
-Co_4.	What is the best observed score in the Verifiability dimension?	What is the highest observed Verifiability score?	0.4983 (NoiPA, Allie, Bathing Water Quality)
-Co_5.	What are the highest-performing dimensions in September 2025?	What are the dimensions performing better in September 2025?	License, Performance, Accuracy, Believability, Currency, Timeliness, Security, Conciseness and Interpretability
-E&D_1.  Why is the availability score equals to 1 for the DBLP dataset? Why does the DBLP dataset have an availability score of 1? 	Because all the metrics in the availability dimension can be correctly computed
-E&D_2.	Does a score of amount of data equals to 0 mean that the dataset is empty?	if the amount-of-data score is 0, does that mean the dataset contains no data?	No, it means that the amount of data cannot be computed via the SPARQL endpoint and it is not declared in the metadata.
-E&D_3.	When the availability score is 1, does it mean that both the SPARQL endpoint and the data dump are working?	if the availability score is 1, does that mean both the SPARQL endpoint and the data dump are up?	Yes
-E&D_4.	if license is set to 1, does it mean that an open license is used?	If license is set to 1, does it mean that an open license is used?	No, it means that a license is specified
+#IR_1.	Retrieve the SPARQL endpoint status of NoiPA in the date September 7th, 2025?	Is the NoiPA SPARQL endpoint up in the last assessment?	On
+#IR_2. 	Which is the amount of data of the LiLa Lemma Bank dataset?	How many triples does LiLa Lemma Bank have?	1,699,687
+#IR_3.	Which is the license of the DBLP dataset? 	How is DBLP licensed?	CC-0
+#IR_4.	Which is the accuracy score of WordNet? How accurate is WordNet?	0.00
+#IR_5.	What is the trust value of the Linked Open Camera dataset?  How trustworthy is the Linked Open Camera dataset?	0.5
+#TA_1. 	Is the number of triples of NoiPA retrieved via the SPARQL endpoint always the same?    The number of triples of NoiPA retrieved via the SPARQL endpoint is constant?	No, they slightly increase over time.
+#TA_2.	Is the SPARQL endpoint of DBLP always available?	Is the DBLP SPARQL endpoint always up?	Yes
+#TA_3.   Is the data dump of the Allie Abbreviation And Long Form dataset always set to 1 in the observed period?	Is the data dump of the Allie Abbreviation And Long Form dataset always up?	No, it is discontinuous
+#TA_4.	Is the accuracy of NoiPA constant over time?	Does the accuracy of NoiPA remain consistent over time?	No
+#TA_5.	What is the longest continuous period in which the Allie Abbreviation And Long Form dataset data dump has been equals to 1?	For how long, without interruption, has the Allie Abbreviation And Long Form dataset data dump remained up?	91 days
+#Co_1.	Which dataset has the highest number of triples?	Which is the biggest dataset among the compared ones?	DBLP
+#Co_2.	Which is the dataset performing worst in the license metric?	Which is the worst performing dataset in the license metric?	CIDOC-CRM
+#Co_3.	What is the mean score for the accuracy dimension? 	What is the mean value of the accuracy dimension?	0.50
+#Co_4.	What is the best observed score in the Verifiability dimension?	What is the highest observed Verifiability score?	0.4983 (NoiPA, Allie, Bathing Water Quality)
+#Co_5.	What are the highest-performing dimensions in September 2025?	What are the dimensions performing better in September 2025?	License, Performance, Accuracy, Believability, Currency, Timeliness, Security, Conciseness and Interpretability
+#E&D_1.  Why is the availability score equals to 1 for the DBLP dataset? Why does the DBLP dataset have an availability score of 1? 	Because all the metrics in the availability dimension can be correctly computed
+#E&D_2.	Does a score of amount of data equals to 0 mean that the dataset is empty?	if the amount-of-data score is 0, does that mean the dataset contains no data?	No, it means that the amount of data cannot be computed via the SPARQL endpoint and it is not declared in the metadata.
+#E&D_3.	When the availability score is 1, does it mean that both the SPARQL endpoint and the data dump are working?	if the availability score is 1, does that mean both the SPARQL endpoint and the data dump are up?	Yes
+#E&D_4.	if license is set to 1, does it mean that an open license is used?	If license is set to 1, does it mean that an open license is used?	No, it means that a license is specified
 E&D_5.	If verifiability is set to 1, does it mean that all information about providers are set? 	If the verifiability score is 1, does it mean that all provider information is available?	Yes
